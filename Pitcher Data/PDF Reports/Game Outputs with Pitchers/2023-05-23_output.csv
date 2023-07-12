@@ -1,0 +1,90 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM,Pitcher Top,Pitcher Bottom
+1,37,Kyle Kasser,TOP,"Ball, 37 Kyle Kasser advances to 1st (single)",1,0,1,,,Ty Culbreth,
+2,1,Chase Harris,TOP,"1 Chase Harris advances to 1st (SAC E1), 37 Kyle Kasser advances to 2nd (1)",0,0,,,,Ty Culbreth,
+3,8,Vince Fernandez,TOP,"8 Vince Fernandez advances to 1st (single), 37 Kyle Kasser advances to 3rd (8)",0,0,1,,,Ty Culbreth,
+4,4,Miguel Sierra,TOP,"Ball, Foul, 8 Vince Fernandez advances to 2nd (4),Swinging Strike, 4 Miguel Sierra putout (strike out) for out number 1",1,2,,1,,Ty Culbreth,
+5,7,Matt Lloyd,TOP,"Swinging Strike, Swinging Strike, Ball, Foul, Ball, Foul, Ball, 7 Matt Lloyd advances to 1st (single), 1 Chase Harris advances to 2nd (7), 37 Kyle Kasser Scores Earned (7), 8 Vince Fernandez Scores Earned (7)",3,2,1,,,Ty Culbreth,
+6,24,Wilfredo Gimenez,TOP,"Called Strike, Called Strike, Ball, Ball, Ball, 24Wilfredo Gimenez putout (fly out to right field)for out number 2",3,2,,1,,Ty Culbreth,
+7,18,Daniel Perez,TOP,"Called Strike, Called Strike, 18 Daniel Perez advances to 1st (single), 7 Matt Lloyd advances to 2nd(18), 1 Chase Harris advances to 3rd (18)",0,2,1,,,Ty Culbreth,
+8,5,Eury Perez,TOP,"Foul, Foul, 1 Chase Harris Scores Unearned (5), 7Matt Lloyd Scores Unearned (5), 18 Daniel Perez Scores Unearned (5), 5 Eury Perez Scores Unearned (home run)",0,2,1,,,Ty Culbreth,
+9,33,Jake Ortega,TOP,"Called Strike, 33 Jake Ortega putout (6) for out number 3",0,1,,1,,Ty Culbreth,
+10,1,Wyatt Ulrich,BOTTOM,"Ball, Called Strike, 1 Wyatt Ulrich advances to 1st (single)",1,1,1,,,,S Bates
+11,21,Darnell Sweeney,BOTTOM,"Called Strike, Ball, Ball, 21 Darnell Sweeney advances to 2nd (double), 1 Wyatt Ulrich Scores Earned(error by the right fielder)",2,1,1,,,,S Bates
+12,15,Welington Dotel,BOTTOM,"Ball, 21 Darnell Sweeney advances to 3rd (15), 15Welington Dotel putout (4-3) for out number 1",1,0,,,1,,S Bates
+13,11,Jabari Henry,BOTTOM,"Ball, Called Strike, Called Strike, Ball, 11 Jabari Henry putout (strike out swinging) for out number 2",2,2,,,1,,S Bates
+14,3,Jordan Barth,BOTTOM,"Ball, Called Strike, Foul, Foul, 3 Jordan Barth advances to 1st (single), 21 Darnell Sweeney ScoresEarned (3)",1,2,1,,,,S Bates
+15,16,Hunter Clanin,BOTTOM,"Foul, Foul, Ball, 3 Jordan Barth advances to 2nd (stolen base), 3 Jordan Barth advances to 3rd (error by the catcher), Ball, 16 Hunter Clanin advancesto 2nd (double), 3 Jordan Barth Scores Earned (16)",2,2,1,,,,S Bates
+16,0,Osvaldo Martinez,BOTTOM,"Called Strike, Foul, Foul, Ball, 0 Osvaldo Martinez putout (6) for out number 3",1,2,,,1,,S Bates
+17,37,Kyle Kasser,TOP,"Called Strike, Swinging Strike, 37 Kyle Kasser advances to 1st (single)",0,2,1,,,Ty Culbreth,
+18,1,Chase Harris,TOP,"1 Chase Harris advances to 1st (fielder's choice),37 Kyle Kasser putout (5-4) for out number 1",0,0,,1,,Ty Culbreth,
+19,8,Vince Fernandez,TOP,"Ball, 1 Chase Harris advances to 2nd (stolen base), Foul, Ball, Foul, Foul, Ball, 1 Chase Harris advances to 3rd (8), 8 Vince Fernandez putout (1-3) for out number 2",3,2,,1,,Ty Culbreth,
+20,4,Miguel Sierra,TOP,"Called Strike, Called Strike, 4 Miguel Sierra putout (strike out) for out number 3",0,2,,1,,Ty Culbreth,
+21,5,Trevor Achenbach,BOTTOM,"Ball, Called Strike, Ball, Called Strike, 5 TrevorAchenbach putout (fly out to left field) for outnumber 1",2,2,,,1,,S Bates
+22,33,Tyler Ryan,BOTTOM,"Ball, Called Strike, Swinging Strike, 33 Tyler Ryan putout (strike out swinging) for out number 2",1,2,,,1,,S Bates
+23,1,Wyatt Ulrich,BOTTOM,"Ball, Called Strike, Ball, Ball, Called Strike, 1Wyatt Ulrich putout (fly out to left field) for out number 3",3,2,,,1,,S Bates
+24,7,Matt Lloyd,TOP,"Ball, Ball, Ball, Called Strike, 7 Matt Lloyd putout (fly out to center field) for out number 1",3,1,,1,,Ty Culbreth,
+25,24,Wilfredo Gimenez,TOP,"Ball, 24 Wilfredo Gimenez putout (1-3) for out number 2",1,0,,1,,Ty Culbreth,
+26,18,Daniel Perez,TOP,"Ball, Ball, Ball, 18 Daniel Perez advances to 1st(walk)",3,0,,,,Ty Culbreth,
+27,5,Eury Perez,TOP,"Foul, 5 Eury Perez putout (fly out to left field)for out number 3",0,1,,1,,Ty Culbreth,
+28,21,Darnell Sweeney,BOTTOM,21 Darnell Sweeney advances to 1st (single),0,0,1,,,,S Bates
+29,15,Welington Dotel,BOTTOM,"Called Strike, Ball, Foul, 21 Darnell Sweeney advances to 2nd (15), 15 Welington Dotel putout (6-3)for out number 1",1,2,,,1,,S Bates
+30,11,Jabari Henry,BOTTOM,"Called Strike, Called Strike, Ball, Ball, 11 Jabari Henry putout (3) for out number 2",2,2,,,1,,S Bates
+31,3,Jordan Barth,BOTTOM,"Foul, Foul, 3 Jordan Barth putout (3un) for out number 3",0,2,,,1,,S Bates
+32,33,Jake Ortega,TOP,"Ball, Called Strike, Foul, Ball, 33 Jake Ortega putout (6) for out number 1",2,2,,1,,Ty Culbreth,
+33,37,Kyle Kasser,TOP,37 Kyle Kasser putout (fly out to right field) forout number 2,0,0,,1,,Ty Culbreth,
+34,1,Chase Harris,TOP,"Called Strike, Called Strike, Ball, Ball, Foul, 1Chase Harris advances to 1st (single)",2,2,1,,,Ty Culbreth,
+35,8,Vince Fernandez,TOP,"Called Strike, Foul, Ball, Foul, Foul, Ball, 8 Vince Fernandez putout (fly out to center field) forout number 3",2,2,,1,,Ty Culbreth,
+36,16,Hunter Clanin,BOTTOM,"Ball, Ball, Ball, 16 Hunter Clanin advances to 1st(walk)",3,0,,,,,S Bates
+37,0,Osvaldo Martinez,BOTTOM,"Ball, Called Strike, Foul, 16 Hunter Clanin putout(6-4) for out number 1, 0 Osvaldo Martinez putout(6-4-3 DP) for out number 2",1,2,,,1,,S Bates
+38,5,Trevor Achenbach,BOTTOM,5 Trevor Achenbach putout (fly out to right field)for out number 3,0,0,,,1,,S Bates
+39,4,Miguel Sierra,TOP,"Ball, Ball, Called Strike, 4 Miguel Sierra advances to 2nd (double)",2,1,1,,,Ty Culbreth,
+40,7,Matt Lloyd,TOP,"Ball, Called Strike, 4 Miguel Sierra Scores Earned(7), 7 Matt Lloyd Scores Earned (home run)",1,1,1,,,Ty Culbreth,
+41,24,Wilfredo Gimenez,TOP,"Ball, Ball, Ball, Called Strike, 24 Wilfredo Gimenez putout (fly out to right field) for out number1",3,1,,1,,Ty Culbreth,
+42,18,Daniel Perez,TOP,"Ball, Ball, Called Strike, Foul, 18 Daniel Perez putout (strike out swinging) for out number 2",2,2,,1,,Ty Culbreth,
+43,5,Eury Perez,TOP,"Called Strike, Ball, Foul, 5 Eury Perez putout (6-3) for out number 3",1,2,,1,,Ty Culbreth,
+44,33,Tyler Ryan,BOTTOM,"Swinging Strike, Swinging Strike, Foul, 33 Tyler Ryan putout (strike out swinging) for out number 1",0,2,,,1,,S Bates
+45,1,Wyatt Ulrich,BOTTOM,"Foul, Called Strike, Ball, Ball, Ball, 1 Wyatt Ulrich putout (fly out to right field) for out number2",3,2,,,1,,S Bates
+46,21,Darnell Sweeney,BOTTOM,"Ball, 21 Darnell Sweeney putout (fly out to the third baseman) for out number 3",1,0,,,1,,S Bates
+47,33,Jake Ortega,TOP,"Foul, Ball, 33 Jake Ortega putout (4-3) for out number 1",1,1,,1,,D Rademacher,
+48,37,Kyle Kasser,TOP,37 Kyle Kasser putout (5-3) for out number 2,0,0,,1,,D Rademacher,
+49,1,Chase Harris,TOP,"Foul, Foul, 1 Chase Harris putout (6) for out number 3",0,2,,1,,D Rademacher,
+50,15,Welington Dotel,BOTTOM,"Ball, Foul, 15 Welington Dotel advances to 1st (single)",1,1,1,,,,S Bates
+51,11,Jabari Henry,BOTTOM,"Foul, Ball, Ball, 15 Welington Dotel advances to 2nd (stolen base), Ball, 11 Jabari Henry advances to 1st (walk)",3,1,,,,,S Bates
+52,3,Jordan Barth,BOTTOM,"Called Strike, Foul, 15 Welington Dotel advances to 3rd (3), 3 Jordan Barth putout (fly out to center field) for out number 1",0,2,,,1,,S Bates
+53,16,Hunter Clanin,BOTTOM,"15 Welington Dotel Scores Earned (16), 11 Jabari Henry Scores Earned (16), 16 Hunter Clanin Scores Earned (home run)",0,0,1,,,,S Bates
+54,0,Osvaldo Martinez,BOTTOM,"Ball, Called Strike, 0 Osvaldo Martinez putout (6-3) for out number 2",1,1,,,1,,S Bates
+55,5,Trevor Achenbach,BOTTOM,"Called Strike, Foul, 5 Trevor Achenbach putout (fly out to right field) for out number 3",0,2,,,1,,S Bates
+56,8,Vince Fernandez,TOP,"Foul, Ball, Ball, Ball, Foul, 8 Vince Fernandez putout (strike out swinging) for out number 1",3,2,,1,,D Rademacher,
+57,4,Miguel Sierra,TOP,"Called Strike, 4 Miguel Sierra putout (6-3) for out number 2",0,1,,1,,D Rademacher,
+58,7,Matt Lloyd,TOP,"Called Strike, Ball, Foul, Ball, Ball, 7 Matt Lloyd advances to 2nd (double)",3,2,1,,,D Rademacher,
+59,24,Wilfredo Gimenez,TOP,"Called Strike, Ball, Called Strike, 24 Wilfredo Gimenez advances to 1st (single), 7 Matt Lloyd Scores Earned (24)",1,2,1,,,D Rademacher,
+60,18,Daniel Perez,TOP,"Ball, Ball, Ball, Called Strike, 18 Daniel Perez putout (5-3) for out number 3",3,1,,1,,D Rademacher,
+61,33,Tyler Ryan,BOTTOM,"Swinging Strike, 33 Tyler Ryan putout (3) for outnumber 1",0,1,,,1,,B Brosher
+62,1,Wyatt Ulrich,BOTTOM,"Called Strike, Ball, 1 Wyatt Ulrich advances to 1st (single)",1,1,1,,,,B Brosher
+63,21,Darnell Sweeney,BOTTOM,"Swinging Strike, Called Strike, 1 Wyatt Ulrich putout (caught stealing: CS 2-6) for out number 2, Foul, Ball, 21 Darnell Sweeney putout (strike out swinging) for out number 3",1,2,,,1,,B Brosher
+64,5,Eury Perez,TOP,"Ball, Ball, Called Strike, 5 Eury Perez advances to 1st (single)",2,1,1,,,D Rademacher,
+65,33,Jake Ortega,TOP,"Foul, Ball, 33 Jake Ortega advances to 1st (single), 5 Eury Perez advances to 2nd (33)",1,1,1,,,D Rademacher,
+66,37,Kyle Kasser,TOP,"33 Jake Ortega advances to 2nd (37), 5 Eury Perezadvances to 3rd (37), 37 Kyle Kasser putout (5-3 SH) for out number 1",0,0,,1,,D Rademacher,
+67,1,Chase Harris,TOP,"Ball, 33 Jake Ortega advances to 3rd (1), 5 Eury Perez Scores Earned (wild pitch), Foul, Foul, Ball,1 Chase Harris putout (strike out) for out number2",2,2,,1,,D Rademacher,
+68,8,Vince Fernandez,TOP,"Ball, Ball, Ball, Called Strike, Foul, 8 Vince Fernandez advances to 1st (walk)",3,2,,,,D Rademacher,
+69,4,Miguel Sierra,TOP,"Ball, 8 Vince Fernandez advances to 2nd (stolen base), 4 Miguel Sierra advances to 2nd (double), 8 Vince Fernandez Scores Earned (4), 33 Jake Ortega Scores Earned (4)",1,0,1,,,D Rademacher,
+70,7,Matt Lloyd,TOP,"Called Strike, Called Strike, 7 Matt Lloyd advances to 2nd (double), 4 Miguel Sierra Scores Earned (7)",0,2,1,,,D Rademacher,
+71,24,Wilfredo Gimenez,TOP,"Called Strike, 24 Wilfredo Gimenez advances to 1st(single), 7 Matt Lloyd advances to 3rd (24)",0,1,1,,,D Rademacher,
+72,18,Daniel Perez,TOP,"Called Strike, 18 Daniel Perez putout (fly out toleft field) for out number 3",0,1,,1,,D Rademacher,
+73,15,Welington Dotel,BOTTOM,"Called Strike, Ball, 15 Welington Dotel advances to 1st (single)",1,1,1,,,,N Gercken
+74,11,Jabari Henry,BOTTOM,"Called Strike, Ball, Swinging Strike, Ball, Ball,11 Jabari Henry advances to 1st (walk), 15 Welington Dotel advances to 2nd (11)",3,2,,,,,N Gercken
+75,3,Jordan Barth,BOTTOM,"Ball, Called Strike, Ball, 3 Jordan Barth advancesto 1st (fielder's choice), 15 Welington Dotel advances to 3rd (3), 11 Jabari Henry putout (4-6) forout number 1",2,1,,,1,,N Gercken
+76,16,Hunter Clanin,BOTTOM,"15 Welington Dotel Scores Earned (16), 16 Hunter Clanin putout (sacrifice fly to left fielder) for out number 2",0,0,,,1,,N Gercken
+77,0,Osvaldo Martinez,BOTTOM,"Called Strike, 0 Osvaldo Martinez putout (fly outto right field) for out number 3",0,1,,,1,,N Gercken
+78,5,Eury Perez,TOP,"Ball, Called Strike, Ball, Foul, 5 Eury Perez advances to 1st (single)",2,2,1,,,Chris Macca,
+79,33,Jake Ortega,TOP,"Ball, Ball, Ball, Called Strike, 33 Jake Ortega advances to 1st (walk), 5 Eury Perez advances to 2nd(33)",3,1,,,,Chris Macca,
+80,37,Kyle Kasser,TOP,"Ball, Ball, Foul, Ball, 37 Kyle Kasser putout (flyout to center field) for out number 1",3,1,,1,,Chris Macca,
+81,1,Chase Harris,TOP,"1 Chase Harris advances to 1st (single), 33 Jake Ortega advances to 2nd (1), 5 Eury Perez advances to 3rd (1)",0,0,1,,,Chris Macca,
+82,8,Vince Fernandez,TOP,"Foul, Ball, 1 Chase Harris Scores Earned (8), 8 Vince Fernandez Scores Earned (home run), 5 Eury Perez Scores Earned (8), 33 Jake Ortega Scores Earned(8)",1,1,1,,,Chris Macca,
+83,4,Miguel Sierra,TOP,"Called Strike, Swinging Strike, Ball, Ball, Foul,4 Miguel Sierra putout (strike out) for out number2",2,2,,1,,Chris Macca,
+84,7,Matt Lloyd,TOP,"Called Strike, Ball, 7 Matt Lloyd advances to 1st(single)",1,1,1,,,Chris Macca,
+85,24,Wilfredo Gimenez,TOP,"Foul, Ball, Swinging Strike, Foul, Foul, Foul, Ball, 24 Wilfredo Gimenez advances to 1st (fielder'schoice), 7 Matt Lloyd putout (6un) for out number3",2,2,,1,,Chris Macca,
+86,5,Trevor Achenbach,BOTTOM,"Foul, Called Strike, Ball, 5 Trevor Achenbach putout (strike out swinging) for out number 1",1,2,,,1,,S Rackoski
+87,33,Tyler Ryan,BOTTOM,"Swinging Strike, Called Strike, Foul, 33 Tyler Ryan putout (fly out to right field) for out number 2",0,2,,,1,,S Rackoski
+88,1,Wyatt Ulrich,BOTTOM,1 Wyatt Ulrich advances to 1st (single),0,0,1,,,,S Rackoski
+89,21,Darnell Sweeney,BOTTOM,"Ball, Called Strike, Swinging Strike, Ball, 21 Darnell Sweeney putout (4-3) for out number 3",2,2,,,1,,S Rackoski

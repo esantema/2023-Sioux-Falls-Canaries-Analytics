@@ -1,0 +1,81 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM
+1,37,Kyle Kasser,TOP,"Ball, 37 Kyle Kasser putout (fly out to right field) for out number 1",1,0,,1,
+2,11,Delvin Zinn,TOP,"Called Strike, Foul, 11 Delvin Zinn putout (dropped 3rd strike: KS 2-3) for out number 2",0,2,,1,
+3,7,Matt Lloyd,TOP,7 Matt Lloyd advances to 2nd (double),0,0,1,,
+4,8,Vince Fernandez,TOP,"Ball, Swinging Strike, 8 Vince Fernandez putout (3-1) for out number 3",1,1,,1,
+5,17,Delino DeShields,BOTTOM,"Called Strike, Foul, 17 Delino DeShields putout (5-3) for out number 1",0,2,,,1
+6,2,Alex Jackson,BOTTOM,"Foul, Foul, Ball, 2 Alex Jackson putout (strike out swinging) for out number 2",1,2,,,1
+7,14,Zach Nehrir,BOTTOM,"Called Strike, 14 Zach Nehrir Scores Earned (homerun)",0,1,,,
+8,30,Jose Sermo,BOTTOM,"Ball, Ball, Ball, 30 Jose Sermo advances to 1st (walk)",3,0,,,
+9,3,Hill Alexander,BOTTOM,"Called Strike, Swinging Strike, Foul, 3 Hill Alexander putout (strike out swinging) for out number 3",0,2,,,1
+10,5,Eury Perez,TOP,"Called Strike, Swinging Strike, Ball, Ball, 5 EuryPerez advances to 1st (single)",2,2,1,,
+11,18,Daniel Perez,TOP,"Ball, 5 Eury Perez putout (caught stealing: CS 1-6-3) for out number 1, Swinging Strike, Ball, 18 Daniel Perez putout (6-3) for out number 2",2,1,,1,
+12,1,Chase Harris,TOP,"Called Strike, Ball, Ball, Called Strike, 1 ChaseHarris putout (6-3) for out number 3",2,2,,1,
+13,20,Brian Klein,BOTTOM,"Called Strike, Ball, Ball, Ball, 20 Brian Klein advances to 1st (walk)",3,1,,,
+14,24,Mark Karaviotis,BOTTOM,"Called Strike, Swinging Strike, 24 Mark Karaviotisputout (strike out swinging) for out number 1",0,2,,,1
+15,9,Guillermo Quintana,BOTTOM,"Ball, Ball, Ball, 9 Guillermo Quintana advances to1st (walk), 20 Brian Klein advances to 2nd (9)",3,0,,,
+16,13,Elmer Reyes,BOTTOM,"Ball, Called Strike, Ball, Foul, 13 Elmer Reyes advances to 1st (single), 9 Guillermo Quintana advances to 3rd (13), 20 Brian Klein Scores Earned (13)",2,2,1,,
+17,17,Delino DeShields,BOTTOM,"17 Delino DeShields advances to 1st (single), 13 Elmer Reyes advances to 2nd (17), 9 Guillermo Quintana Scores Earned (17)",0,0,1,,
+18,2,Alex Jackson,BOTTOM,"Ball, Foul, Foul, Ball, 17 Delino DeShields advances to 2nd (2), 13 Elmer Reyes advances to 3rd (2),2 Alex Jackson putout (4-3) for out number 2",2,2,,,1
+19,14,Zach Nehrir,BOTTOM,"Called Strike, Foul, Foul, Foul, 14 Zach Nehrir putout (fly out to right field) for out number 3",0,2,,,1
+20,33,Jake Ortega,TOP,33 Jake Ortega advances to 1st (single),0,0,1,,
+21,17,Jake Sanford,TOP,"Ball, 17 Jake Sanford advances to 1st (fielder's choice), 33 Jake Ortega putout (4-6) for out number1",1,0,,1,
+22,37,Kyle Kasser,TOP,"Foul, Called Strike, 37 Kyle Kasser advances to 1st (fielder's choice), 17 Jake Sanford putout (6-4)for out number 2",0,2,,1,
+23,11,Delvin Zinn,TOP,"11 Delvin Zinn advances to 1st (fielder's choice),37 Kyle Kasser putout (6-4) for out number 3",0,0,,1,
+24,30,Jose Sermo,BOTTOM,"Swinging Strike, Swinging Strike, Ball, Ball, Ball, 30 Jose Sermo advances to 2nd (double)",3,2,1,,
+25,3,Hill Alexander,BOTTOM,"Called Strike, 3 Hill Alexander putout (5-3) for out number 1",0,1,,,1
+26,20,Brian Klein,BOTTOM,"Swinging Strike, 20 Brian Klein putout (fly out toleft field) for out number 2",0,1,,,1
+27,24,Mark Karaviotis,BOTTOM,"Called Strike, 24 Mark Karaviotis putout (fly outto right field) for out number 3",0,1,,,1
+28,7,Matt Lloyd,TOP,"Called Strike, Foul, Ball, Foul, Ball, 7 Matt Lloyd putout (P5) for out number 1",2,2,,1,
+29,8,Vince Fernandez,TOP,"Ball, 8 Vince Fernandez putout (fly out to centerfield) for out number 2",1,0,,1,
+30,5,Eury Perez,TOP,5 Eury Perez putout (fly out to left field) for out number 3,0,0,,1,
+31,9,Guillermo Quintana,BOTTOM,"Swinging Strike, Ball, 9 Guillermo Quintana putout(FO3) for out number 1",1,1,,,1
+32,13,Elmer Reyes,BOTTOM,13 Elmer Reyes putout (fly out to left field) forout number 2,0,0,,,1
+33,17,Delino DeShields,BOTTOM,"Ball, Ball, Ball, 17 Delino DeShields advances to1st (walk), 17 Delino DeShields putout (caught stealing: CS 2-6) for out number 3",3,0,,,1
+34,18,Daniel Perez,TOP,"Ball, Ball, Called Strike, Ball, Called Strike, 18Daniel Perez putout (4-3) for out number 1",3,2,,1,
+35,1,Chase Harris,TOP,"Foul, Foul, 1 Chase Harris advances to 1st (errorby the first baseman)",0,2,,,
+36,33,Jake Ortega,TOP,"Called Strike, Foul, Ball, 33 Jake Ortega advancesto 1st (single), 1 Chase Harris advances to 2nd (33)",1,2,1,,
+37,17,Jake Sanford,TOP,"Ball, Ball, Ball, 17 Jake Sanford advances to 1st(walk), 33 Jake Ortega advances to 2nd (17), 1 Chase Harris advances to 3rd (17)",3,0,,,
+38,37,Kyle Kasser,TOP,"37 Kyle Kasser advances to 2nd (double), 17 Jake Sanford advances to 3rd (37), 1 Chase Harris ScoresUnearned (37), 33 Jake Ortega Scores Earned (37)",0,0,1,,
+39,11,Delvin Zinn,TOP,"11 Delvin Zinn advances to 1st (single), 11 DelvinZinn advances to 2nd (error by the shortstop), 37Kyle Kasser advances to 3rd (11), 17 Jake SanfordScores Earned (11)",0,0,1,,
+40,7,Matt Lloyd,TOP,"Ball, Ball, Ball, 7 Matt Lloyd putout (fly out tocenter field) for out number 2",3,0,,1,
+41,8,Vince Fernandez,TOP,"Ball, Called Strike, 8 Vince Fernandez putout (flyout to center field) for out number 3",1,1,,1,
+42,2,Alex Jackson,BOTTOM,"Foul, Foul, Foul, Ball, Ball, 2 Alex Jackson putout (3U) for out number 1",2,2,,,1
+43,14,Zach Nehrir,BOTTOM,"Foul, Ball, Foul, Ball, 14 Zach Nehrir putout (flyout to center field) for out number 2",2,2,,,1
+44,30,Jose Sermo,BOTTOM,"Called Strike, 30 Jose Sermo putout (fly out to center field) for out number 3",0,1,,,1
+45,5,Eury Perez,TOP,"Called Strike, Ball, Ball, Foul, 5 Eury Perez putout (3U) for out number 1",2,2,,1,
+46,18,Daniel Perez,TOP,"Swinging Strike, Called Strike, Ball, Ball, Foul,Foul, Foul, Foul, 18 Daniel Perez advances to 2nd(double)",2,2,1,,
+47,1,Chase Harris,TOP,"Swinging Strike, Ball, Ball, Swinging Strike, Ball, 1 Chase Harris putout (strike out swinging) forout number 2",3,2,,1,
+48,33,Jake Ortega,TOP,"Called Strike, Foul, 33 Jake Ortega putout (strikeout) for out number 3",0,2,,1,
+49,3,Hill Alexander,BOTTOM,"Foul, 3 Hill Alexander putout (FO3) for out number1",0,1,,,1
+50,20,Brian Klein,BOTTOM,"Called Strike, 20 Brian Klein putout (4-3) for outnumber 2",0,1,,,1
+51,24,Mark Karaviotis,BOTTOM,"Called Strike, 24 Mark Karaviotis putout (5-3) forout number 3",0,1,,,1
+52,17,Jake Sanford,TOP,17 Jake Sanford putout (P6) for out number 1,0,0,,1,
+53,37,Kyle Kasser,TOP,"Ball, Called Strike, Called Strike, Foul, Ball, Foul, Foul, 37 Kyle Kasser putout (strike out) for out number 2",2,2,,1,
+54,11,Delvin Zinn,TOP,"Ball, Called Strike, Called Strike, Ball, Ball, 11Delvin Zinn advances to 1st (hit by pitch)",3,2,,,
+55,7,Matt Lloyd,TOP,"Ball, 11 Delvin Zinn advances to 2nd (stolen base), Called Strike, 11 Delvin Zinn advances to 3rd (stolen base), Ball, Foul, Ball, 7 Matt Lloyd advances to 1st (walk)",3,2,,,
+56,8,Vince Fernandez,TOP,"Called Strike, Swinging Strike, Foul, Ball, 7 MattLloyd advances to 2nd (stolen base), Foul, 8 Vince Fernandez putout (strike out swinging) for out number 3",1,2,,1,
+57,9,Guillermo Quintana,BOTTOM,"Called Strike, Foul, 9 Guillermo Quintana advancesto 1st (single)",0,2,1,,
+58,13,Elmer Reyes,BOTTOM,"Ball, Foul, Foul, 13 Elmer Reyes putout (P4) for out number 1",1,2,,,1
+59,17,Delino DeShields,BOTTOM,"Ball, Foul, 17 Delino DeShields advances to 1st (single), 9 Guillermo Quintana advances to 2nd (17)Pitching Substitution    36 Nate Gercken subs for Francys Peguero Pitcher.",1,1,1,,
+60,2,Alex Jackson,BOTTOM,"Ball, 17 Delino DeShields advances to 2nd (2), 9 Guillermo Quintana advances to 3rd (2), 2 Alex Jackson putout (4-3) for out number 2",1,0,,,1
+61,14,Zach Nehrir,BOTTOM,"Foul, Swinging Strike, 14 Zach Nehrir putout (strike out swinging) for out number 3",0,2,,,1
+62,5,Eury Perez,TOP,"Ball, Foul, Swinging Strike, 5 Eury Perez putout (strike out swinging) for out number 1",1,2,,1,
+63,18,Daniel Perez,TOP,"Foul, Ball, Foul, Foul, Foul, 18 Daniel Perez advances to 1st (single)Offensive Substitution   4 Miguel Sierra runs for Daniel Perez at 1st base.",1,2,1,,
+64,1,Chase Harris,TOP,"Called Strike, Called Strike, 1 Chase Harris putout (strike out swinging) for out number 2",0,2,,1,
+65,33,Jake Ortega,TOP,33 Jake Ortega putout (fly out to center field) for out number 3,0,0,,1,
+66,30,Jose Sermo,BOTTOM,"Called Strike, Ball, 30 Jose Sermo putout (3-1) for out number 1",1,1,,,1
+67,3,Hill Alexander,BOTTOM,"Swinging Strike, Swinging Strike, 3 Hill Alexanderputout (fly out to left field) for out number 2",0,2,,,1
+68,20,Brian Klein,BOTTOM,"Ball, 20 Brian Klein putout (6-3) for out number 3",1,0,,,1
+69,17,Jake Sanford,TOP,"Ball, Foul, Ball, 17 Jake Sanford advances to 1st(single)",2,1,1,,
+70,37,Kyle Kasser,TOP,"Called Strike, Foul, Foul, Ball, 37 Kyle Kasser putout (fly out to left field) for out number 1",1,2,,1,
+71,11,Delvin Zinn,TOP,"Called Strike, Called Strike, 17 Jake Sanford putout (caught stealing: CS 2-4) for out number 2, Foul, 11 Delvin Zinn putout (strike out swinging) forout number 3",0,2,,1,
+72,24,Mark Karaviotis,BOTTOM,"Foul, Called Strike, 24 Mark Karaviotis advances to 1st (single)",0,2,1,,
+73,9,Guillermo Quintana,BOTTOM,"Called Strike, Swinging Strike, 9 Guillermo Quintana putout (strike out swinging) for out number 1",0,2,,,1
+74,13,Elmer Reyes,BOTTOM,"Swinging Strike, Ball, 24 Mark Karaviotis advancesto 2nd (wild pitch), Ball, Ball, 13 Elmer Reyes putout (1-3) for out number 2",3,1,,,1
+75,17,Delino DeShields,BOTTOM,"Ball, Ball, Foul, Swinging Strike, Ball, 17 DelinoDeShields putout (strike out) for out number 3",3,2,,,1
+76,11,Delvin Zinn,TOP,11 Delvin Zinn advances to 2nd (ITB),0,0,,,
+77,8,Vince Fernandez,TOP,"Swinging Strike, Foul, Foul, Ball, Ball, Ball, Ball, Ball, Ball, Ball, 5 Eury Perez advances to 1st(single), 11 Delvin Zinn advances to 3rd (7), 11 Delvin Zinn Scores Unearned (5), 7 Matt Lloyd putout (3U) for out number 1, Foul, 4 Miguel Sierra putout (fly out to center field) for out number 3, Foul, Foul, Ball, 8 Vince Fernandez putout (strike out swinging) for out number 2Pitching Substitution    43 Joe Shaw subs for Joe Corbett Pitcher.",8,2,1,1,
+78,17,Delino DeShields,BOTTOM,17 Delino DeShields advances to 2nd (ITB)Pitching Substitution    34 Sean Rackoski subs for Brandon Brosher Pitcher.,0,0,,,
+79,3,Hill Alexander,BOTTOM,"Ball, Ball, Ball, 17 Delino DeShields Scores Unearned (30), 30 Jose Sermo putout (3U) for out number2, Foul, Ball, Swinging Strike, Swinging Strike,Ball, 17 Delino DeShields advances to 3rd (2), 2 Alex Jackson putout ( SH3-4) for out number 1, Ball, Ball, 14 Zach Nehrir advances to 1st (walk), 14Zach Nehrir Scores Unearned (3), 3 Hill AlexanderScores Unearned (home run)",7,2,1,,1
+80,3,Hill Alexander,BOTTOM,14 Zach Nehrir advances to 3rd (error by the firstbaseman),0,0,,,

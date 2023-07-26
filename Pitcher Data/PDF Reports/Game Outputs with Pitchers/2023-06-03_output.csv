@@ -1,0 +1,97 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM,Pitcher Top,Pitcher Bottom
+1,2,Michael Woodworth,TOP,"Called Strike, 2 Michael Woodworth putout (fly outto right field) for out number 1",0,1,,1,,J Vivas,
+2,29,Gio Diaz,TOP,29 Gio Diaz putout (4-3) for out number 2,0,0,,1,,J Vivas,
+3,11,Victor Nova,TOP,"Called Strike, Ball, Swinging Strike, Ball, 11 Victor Nova putout (4-3) for out number 3",2,2,,1,,J Vivas,
+4,21,Darnell Sweeney,BOTTOM,"Called Strike, Ball, Called Strike, Foul, Foul, Ball, Ball, Foul, 21 Darnell Sweeney advances to 1st(walk)",3,2,,,,,Mitchell Walters
+5,3,Jordan Barth,BOTTOM,"Ball, 21 Darnell Sweeney advances to 2nd (stolen base), Ball, Ball, 21 Darnell Sweeney advances to 3rd (wild pitch), Called Strike, Foul, Foul, Foul,3 Jordan Barth advances to 1st (single), 21 Darnell Sweeney Scores Earned (33)",3,2,1,,,,Mitchell Walters
+6,15,Welington Dotel,BOTTOM,"Called Strike, Swinging Strike, Foul, Foul, 3 Jordan Barth putout (4) for out number 1, 15 WelingtonDotel putout (4-3 DP) for out number 2",0,2,,,1,,Mitchell Walters
+7,11,Jabari Henry,BOTTOM,"Called Strike, Called Strike, Ball, Foul, 11 Jabari Henry advances to 1st (single)",1,2,1,,,,Mitchell Walters
+8,20,Mike Hart,BOTTOM,"20 Mike Hart advances to 1st (single), 11 Jabari Henry advances to 2nd (20)",0,0,1,,,,Mitchell Walters
+9,5,Trevor Achenbach,BOTTOM,"Ball, Foul, Foul, 5 Trevor Achenbach advances to 1st (hit by pitch), 20 Mike Hart advances to 2nd (5), 11 Jabari Henry advances to 3rd (5)",1,2,,,,,Mitchell Walters
+10,16,Hunter Clanin,BOTTOM,"16 Hunter Clanin advances to 1st (single), 5 Trevor Achenbach advances to 2nd (16), 20 Mike Hart advances to 3rd (16), 11 Jabari Henry Scores Earned (16), 20 Mike Hart putout (7-2-4-2-) for out number3",0,0,1,,1,,Mitchell Walters
+11,20,LG Castillo,TOP,"Ball, Called Strike, Ball, 20 LG Castillo advancesto 1st (single)",2,1,1,,,J Vivas,
+12,13,Emmanuel Tapia,TOP,"Swinging Strike, Ball, Ball, Foul, Ball, 13 Emmanuel Tapia putout (P5) for out number 1",3,2,,1,,J Vivas,
+13,22,Francisco Del,TOP,"Valle Ball, Swinging Strike, 20 LG Castillo putout (caught stealing: CS 2-6) for out number 2, Foul, Ball,22 Francisco Del Valle putout (strike out) for out number 3",2,2,,1,,J Vivas,
+14,2,Marshall Rich,BOTTOM,"Foul, 2 Marshall Rich putout (L4) for out number 1",0,1,,,1,,Mitchell Walters
+15,1,Wyatt Ulrich,BOTTOM,"Called Strike, Foul, Foul, Ball, 1 Wyatt Ulrich putout (fly out to left field) for out number 2",1,2,,,1,,Mitchell Walters
+16,21,Darnell Sweeney,BOTTOM,21 Darnell Sweeney Scores Earned (home run),0,0,1,,,,Mitchell Walters
+17,3,Jordan Barth,BOTTOM,"Ball, 3 Jordan Barth putout (5-3) for out number 3",1,0,,,1,,Mitchell Walters
+18,25,Jesus Marriaga,TOP,"Ball, Foul, 25 Jesus Marriaga advances to 1st (hitby pitch)",1,1,,,,J Vivas,
+19,14,Marco Hernandez,TOP,"14 Marco Hernandez advances to 1st (hit by pitch),25 Jesus Marriaga advances to 2nd (14)",0,0,,,,J Vivas,
+20,17,Daniel Lingua,TOP,"Ball, Called Strike, Ball, Foul, 17 Daniel Linguaadvances to 1st (hit by pitch), 14 Marco Hernandezadvances to 2nd (17), 25 Jesus Marriaga advancesto 3rd (17)",2,2,,,,J Vivas,
+21,2,Michael Woodworth,TOP,"Called Strike, Ball, Ball, Foul, Ball, 14 Marco Hernandez advances to 3rd (2), 25 Jesus Marriaga Scores Earned (2), 17 Daniel Lingua putout (4-6) forout number 1, 2 Michael Woodworth putout (4-6-3 DP) for out number 2",3,2,,1,,J Vivas,
+22,29,Gio Diaz,TOP,"29 Gio Diaz advances to 2nd (double), 14 Marco Hernandez Scores Earned (29)",0,0,1,,,J Vivas,
+23,11,Victor Nova,TOP,"Ball, Foul, 11 Victor Nova advances to 1st (single), 29 Gio Diaz Scores Earned (11)",1,1,1,,,J Vivas,
+24,20,LG Castillo,TOP,"Ball, 20 LG Castillo putout (4-3) for out number 3",1,0,,1,,J Vivas,
+25,15,Welington Dotel,BOTTOM,"Swinging Strike, Swinging Strike, Ball, Ball, 15 Welington Dotel putout (6-3) for out number 1",2,2,,,1,,Mitchell Walters
+26,11,Jabari Henry,BOTTOM,"Ball, Called Strike, Foul, 11 Jabari Henry putout(fly out to center field) for out number 2",1,2,,,1,,Mitchell Walters
+27,20,Mike Hart,BOTTOM,"Ball, 20 Mike Hart advances to 1st (hit by pitch)",1,0,,,,,Mitchell Walters
+28,5,Trevor Achenbach,BOTTOM,"5 Trevor Achenbach advances to 2nd (double), 20 Mike Hart advances to 3rd (5)",0,0,1,,,,Mitchell Walters
+29,16,Hunter Clanin,BOTTOM,"Ball, Swinging Strike, Foul, 16 Hunter Clanin putout (strike out swinging) for out number 3",1,2,,,1,,Mitchell Walters
+30,13,Emmanuel Tapia,TOP,"Ball, Swinging Strike, Ball, Ball, Foul, 13 Emmanuel Tapia putout (strike out swinging) for out number 1",3,2,,1,,J Vivas,
+31,22,Francisco Del,TOP,"Valle Swinging Strike, Ball, 22 Francisco Del Valle Scores Earned (home run)",1,1,1,,,J Vivas,
+32,25,Jesus Marriaga,TOP,"Swinging Strike, Swinging Strike, Ball, 25 Jesus Marriaga putout (strike out swinging) for out number 2",1,2,,1,,J Vivas,
+33,14,Marco Hernandez,TOP,"Foul, Ball, Ball, Foul, Ball, 14 Marco Hernandez advances to 1st (single)",3,2,1,,,J Vivas,
+34,17,Daniel Lingua,TOP,"Called Strike, Ball, Foul, Foul, Ball, Foul, 14 Marco Hernandez putout (caught stealing: CS 1-4-6) for out number 3",2,2,,1,,J Vivas,
+35,2,Marshall Rich,BOTTOM,"Ball, Ball, 2 Marshall Rich putout (5-3) for out number 1",2,0,,,1,,Mitchell Walters
+36,1,Wyatt Ulrich,BOTTOM,"Called Strike, Foul, 1 Wyatt Ulrich putout (fly out to right field) for out number 2",0,2,,,1,,Mitchell Walters
+37,21,Darnell Sweeney,BOTTOM,21 Darnell Sweeney putout (4-3) for out number 3,0,0,,,1,,Mitchell Walters
+38,17,Daniel Lingua,TOP,"Ball, Ball, 17 Daniel Lingua advances to 1st (single)",2,0,1,,,J Vivas,
+39,2,Michael Woodworth,TOP,"Ball, 17 Daniel Lingua advances to 2nd (stolen base), 17 Daniel Lingua advances to 3rd (2), 2 Michael Woodworth putout (4-3) for out number 1",1,0,,1,,J Vivas,
+40,29,Gio Diaz,TOP,"29 Gio Diaz advances to 2nd (double), 17 Daniel Lingua Scores Earned (29)",0,0,1,,,J Vivas,
+41,11,Victor Nova,TOP,"Foul, Ball, 29 Gio Diaz advances to 3rd (11), 11 Victor Nova putout (3U) for out number 2",1,1,,1,,J Vivas,
+42,20,LG Castillo,TOP,20 LG Castillo putout (5-3) for out number 3,0,0,,1,,J Vivas,
+43,3,Jordan Barth,BOTTOM,3 Jordan Barth advances to 1st (error by the shortstop),0,0,,,,,Mitchell Walters
+44,15,Welington Dotel,BOTTOM,"15 Welington Dotel advances to 1st (single), 3 Jordan Barth advances to 2nd (15)",0,0,1,,,,Mitchell Walters
+45,11,Jabari Henry,BOTTOM,"Called Strike, 3 Jordan Barth Scores Unearned (11), 15 Welington Dotel Scores Earned (11), 11 JabariHenry Scores Earned (home run)",0,1,1,,,,Mitchell Walters
+46,20,Mike Hart,BOTTOM,"Ball, Foul, Called Strike, 20 Mike Hart advances to 2nd (double)",1,2,1,,,,Mitchell Walters
+47,5,Trevor Achenbach,BOTTOM,"Ball, Ball, Swinging Strike, Called Strike, 5 Trevor Achenbach putout (strike out swinging) for outnumber 1",2,2,,,1,,Mitchell Walters
+48,16,Hunter Clanin,BOTTOM,"Ball, Foul, Foul, Foul, Ball, Foul, 20 Mike Hart advances to 3rd (16), 16 Hunter Clanin putout (4-3)for out number 2Pitching Substitution    49 Aaron Phillips subs for Julio Vivas Pitcher.",2,2,,,1,,Mitchell Walters
+49,2,Marshall Rich,BOTTOM,"Ball, Ball, Called Strike, Ball, Called Strike, 2Marshall Rich advances to 1st (walk)",3,2,,,,,Tony Lanier
+50,1,Wyatt Ulrich,BOTTOM,"Ball, Ball, 2 Marshall Rich advances to 2nd (stolen base), Called Strike, Ball, Called Strike, 1 Wyatt Ulrich putout (3-1) for out number 3",3,2,,,1,,Tony Lanier
+51,13,Emmanuel Tapia,TOP,"Called Strike, Ball, Ball, Foul, 13 Emmanuel Tapiaputout (strike out) for out number 1",2,2,,1,,J Vivas,
+52,22,Francisco Del,TOP,"Valle Called Strike, Ball, Ball, Ball, 22 Francisco DelValle putout (P5) for out number 2",3,1,,1,,J Vivas,
+53,25,Jesus Marriaga,TOP,"Ball, Ball, Swinging Strike, 25 Jesus Marriaga putout (5-3) for out number 3",2,1,,1,,A Phillips,
+54,21,Darnell Sweeney,BOTTOM,"Ball, Ball, Called Strike, Called Strike, Ball, 21Darnell Sweeney advances to 1st (walk)",3,2,,,,,Tony Lanier
+55,3,Jordan Barth,BOTTOM,"3 Jordan Barth advances to 1st (single), 21 Darnell Sweeney advances to 2nd (33)",0,0,1,,,,Tony Lanier
+56,15,Welington Dotel,BOTTOM,"Ball, Swinging Strike, Foul, Ball, 15 Welington Dotel putout (strike out swinging) for out number 1",2,2,,,1,,Tony Lanier
+57,11,Jabari Henry,BOTTOM,"Foul, Ball, Ball, Foul, Ball, 21 Darnell Sweeney putout (1-4 PO) for out number 2, 11 Jabari Henry advances to 1st (walk), 3 Jordan Barth advances to2nd (11)",3,2,,,1,,Tony Lanier
+58,20,Mike Hart,BOTTOM,"Ball, Ball, Swinging Strike, Foul, Ball, 20 Mike Hart advances to 1st (walk), 11 Jabari Henry advances to 2nd (20), 3 Jordan Barth advances to 3rd (20)",3,2,,,,,Tony Lanier
+59,5,Trevor Achenbach,BOTTOM,"Ball, Ball, Ball, 5 Trevor Achenbach advances to 1st (walk), 20 Mike Hart advances to 2nd (5), 11 Jabari Henry advances to 3rd (5), 3 Jordan Barth Scores Unearned (5)",3,0,,,,,Tony Lanier
+60,16,Hunter Clanin,BOTTOM,"Ball, Ball, Ball, 16 Hunter Clanin advances to 1st(walk), 5 Trevor Achenbach advances to 2nd (16),20 Mike Hart advances to 3rd (16), 11 Jabari HenryScores Unearned (16)Pitching Substitution    62 Ben Miller subs for Aaron Phillips Pitcher.",3,0,,,,,Tony Lanier
+61,2,Marshall Rich,BOTTOM,"Ball, Foul, 2 Marshall Rich advances to 1st (errorby the shortstop), 16 Hunter Clanin advances to 3rd (2), 20 Mike Hart Scores Earned (2), 5 Trevor Achenbach Scores Earned (2)",1,1,,,,,Angel Lebron
+62,1,Wyatt Ulrich,BOTTOM,"Ball, 1 Wyatt Ulrich advances to 1st (fielder's choice), 2 Marshall Rich putout (5-4) for out number3",1,0,,,1,,Charlie Hasty
+63,14,Marco Hernandez,TOP,"Called Strike, Swinging Strike, 14 Marco Hernandezputout (6-3) for out number 1",0,2,,1,,A Phillips,
+64,17,Daniel Lingua,TOP,"Called Strike, Ball, 17 Daniel Lingua putout (flyout to center field) for out number 2",1,1,,1,,A Phillips,
+65,2,Michael Woodworth,TOP,"Ball, Ball, Ball, 2 Michael Woodworth advances to1st (walk)",3,0,,,,A Phillips,
+66,29,Gio Diaz,TOP,"Ball, Ball, Called Strike, Foul, 29 Gio Diaz putout (strike out) for out number 3",2,2,,1,,A Phillips,
+67,21,Darnell Sweeney,BOTTOM,"Ball, Called Strike, 21 Darnell Sweeney putout (fly out to right field) for out number 1",1,1,,,1,,Charlie Hasty
+68,3,Jordan Barth,BOTTOM,"Ball, Foul, Foul, 3 Jordan Barth putout (strike out swinging) for out number 2",1,2,,,1,,Charlie Hasty
+69,15,Welington Dotel,BOTTOM,"Ball, 15 Welington Dotel advances to 2nd (double)",1,0,1,,,,Charlie Hasty
+70,11,Jabari Henry,BOTTOM,11 Jabari Henry putout (fly out to right field) for out number 3,0,0,,,1,,Charlie Hasty
+71,11,Victor Nova,TOP,"Ball, Ball, Ball, Called Strike, 11 Victor Nova advances to 1st (walk)",3,1,,,,A Phillips,
+72,20,LG Castillo,TOP,"Ball, Ball, Ball, Called Strike, Swinging Strike,20 LG Castillo putout (strike out swinging) for out number 1",3,2,,1,,A Phillips,
+73,13,Emmanuel Tapia,TOP,"Swinging Strike, Ball, Ball, Ball, Foul, 13 Emmanuel Tapia putout (strike out swinging) for out number 2",3,2,,1,,A Phillips,
+74,22,Francisco Del,TOP,"Valle Swinging Strike, Ball, Foul, Ball, Ball, 22 Francisco Del Valle advances to 1st (walk), 11 Victor Nova advances to 2nd (22)",3,2,,,,A Phillips,
+75,25,Jesus Marriaga,TOP,"11 Victor Nova Scores Earned (25), 22 Francisco Del Valle Scores Earned (25), 25 Jesus Marriaga Scores Earned (home run)Pitching Substitution    26 Angel Lebron subs for Tony Lanier Pitcher.",0,0,1,,,B Miller,
+76,14,Marco Hernandez,TOP,"Ball, 14 Marco Hernandez putout (P2) for out number 3",1,0,,1,,B Miller,
+77,20,Mike Hart,BOTTOM,"Ball, Ball, Swinging Strike, Ball, Called Strike,20 Mike Hart advances to 1st (walk)Offensive Substitution   0 Osvaldo Martinez runs for Mike Hart at 1st base.",3,2,,,,,Charlie Hasty
+78,5,Trevor Achenbach,BOTTOM,"Foul, Ball, Swinging Strike, Foul, 5 Trevor Achenbach putout (strike out) for out number 1",1,2,,,1,,Jose Cruz
+79,16,Hunter Clanin,BOTTOM,"Foul, Swinging Strike, 0 Osvaldo Martinez advancesto 2nd (stolen base), Ball, Foul, Ball, Foul, Foul, Foul, Ball, 16 Hunter Clanin putout (fly out tocenter field) for out number 2",3,2,,,1,,Jose Cruz
+80,2,Marshall Rich,BOTTOM,"Foul, Ball, Ball, 2 Marshall Rich advances to 1st(single), 0 Osvaldo Martinez Scores Earned (2)",2,1,1,,,,Jose Cruz
+81,1,Wyatt Ulrich,BOTTOM,"Ball, 1 Wyatt Ulrich putout (P6) for out number 3",1,0,,,1,,Jose Cruz
+82,17,Daniel Lingua,TOP,"Swinging Strike, Swinging Strike, Foul, 17 DanielLingua advances to 1st (single)",0,2,1,,,B Miller,
+83,2,Michael Woodworth,TOP,"Ball, Swinging Strike, Swinging Strike, Ball, 17 Daniel Lingua advances to 2nd (wild pitch), Foul, 2Michael Woodworth putout (strike out) for out number 1",2,2,,1,,B Miller,
+84,29,Gio Diaz,TOP,"Swinging Strike, 29 Gio Diaz advances to 1st (single), 17 Daniel Lingua advances to 3rd (29)",0,1,1,,,B Miller,
+85,11,Victor Nova,TOP,"Ball, 29 Gio Diaz advances to 2nd (stolen base), Ball, Swinging Strike, 29 Gio Diaz Scores Earned (11), 11 Victor Nova Scores Earned (home run), 17 Daniel Lingua Scores Earned (11)",2,1,1,,,B Miller,
+86,20,LG Castillo,TOP,"Ball, Foul, Ball, Ball, 20 LG Castillo putout (flyout to center field) for out number 2",3,1,,1,,J Eisenbarger,
+87,13,Emmanuel Tapia,TOP,"Swinging Strike, Ball, 13 Emmanuel Tapia putout (3U) for out number 3",1,1,,1,,J Eisenbarger,
+88,21,Darnell Sweeney,BOTTOM,"Ball, Ball, Called Strike, Called Strike, Foul, Foul, Foul, 21 Darnell Sweeney putout (strike out swinging) for out number 1",2,2,,,1,,Jose Cruz
+89,3,Jordan Barth,BOTTOM,"Ball, Swinging Strike, 3 Jordan Barth putout (flyout to right field) for out number 2",1,1,,,1,,Jose Cruz
+90,15,Welington Dotel,BOTTOM,"Foul, 15 Welington Dotel putout (6-3) for out number 3",0,1,,,1,,Mitchell Walters
+91,13,Emmanuel Tapia,TOP,13 Emmanuel Tapia advances to 2nd (ITB)Pitching Substitution    22 Jose Cruz subs for Charlie Hasty Pitcher.,0,0,,,,J Eisenbarger,
+92,17,Daniel Lingua,TOP,"Called Strike, Foul, Foul, Ball, 22 Francisco DelValle advances to 1st (fielder's choice), 14 MarcoHernandez advances to 1st (fielder's choice), 13Emmanuel Tapia advances to 3rd (error by the thirdbaseman), 22 Francisco Del Valle putout (1-5) forout number 1, Swinging Strike, Foul, 2 Michael Woodworth advances to 1st (fielder's choice), 14 Marco Hernandez advances to 3rd (2), 29 Gio Diaz putout (P3) for out number 3, Ball, 25 Jesus Marriagaadvances to 1st (single), 22 Francisco Del Valle advances to 2nd (25), 13 Emmanuel Tapia Scores Unearned (25), Ball, Foul, 17 Daniel Lingua advances to 1st (walk), 14 Marco Hernandez advances to 2nd (17), 25 Jesus Marriaga advances to 3rd (17)",3,2,1,1,,J Eisenbarger,
+93,29,Gio Diaz,BOTTOM,"25 Jesus Marriaga advances to 2nd (14), 17 DanielLingua advances to 2nd (2)",0,0,,,,,Mitchell Walters
+94,20,LG Castillo,BOTTOM,25 Jesus Marriaga putout (5-2) for out number 2,0,0,,,1,,Mitchell Walters
+95,15,Welington Dotel,BOTTOM,15 Welington Dotel advances to 2nd (ITB),0,0,,,,,Mitchell Walters
+96,16,Hunter Clanin,BOTTOM,"Foul, Ball, Ball, 5 Trevor Achenbach putout (fly out to center field) for out number 2, Ball, Ball,Ball, Foul, Called Strike, Swinging Strike, Ball,Called Strike, 11 Jabari Henry putout (strike outswinging) for out number 1, Ball, 0 Osvaldo Martinez advances to 1st (walk), 16 Hunter Clanin putout(1-3) for out number 3",7,2,,,1,,Mitchell Walters

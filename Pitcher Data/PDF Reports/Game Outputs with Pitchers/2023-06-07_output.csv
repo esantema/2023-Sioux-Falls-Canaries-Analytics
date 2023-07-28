@@ -1,92 +1,92 @@
 Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM,Pitcher Top,Pitcher Bottom
-1,21,Darnell Sweeney,TOP,"Ball, Called Strike, Foul, Foul, Ball, Ball, Foul,21 Darnell Sweeney advances to 1st (walk)",3,2,,,,Chris Hardin,
-2,3,Jordan Barth,TOP,3 Jordan Barth putout (fly out to right field) forout number 1,0,0,,1,,Chris Hardin,
-3,15,Welington Dotel,TOP,"Called Strike, 15 Welington Dotel advances to 1st(single to center field), 21 Darnell Sweeney advances to 2nd (15)",0,1,1,,,Chris Hardin,
-4,11,Jabari Henry,TOP,"Ball, 11 Jabari Henry advances to 2nd (double to left field), 15 Welington Dotel advances to 3rd (11), 21 Darnell Sweeney Scores Earned (11)",1,0,1,,,Chris Hardin,
-5,16,Hunter Clanin,TOP,"Ball, Ball, Ball, 16 Hunter Clanin advances to 1st(walk)",3,0,,,,Chris Hardin,
-6,0,Osvaldo Martinez,TOP,"Ball, Called Strike, Ball, Foul, Ball, 0 Osvaldo Martinez putout (fly out to right field) for out number 2",3,2,,1,,Chris Hardin,
-7,33,Tyler Ryan,TOP,"Ball, Swinging Strike, Swinging Strike, Ball, 33 Tyler Ryan putout (strike out) for out number 3",2,2,,1,,Chris Hardin,
-8,11,Delvin Zinn,BOTTOM,"Called Strike, Ball, Ball, Ball, Called Strike, 11Delvin Zinn putout (fly out to left field) for out number 1",3,2,,,1,,J Wetherbee
-9,7,Matt Lloyd,BOTTOM,"Ball, Called Strike, Foul, Ball, 7 Matt Lloyd advances to 1st (single to center field)",2,2,1,,,,J Wetherbee
-10,8,Vince Fernandez,BOTTOM,"Called Strike, Ball, 7 Matt Lloyd advances to 2nd(8), 8 Vince Fernandez putout (1-3) for out number2",1,1,,,1,,J Wetherbee
-11,33,Jake Ortega,BOTTOM,"Called Strike, Ball, Foul, Ball, Pickoff attempt at 2nd base (pitcher to shortstop), Ball, Foul, 33Jake Ortega advances to 1st (single to third base), 7 Matt Lloyd advances to 3rd (33)",3,2,1,,,,J Wetherbee
-12,6,Tyler Rando,BOTTOM,6 Tyler Rando putout (P4) for out number 3,0,0,,,1,,J Wetherbee
-13,2,Marshall Rich,TOP,2 Marshall Rich putout (fly out to center field) for out number 1,0,0,,1,,Chris Hardin,
-14,1,Wyatt Ulrich,TOP,"Ball, Ball, Ball, 1 Wyatt Ulrich advances to 1st (walk)",3,0,,,,Chris Hardin,
-15,21,Darnell Sweeney,TOP,"Foul, Ball, 1 Wyatt Ulrich advances to 2nd (wild pitch), 21 Darnell Sweeney advances to 1st (singleto left field), 1 Wyatt Ulrich advances to 3rd (21)",1,1,1,,,Chris Hardin,
-16,3,Jordan Barth,TOP,"3 Jordan Barth advances to 1st (single to left field), 21 Darnell Sweeney advances to 2nd (3), 1 Wyatt Ulrich Scores Earned (3)",0,0,1,,,Chris Hardin,
-17,15,Welington Dotel,TOP,"Called Strike, Ball, Swinging Strike, 15 WelingtonDotel putout (strike out swinging) for out number2",1,2,,1,,Chris Hardin,
-18,11,Jabari Henry,TOP,"Ball, Called Strike, Foul, Ball, Ball, Foul, Foul,11 Jabari Henry putout (strike out) for out number 3",3,2,,1,,Chris Hardin,
-19,18,Daniel Perez,BOTTOM,"Called Strike, Ball, Foul, Ball, Ball, 18 Daniel Perez putout (fly out to left field) for out number1",3,2,,,1,,J Wetherbee
-20,17,Jake Sanford,BOTTOM,"Ball, Called Strike, Ball, Foul, 17 Jake Sanford putout (1-3) for out number 2",2,2,,,1,,J Wetherbee
-21,1,Chase Harris,BOTTOM,"Swinging Strike, Ball, Swinging Strike, Ball, Foul, 1 Chase Harris putout (5-3) for out number 3",2,2,,,1,,J Wetherbee
-22,16,Hunter Clanin,TOP,"Called Strike, Ball, 16 Hunter Clanin advances to1st (single to center field)",1,1,1,,,Chris Hardin,
-23,0,Osvaldo Martinez,TOP,"Ball, 0 Osvaldo Martinez advances to 1st (single to left field), 16 Hunter Clanin advances to 2nd (0)",1,0,1,,,Chris Hardin,
-24,33,Tyler Ryan,TOP,"Ball, Called Strike, Swinging Strike, Foul, 16 Hunter Clanin advances to 3rd (33), 33 Tyler Ryan putout (fly out to right field) for out number 1",1,2,,1,,Chris Hardin,
-25,2,Marshall Rich,TOP,"Called Strike, Called Strike, Ball, 2 Marshall Rich advances to 1st (single to right field), 2 Marshall Rich advances to 2nd (2), 0 Osvaldo Martinez advances to 3rd (2), 16 Hunter Clanin Scores Earned(2)",1,2,1,,,Chris Hardin,
-26,1,Wyatt Ulrich,TOP,"Called Strike, Ball, Called Strike, Foul, Foul, 1Wyatt Ulrich putout (6-3) for out number 2",1,2,,1,,Chris Hardin,
-27,21,Darnell Sweeney,TOP,"21 Darnell Sweeney advances to 1st (single to leftfield), 2 Marshall Rich advances to 3rd (21), 0 Osvaldo Martinez Scores Earned (21), 2 Marshall Rich putout (7-2) for out number 3",0,0,1,1,,Chris Hardin,
-28,37,Kyle Kasser,BOTTOM,"Called Strike, Ball, 37 Kyle Kasser putout (4-3) for out number 1",1,1,,,1,,J Wetherbee
-29,11,Delvin Zinn,BOTTOM,"Called Strike, Ball, 11 Delvin Zinn putout (6-3) for out number 2",1,1,,,1,,J Wetherbee
-30,7,Matt Lloyd,BOTTOM,"Ball, Called Strike, Foul, Ball, 7 Matt Lloyd advances to 1st (single to right field)",2,2,1,,,,J Wetherbee
-31,8,Vince Fernandez,BOTTOM,"Pickoff attempt at 1st base (pitcher to first baseman), Ball, Ball, Foul, Ball, Called Strike, Foul,8 Vince Fernandez putout (P4) for out number 3",3,2,,,1,,J Wetherbee
-32,3,Jordan Barth,TOP,"Ball, Foul, Ball, 3 Jordan Barth putout (fly out to left field) for out number 1",2,1,,1,,Chris Hardin,
-33,15,Welington Dotel,TOP,15 Welington Dotel putout (4-3) for out number 2,0,0,,1,,Chris Hardin,
-34,11,Jabari Henry,TOP,"Called Strike, Ball, Called Strike, Foul, 11 Jabari Henry putout (fly out to left field) for out number 3",1,2,,1,,Angel Lebron,
-35,33,Jake Ortega,BOTTOM,"Called Strike, Ball, Foul, Ball, Ball, Foul, Foul,33 Jake Ortega putout (4-3) for out number 1",3,2,,,1,,J Wetherbee
-36,6,Tyler Rando,BOTTOM,"Ball, 6 Tyler Rando advances to 1st (single to shortstop)",1,0,1,,,,J Wetherbee
-37,18,Daniel Perez,BOTTOM,"Swinging Strike, Called Strike, Ball, Ball, 18 Daniel Perez advances to 1st (single to shortstop), 6Tyler Rando advances to 2nd (18)",2,2,1,,,,J Wetherbee
-38,17,Jake Sanford,BOTTOM,17 Jake Sanford putout (fly out to right field) for out number 2,0,0,,,1,,J Wetherbee
-39,1,Chase Harris,BOTTOM,"Ball, Ball, Foul, Called Strike, Ball, 1 Chase Harris advances to 2nd (double to left field), 6 Tyler Rando Scores Earned (1), 18 Daniel Perez ScoresEarned (1)",3,2,1,,,,J Wetherbee
-40,37,Kyle Kasser,BOTTOM,"Pickoff attempt at 2nd base (pitcher to shortstop), Foul, Ball, Ball, 37 Kyle Kasser putout (fly outto left field) for out number 3",2,1,,,1,,J Wetherbee
-41,16,Hunter Clanin,TOP,"Ball, Ball, Foul, Ball, Foul, 16 Hunter Clanin Scores Earned (home run)",3,2,1,,,Angel Lebron,
-42,0,Osvaldo Martinez,TOP,"Ball, Ball, Called Strike, Ball, Called Strike, Foul, 0 Osvaldo Martinez advances to 1st (walk)",3,2,,,,Angel Lebron,
-43,33,Tyler Ryan,TOP,"Ball, Swinging Strike, Swinging Strike, 0 OsvaldoMartinez putout (caught stealing: CS 2-4) for outnumber 1, 33 Tyler Ryan putout (fly out to left field) for out number 2",1,2,,1,,Angel Lebron,
-44,2,Marshall Rich,TOP,"Foul, Ball, Ball, Foul, 2 Marshall Rich putout (strike out) for out number 3",2,2,,1,,Angel Lebron,
-45,11,Delvin Zinn,BOTTOM,"Swinging Strike, Ball, Swinging Strike, Ball, Ball, Foul, 11 Delvin Zinn putout (strike out swinging) for out number 1",3,2,,,1,,J Wetherbee
-46,7,Matt Lloyd,BOTTOM,"Called Strike, 7 Matt Lloyd putout (fly out to left field) for out number 2",0,1,,,1,,J Wetherbee
-47,8,Vince Fernandez,BOTTOM,"Ball, Called Strike, 8 Vince Fernandez advances to2nd (double to right field), 8 Vince Fernandez putout (9-4-5) for out number 3",1,1,1,,1,,J Wetherbee
-48,1,Wyatt Ulrich,TOP,"Called Strike, 1 Wyatt Ulrich putout (4-3) for outnumber 1Pitching Substitution    10 Brandon Brosher subs for Jared Wetherbee Pitcher.",0,1,,1,,Angel Lebron,
-49,21,Darnell Sweeney,TOP,"Foul, 21 Darnell Sweeney Scores Earned (home run)",0,1,1,,,Angel Lebron,
-50,3,Jordan Barth,TOP,"Called Strike, Ball, Foul, Ball, 3 Jordan Barth putout (5-3) for out number 2",2,2,,1,,Angel Lebron,
-51,15,Welington Dotel,TOP,"Ball, Swinging Strike, 15 Welington Dotel advancesto 1st (error by the pitcher)",1,1,,,,Jose Cruz,
-52,11,Jabari Henry,TOP,"Called Strike, Called Strike, 15 Welington Dotel advances to 2nd (stolen base), Ball, 15 Welington Dotel advances to 3rd (wild pitch), Ball, Ball, Foul, 11 Jabari Henry advances to 1st (walk)",3,2,,,,Jose Cruz,
-53,16,Hunter Clanin,TOP,"Called Strike, Foul, Foul, 16 Hunter Clanin putout(L6) for out number 3",0,2,,1,,Jose Cruz,
-54,33,Jake Ortega,BOTTOM,"Called Strike, Foul, Foul, 33 Jake Ortega advancesto 2nd (double to right field)",0,2,1,,,,J Wetherbee
-55,6,Tyler Rando,BOTTOM,"Called Strike, Foul, 6 Tyler Rando putout (fly outto right field) for out number 1",0,2,,,1,,J Wetherbee
-56,18,Daniel Perez,BOTTOM,"Ball, Ball, Foul, Ball, Called Strike, 18 Daniel Perez advances to 1st (single to left field), 33 Jake Ortega advances to 3rd (18), 18 Daniel Perez advances to 3rd (18), 33 Jake Ortega Scores Earned (error by the third baseman)",3,2,1,,,,J Wetherbee
-57,17,Jake Sanford,BOTTOM,"Ball, Called Strike, Ball, Swinging Strike, 17 Jake Sanford putout (strike out swinging) for out number 2",2,2,,,1,,J Wetherbee
-58,1,Chase Harris,BOTTOM,"Foul, 1 Chase Harris advances to 1st (single to left field), 18 Daniel Perez Scores Earned (1)",0,1,1,,,,J Wetherbee
-59,37,Kyle Kasser,BOTTOM,"Ball, Ball, Called Strike, Ball, 1 Chase Harris advances to 2nd (stolen base), 37 Kyle Kasser advances to 1st (walk)",3,1,,,,,J Wetherbee
-60,11,Delvin Zinn,BOTTOM,"Ball, Swinging Strike, Ball, Ball, Foul, 11 DelvinZinn advances to 1st (walk), 37 Kyle Kasser advances to 2nd (11), 1 Chase Harris advances to 3rd (11)",3,2,,,,,B Brosher
-61,7,Matt Lloyd,BOTTOM,"Ball, Ball, Foul, Foul, 7 Matt Lloyd advances to 1st (hit by pitch), 11 Delvin Zinn advances to 2nd(7), 37 Kyle Kasser advances to 3rd (7), 1 Chase Harris Scores Earned (7)Pitching Substitution    22 Jose Cruz subs for Angel Lebron Pitcher.",2,2,,,,,B Brosher
-62,8,Vince Fernandez,BOTTOM,"Ball, Called Strike, Ball, Ball, Foul, Foul, 8 Vince Fernandez advances to 1st (hit by pitch), 7 Matt Lloyd advances to 2nd (8), 11 Delvin Zinn advances to 3rd (8), 37 Kyle Kasser Scores Earned (8)",3,2,,,,,B Brosher
-63,33,Jake Ortega,BOTTOM,"Ball, Ball, 33 Jake Ortega advances to 1st (singleto center field), 8 Vince Fernandez advances to 2nd (33), 11 Delvin Zinn Scores Earned (33), 7 MattLloyd Scores Earned (33)",2,0,1,,,,B Brosher
-64,6,Tyler Rando,BOTTOM,"Ball, Called Strike, Ball, 6 Tyler Rando advancesto 2nd (double to right field), 8 Vince FernandezScores Earned (6), 33 Jake Ortega Scores Earned (6)",2,1,1,,,,B Brosher
-65,18,Daniel Perez,BOTTOM,"Foul, Ball, Swinging Strike, Ball, Foul, Ball, 18Daniel Perez advances to 1st (walk)",3,2,,,,,B Brosher
-66,17,Jake Sanford,BOTTOM,17 Jake Sanford putout (P4) for out number 3,0,0,,,1,,B Brosher
-67,0,Osvaldo Martinez,TOP,"Called Strike, Swinging Strike, Ball, 0 Osvaldo Martinez putout (P6) for out number 1",1,2,,1,,Jose Cruz,
-68,33,Tyler Ryan,TOP,"Foul, 33 Tyler Ryan advances to 2nd (double to left field)",0,1,1,,,Jose Cruz,
-69,2,Marshall Rich,TOP,"Called Strike, Ball, Ball, Called Strike, 2 Marshall Rich advances to 2nd (double to left field), 33Tyler Ryan advances to 3rd (2)",2,2,1,,,Bret Barnett,
-70,1,Wyatt Ulrich,TOP,"Ball, Ball, Called Strike, Ball, 2 Marshall Rich advances to 3rd (wild pitch), 33 Tyler Ryan ScoresEarned (wild pitch), 1 Wyatt Ulrich advances to 1st (walk)Pitching Substitution    36 Nate Gercken subs for Brandon Brosher Pitcher.",3,1,,,,Bret Barnett,
-71,21,Darnell Sweeney,TOP,"Foul, Pickoff attempt at 1st base (pitcher to first baseman), Swinging Strike, Ball, 21 Darnell Sweeney advances to 1st (fielder's choice), 2 MarshallRich Scores Earned (21), 1 Wyatt Ulrich putout (3-6) for out number 2",1,2,,1,,Bret Barnett,
-72,3,Jordan Barth,TOP,"Ball, 3 Jordan Barth advances to 2nd (double to center field), 21 Darnell Sweeney Scores Earned (3)",1,0,1,,,Bret Barnett,
-73,15,Welington Dotel,TOP,"Called Strike, Foul, 15 Welington Dotel putout (4-3) for out number 3",0,2,,1,,Bret Barnett,
-74,1,Chase Harris,BOTTOM,"Ball, Ball, Ball, 1 Chase Harris advances to 1st (walk)",3,0,,,,,B Brosher
-75,37,Kyle Kasser,BOTTOM,"Called Strike, Ball, Called Strike, 1 Chase Harrisadvances to 2nd (stolen base), 1 Chase Harris advances to 3rd (37), 37 Kyle Kasser putout (4-3) forout number 1",1,2,,,1,,B Brosher
-76,11,Delvin Zinn,BOTTOM,"Called Strike, Ball, Foul, Foul, Ball, Foul, Ball,11 Delvin Zinn advances to 1st (walk)",3,2,,,,,N Gercken
-77,7,Matt Lloyd,BOTTOM,"Ball, Ball, 11 Delvin Zinn advances to 2nd (stolenbase), Called Strike, 7 Matt Lloyd advances to 1st (single to center field), 7 Matt Lloyd advancesto 2nd (7), 11 Delvin Zinn Scores Earned (7), 1 Chase Harris Scores Earned (7)",2,1,1,,,,N Gercken
-78,8,Vince Fernandez,BOTTOM,"Swinging Strike, Ball, Foul, 8 Vince Fernandez putout (P5) for out number 2",1,2,,,1,,N Gercken
-79,33,Jake Ortega,BOTTOM,"Ball, Ball, 33 Jake Ortega putout (fly out to leftfield) for out number 3",2,0,,,1,,S Rackoski
-80,11,Jabari Henry,TOP,"Ball, Foul, Ball, Ball, 11 Jabari Henry advances to 1st (walk)",3,1,,,,Bret Barnett,
-81,16,Hunter Clanin,TOP,"Swinging Strike, 16 Hunter Clanin advances to 1st(fielder's choice), 11 Jabari Henry putout (4u) for out number 1",0,1,,1,,Colby Wyatt,
-82,0,Osvaldo Martinez,TOP,"Ball, Called Strike, Foul, 0 Osvaldo Martinez putout (9 Dp) for out number 2, 16 Hunter Clanin putout (9-3 DP) for out number 3",1,2,,1,,Colby Wyatt,
-83,6,Tyler Rando,BOTTOM,"Called Strike, Foul, Foul, Foul, Ball, Ball, 6 Tyler Rando advances to 1st (single to center field)",2,2,1,,,,S Rackoski
-84,18,Daniel Perez,BOTTOM,"Ball, 6 Tyler Rando advances to 2nd (wild pitch),Called Strike, Ball, Foul, 18 Daniel Perez putout(strike out swinging) for out number 1",2,2,,,1,,S Rackoski
-85,17,Jake Sanford,BOTTOM,"Swinging Strike, Foul, 6 Tyler Rando advances to 3rd (17), 17 Jake Sanford putout (3-1) for out number 2",0,2,,,1,,S Rackoski
-86,1,Chase Harris,BOTTOM,"Ball, Foul, Ball, 1 Chase Harris putout (P4) for out number 3",2,1,,,1,,S Rackoski
-87,33,Tyler Ryan,TOP,"Foul, Called Strike, Foul, 33 Tyler Ryan putout (strike out swinging) for out number 1",0,2,,1,,Colby Wyatt,
-88,2,Marshall Rich,TOP,2 Marshall Rich putout (fly out to center field) for out number 2,0,0,,1,,Colby Wyatt,
-89,1,Wyatt Ulrich,TOP,"Called Strike, 1 Wyatt Ulrich advances to 1st (single to right field)",0,1,1,,,Chris Hardin,
-90,21,Darnell Sweeney,TOP,"Ball, Ball, 1 Wyatt Ulrich advances to 2nd (DI 21), Ball, 21 Darnell Sweeney advances to 1st (walk)",3,0,,,,Chris Hardin,
-91,3,Jordan Barth,TOP,"Called Strike, 3 Jordan Barth putout (P2) for outnumber 3",0,1,,1,,Chris Hardin,
+1,21,Darnell Sweeney,TOP,"Ball, Called Strike, Foul, Foul, Ball, Ball, Foul,21 Darnell Sweeney advances to 1st (walk)",3,2,,,,J Wetherbee,
+2,3,Jordan Barth,TOP,3 Jordan Barth putout (fly out to right field) forout number 1,0,0,,1,,J Wetherbee,
+3,15,Welington Dotel,TOP,"Called Strike, 15 Welington Dotel advances to 1st(single to center field), 21 Darnell Sweeney advances to 2nd (15)",0,1,1,,,J Wetherbee,
+4,11,Jabari Henry,TOP,"Ball, 11 Jabari Henry advances to 2nd (double to left field), 15 Welington Dotel advances to 3rd (11), 21 Darnell Sweeney Scores Earned (11)",1,0,1,,,J Wetherbee,
+5,16,Hunter Clanin,TOP,"Ball, Ball, Ball, 16 Hunter Clanin advances to 1st(walk)",3,0,,,,J Wetherbee,
+6,0,Osvaldo Martinez,TOP,"Ball, Called Strike, Ball, Foul, Ball, 0 Osvaldo Martinez putout (fly out to right field) for out number 2",3,2,,1,,J Wetherbee,
+7,33,Tyler Ryan,TOP,"Ball, Swinging Strike, Swinging Strike, Ball, 33 Tyler Ryan putout (strike out) for out number 3",2,2,,1,,J Wetherbee,
+8,11,Delvin Zinn,BOTTOM,"Called Strike, Ball, Ball, Ball, Called Strike, 11Delvin Zinn putout (fly out to left field) for out number 1",3,2,,,1,,Chris Hardin
+9,7,Matt Lloyd,BOTTOM,"Ball, Called Strike, Foul, Ball, 7 Matt Lloyd advances to 1st (single to center field)",2,2,1,,,,Chris Hardin
+10,8,Vince Fernandez,BOTTOM,"Called Strike, Ball, 7 Matt Lloyd advances to 2nd(8), 8 Vince Fernandez putout (1-3) for out number2",1,1,,,1,,Chris Hardin
+11,33,Jake Ortega,BOTTOM,"Called Strike, Ball, Foul, Ball, Pickoff attempt at 2nd base (pitcher to shortstop), Ball, Foul, 33Jake Ortega advances to 1st (single to third base), 7 Matt Lloyd advances to 3rd (33)",3,2,1,,,,Chris Hardin
+12,6,Tyler Rando,BOTTOM,6 Tyler Rando putout (P4) for out number 3,0,0,,,1,,Chris Hardin
+13,2,Marshall Rich,TOP,2 Marshall Rich putout (fly out to center field) for out number 1,0,0,,1,,J Wetherbee,
+14,1,Wyatt Ulrich,TOP,"Ball, Ball, Ball, 1 Wyatt Ulrich advances to 1st (walk)",3,0,,,,J Wetherbee,
+15,21,Darnell Sweeney,TOP,"Foul, Ball, 1 Wyatt Ulrich advances to 2nd (wild pitch), 21 Darnell Sweeney advances to 1st (singleto left field), 1 Wyatt Ulrich advances to 3rd (21)",1,1,1,,,J Wetherbee,
+16,3,Jordan Barth,TOP,"3 Jordan Barth advances to 1st (single to left field), 21 Darnell Sweeney advances to 2nd (3), 1 Wyatt Ulrich Scores Earned (3)",0,0,1,,,J Wetherbee,
+17,15,Welington Dotel,TOP,"Called Strike, Ball, Swinging Strike, 15 WelingtonDotel putout (strike out swinging) for out number2",1,2,,1,,J Wetherbee,
+18,11,Jabari Henry,TOP,"Ball, Called Strike, Foul, Ball, Ball, Foul, Foul,11 Jabari Henry putout (strike out) for out number 3",3,2,,1,,J Wetherbee,
+19,18,Daniel Perez,BOTTOM,"Called Strike, Ball, Foul, Ball, Ball, 18 Daniel Perez putout (fly out to left field) for out number1",3,2,,,1,,Chris Hardin
+20,17,Jake Sanford,BOTTOM,"Ball, Called Strike, Ball, Foul, 17 Jake Sanford putout (1-3) for out number 2",2,2,,,1,,Chris Hardin
+21,1,Chase Harris,BOTTOM,"Swinging Strike, Ball, Swinging Strike, Ball, Foul, 1 Chase Harris putout (5-3) for out number 3",2,2,,,1,,Chris Hardin
+22,16,Hunter Clanin,TOP,"Called Strike, Ball, 16 Hunter Clanin advances to1st (single to center field)",1,1,1,,,J Wetherbee,
+23,0,Osvaldo Martinez,TOP,"Ball, 0 Osvaldo Martinez advances to 1st (single to left field), 16 Hunter Clanin advances to 2nd (0)",1,0,1,,,J Wetherbee,
+24,33,Tyler Ryan,TOP,"Ball, Called Strike, Swinging Strike, Foul, 16 Hunter Clanin advances to 3rd (33), 33 Tyler Ryan putout (fly out to right field) for out number 1",1,2,,1,,J Wetherbee,
+25,2,Marshall Rich,TOP,"Called Strike, Called Strike, Ball, 2 Marshall Rich advances to 1st (single to right field), 2 Marshall Rich advances to 2nd (2), 0 Osvaldo Martinez advances to 3rd (2), 16 Hunter Clanin Scores Earned(2)",1,2,1,,,J Wetherbee,
+26,1,Wyatt Ulrich,TOP,"Called Strike, Ball, Called Strike, Foul, Foul, 1Wyatt Ulrich putout (6-3) for out number 2",1,2,,1,,J Wetherbee,
+27,21,Darnell Sweeney,TOP,"21 Darnell Sweeney advances to 1st (single to leftfield), 2 Marshall Rich advances to 3rd (21), 0 Osvaldo Martinez Scores Earned (21), 2 Marshall Rich putout (7-2) for out number 3",0,0,1,1,,J Wetherbee,
+28,37,Kyle Kasser,BOTTOM,"Called Strike, Ball, 37 Kyle Kasser putout (4-3) for out number 1",1,1,,,1,,Chris Hardin
+29,11,Delvin Zinn,BOTTOM,"Called Strike, Ball, 11 Delvin Zinn putout (6-3) for out number 2",1,1,,,1,,Chris Hardin
+30,7,Matt Lloyd,BOTTOM,"Ball, Called Strike, Foul, Ball, 7 Matt Lloyd advances to 1st (single to right field)",2,2,1,,,,Chris Hardin
+31,8,Vince Fernandez,BOTTOM,"Pickoff attempt at 1st base (pitcher to first baseman), Ball, Ball, Foul, Ball, Called Strike, Foul,8 Vince Fernandez putout (P4) for out number 3",3,2,,,1,,Chris Hardin
+32,3,Jordan Barth,TOP,"Ball, Foul, Ball, 3 Jordan Barth putout (fly out to left field) for out number 1",2,1,,1,,J Wetherbee,
+33,15,Welington Dotel,TOP,15 Welington Dotel putout (4-3) for out number 2,0,0,,1,,J Wetherbee,
+34,11,Jabari Henry,TOP,"Called Strike, Ball, Called Strike, Foul, 11 Jabari Henry putout (fly out to left field) for out number 3",1,2,,1,,J Wetherbee,
+35,33,Jake Ortega,BOTTOM,"Called Strike, Ball, Foul, Ball, Ball, Foul, Foul,33 Jake Ortega putout (4-3) for out number 1",3,2,,,1,,Chris Hardin
+36,6,Tyler Rando,BOTTOM,"Ball, 6 Tyler Rando advances to 1st (single to shortstop)",1,0,1,,,,Chris Hardin
+37,18,Daniel Perez,BOTTOM,"Swinging Strike, Called Strike, Ball, Ball, 18 Daniel Perez advances to 1st (single to shortstop), 6Tyler Rando advances to 2nd (18)",2,2,1,,,,Chris Hardin
+38,17,Jake Sanford,BOTTOM,17 Jake Sanford putout (fly out to right field) for out number 2,0,0,,,1,,Chris Hardin
+39,1,Chase Harris,BOTTOM,"Ball, Ball, Foul, Called Strike, Ball, 1 Chase Harris advances to 2nd (double to left field), 6 Tyler Rando Scores Earned (1), 18 Daniel Perez ScoresEarned (1)",3,2,1,,,,Chris Hardin
+40,37,Kyle Kasser,BOTTOM,"Pickoff attempt at 2nd base (pitcher to shortstop), Foul, Ball, Ball, 37 Kyle Kasser putout (fly outto left field) for out number 3",2,1,,,1,,Chris Hardin
+41,16,Hunter Clanin,TOP,"Ball, Ball, Foul, Ball, Foul, 16 Hunter Clanin Scores Earned (home run)",3,2,1,,,J Wetherbee,
+42,0,Osvaldo Martinez,TOP,"Ball, Ball, Called Strike, Ball, Called Strike, Foul, 0 Osvaldo Martinez advances to 1st (walk)",3,2,,,,J Wetherbee,
+43,33,Tyler Ryan,TOP,"Ball, Swinging Strike, Swinging Strike, 0 OsvaldoMartinez putout (caught stealing: CS 2-4) for outnumber 1, 33 Tyler Ryan putout (fly out to left field) for out number 2",1,2,,1,,J Wetherbee,
+44,2,Marshall Rich,TOP,"Foul, Ball, Ball, Foul, 2 Marshall Rich putout (strike out) for out number 3",2,2,,1,,J Wetherbee,
+45,11,Delvin Zinn,BOTTOM,"Swinging Strike, Ball, Swinging Strike, Ball, Ball, Foul, 11 Delvin Zinn putout (strike out swinging) for out number 1",3,2,,,1,,Chris Hardin
+46,7,Matt Lloyd,BOTTOM,"Called Strike, 7 Matt Lloyd putout (fly out to left field) for out number 2",0,1,,,1,,Chris Hardin
+47,8,Vince Fernandez,BOTTOM,"Ball, Called Strike, 8 Vince Fernandez advances to2nd (double to right field), 8 Vince Fernandez putout (9-4-5) for out number 3",1,1,1,,1,,Chris Hardin
+48,1,Wyatt Ulrich,TOP,"Called Strike, 1 Wyatt Ulrich putout (4-3) for outnumber 1Pitching Substitution    10 Brandon Brosher subs for Jared Wetherbee Pitcher.",0,1,,1,,J Wetherbee,
+49,21,Darnell Sweeney,TOP,"Foul, 21 Darnell Sweeney Scores Earned (home run)",0,1,1,,,B Brosher,
+50,3,Jordan Barth,TOP,"Called Strike, Ball, Foul, Ball, 3 Jordan Barth putout (5-3) for out number 2",2,2,,1,,B Brosher,
+51,15,Welington Dotel,TOP,"Ball, Swinging Strike, 15 Welington Dotel advancesto 1st (error by the pitcher)",1,1,,,,B Brosher,
+52,11,Jabari Henry,TOP,"Called Strike, Called Strike, 15 Welington Dotel advances to 2nd (stolen base), Ball, 15 Welington Dotel advances to 3rd (wild pitch), Ball, Ball, Foul, 11 Jabari Henry advances to 1st (walk)",3,2,,,,B Brosher,
+53,16,Hunter Clanin,TOP,"Called Strike, Foul, Foul, 16 Hunter Clanin putout(L6) for out number 3",0,2,,1,,B Brosher,
+54,33,Jake Ortega,BOTTOM,"Called Strike, Foul, Foul, 33 Jake Ortega advancesto 2nd (double to right field)",0,2,1,,,,Angel Lebron
+55,6,Tyler Rando,BOTTOM,"Called Strike, Foul, 6 Tyler Rando putout (fly outto right field) for out number 1",0,2,,,1,,Angel Lebron
+56,18,Daniel Perez,BOTTOM,"Ball, Ball, Foul, Ball, Called Strike, 18 Daniel Perez advances to 1st (single to left field), 33 Jake Ortega advances to 3rd (18), 18 Daniel Perez advances to 3rd (18), 33 Jake Ortega Scores Earned (error by the third baseman)",3,2,1,,,,Angel Lebron
+57,17,Jake Sanford,BOTTOM,"Ball, Called Strike, Ball, Swinging Strike, 17 Jake Sanford putout (strike out swinging) for out number 2",2,2,,,1,,Angel Lebron
+58,1,Chase Harris,BOTTOM,"Foul, 1 Chase Harris advances to 1st (single to left field), 18 Daniel Perez Scores Earned (1)",0,1,1,,,,Angel Lebron
+59,37,Kyle Kasser,BOTTOM,"Ball, Ball, Called Strike, Ball, 1 Chase Harris advances to 2nd (stolen base), 37 Kyle Kasser advances to 1st (walk)",3,1,,,,,Angel Lebron
+60,11,Delvin Zinn,BOTTOM,"Ball, Swinging Strike, Ball, Ball, Foul, 11 DelvinZinn advances to 1st (walk), 37 Kyle Kasser advances to 2nd (11), 1 Chase Harris advances to 3rd (11)",3,2,,,,,Angel Lebron
+61,7,Matt Lloyd,BOTTOM,"Ball, Ball, Foul, Foul, 7 Matt Lloyd advances to 1st (hit by pitch), 11 Delvin Zinn advances to 2nd(7), 37 Kyle Kasser advances to 3rd (7), 1 Chase Harris Scores Earned (7)Pitching Substitution    22 Jose Cruz subs for Angel Lebron Pitcher.",2,2,,,,,Angel Lebron
+62,8,Vince Fernandez,BOTTOM,"Ball, Called Strike, Ball, Ball, Foul, Foul, 8 Vince Fernandez advances to 1st (hit by pitch), 7 Matt Lloyd advances to 2nd (8), 11 Delvin Zinn advances to 3rd (8), 37 Kyle Kasser Scores Earned (8)",3,2,,,,,Jose Cruz
+63,33,Jake Ortega,BOTTOM,"Ball, Ball, 33 Jake Ortega advances to 1st (singleto center field), 8 Vince Fernandez advances to 2nd (33), 11 Delvin Zinn Scores Earned (33), 7 MattLloyd Scores Earned (33)",2,0,1,,,,Jose Cruz
+64,6,Tyler Rando,BOTTOM,"Ball, Called Strike, Ball, 6 Tyler Rando advancesto 2nd (double to right field), 8 Vince FernandezScores Earned (6), 33 Jake Ortega Scores Earned (6)",2,1,1,,,,Jose Cruz
+65,18,Daniel Perez,BOTTOM,"Foul, Ball, Swinging Strike, Ball, Foul, Ball, 18Daniel Perez advances to 1st (walk)",3,2,,,,,Jose Cruz
+66,17,Jake Sanford,BOTTOM,17 Jake Sanford putout (P4) for out number 3,0,0,,,1,,Jose Cruz
+67,0,Osvaldo Martinez,TOP,"Called Strike, Swinging Strike, Ball, 0 Osvaldo Martinez putout (P6) for out number 1",1,2,,1,,B Brosher,
+68,33,Tyler Ryan,TOP,"Foul, 33 Tyler Ryan advances to 2nd (double to left field)",0,1,1,,,B Brosher,
+69,2,Marshall Rich,TOP,"Called Strike, Ball, Ball, Called Strike, 2 Marshall Rich advances to 2nd (double to left field), 33Tyler Ryan advances to 3rd (2)",2,2,1,,,B Brosher,
+70,1,Wyatt Ulrich,TOP,"Ball, Ball, Called Strike, Ball, 2 Marshall Rich advances to 3rd (wild pitch), 33 Tyler Ryan ScoresEarned (wild pitch), 1 Wyatt Ulrich advances to 1st (walk)Pitching Substitution    36 Nate Gercken subs for Brandon Brosher Pitcher.",3,1,,,,B Brosher,
+71,21,Darnell Sweeney,TOP,"Foul, Pickoff attempt at 1st base (pitcher to first baseman), Swinging Strike, Ball, 21 Darnell Sweeney advances to 1st (fielder's choice), 2 MarshallRich Scores Earned (21), 1 Wyatt Ulrich putout (3-6) for out number 2",1,2,,1,,N Gercken,
+72,3,Jordan Barth,TOP,"Ball, 3 Jordan Barth advances to 2nd (double to center field), 21 Darnell Sweeney Scores Earned (3)",1,0,1,,,N Gercken,
+73,15,Welington Dotel,TOP,"Called Strike, Foul, 15 Welington Dotel putout (4-3) for out number 3",0,2,,1,,N Gercken,
+74,1,Chase Harris,BOTTOM,"Ball, Ball, Ball, 1 Chase Harris advances to 1st (walk)",3,0,,,,,Bret Barnett
+75,37,Kyle Kasser,BOTTOM,"Called Strike, Ball, Called Strike, 1 Chase Harrisadvances to 2nd (stolen base), 1 Chase Harris advances to 3rd (37), 37 Kyle Kasser putout (4-3) forout number 1",1,2,,,1,,Bret Barnett
+76,11,Delvin Zinn,BOTTOM,"Called Strike, Ball, Foul, Foul, Ball, Foul, Ball,11 Delvin Zinn advances to 1st (walk)",3,2,,,,,Bret Barnett
+77,7,Matt Lloyd,BOTTOM,"Ball, Ball, 11 Delvin Zinn advances to 2nd (stolenbase), Called Strike, 7 Matt Lloyd advances to 1st (single to center field), 7 Matt Lloyd advancesto 2nd (7), 11 Delvin Zinn Scores Earned (7), 1 Chase Harris Scores Earned (7)",2,1,1,,,,Bret Barnett
+78,8,Vince Fernandez,BOTTOM,"Swinging Strike, Ball, Foul, 8 Vince Fernandez putout (P5) for out number 2",1,2,,,1,,Bret Barnett
+79,33,Jake Ortega,BOTTOM,"Ball, Ball, 33 Jake Ortega putout (fly out to leftfield) for out number 3",2,0,,,1,,Bret Barnett
+80,11,Jabari Henry,TOP,"Ball, Foul, Ball, Ball, 11 Jabari Henry advances to 1st (walk)",3,1,,,,S Rackoski,
+81,16,Hunter Clanin,TOP,"Swinging Strike, 16 Hunter Clanin advances to 1st(fielder's choice), 11 Jabari Henry putout (4u) for out number 1",0,1,,1,,S Rackoski,
+82,0,Osvaldo Martinez,TOP,"Ball, Called Strike, Foul, 0 Osvaldo Martinez putout (9 Dp) for out number 2, 16 Hunter Clanin putout (9-3 DP) for out number 3",1,2,,1,,S Rackoski,
+83,6,Tyler Rando,BOTTOM,"Called Strike, Foul, Foul, Foul, Ball, Ball, 6 Tyler Rando advances to 1st (single to center field)",2,2,1,,,,Colby Wyatt
+84,18,Daniel Perez,BOTTOM,"Ball, 6 Tyler Rando advances to 2nd (wild pitch),Called Strike, Ball, Foul, 18 Daniel Perez putout(strike out swinging) for out number 1",2,2,,,1,,Colby Wyatt
+85,17,Jake Sanford,BOTTOM,"Swinging Strike, Foul, 6 Tyler Rando advances to 3rd (17), 17 Jake Sanford putout (3-1) for out number 2",0,2,,,1,,Colby Wyatt
+86,1,Chase Harris,BOTTOM,"Ball, Foul, Ball, 1 Chase Harris putout (P4) for out number 3",2,1,,,1,,Colby Wyatt
+87,33,Tyler Ryan,TOP,"Foul, Called Strike, Foul, 33 Tyler Ryan putout (strike out swinging) for out number 1",0,2,,1,,S Rackoski,
+88,2,Marshall Rich,TOP,2 Marshall Rich putout (fly out to center field) for out number 2,0,0,,1,,S Rackoski,
+89,1,Wyatt Ulrich,TOP,"Called Strike, 1 Wyatt Ulrich advances to 1st (single to right field)",0,1,1,,,S Rackoski,
+90,21,Darnell Sweeney,TOP,"Ball, Ball, 1 Wyatt Ulrich advances to 2nd (DI 21), Ball, 21 Darnell Sweeney advances to 1st (walk)",3,0,,,,S Rackoski,
+91,3,Jordan Barth,TOP,"Called Strike, 3 Jordan Barth putout (P2) for outnumber 3",0,1,,1,,S Rackoski,

@@ -1,0 +1,86 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM
+1,21,Darnell Sweeney,TOP,"Called Strike, Ball, Ball, Ball, Swinging Strike,Foul, 21 Darnell Sweeney advances to 1st (single to right field)",3,2,1,,
+2,3,Jordan Barth,TOP,"Ball, 3 Jordan Barth advances to 1st (single to center field), 21 Darnell Sweeney advances to 2nd (3)",1,0,1,,
+3,1,Wyatt Ulrich,TOP,"1 Wyatt Ulrich advances to 1st (fielder's choice),21 Darnell Sweeney advances to 3rd (1), 3 JordanBarth putout (4-6) for out number 1",0,0,,1,
+4,11,Jabari Henry,TOP,"Foul, 21 Darnell Sweeney Scores Earned (11), 1 Wyatt Ulrich Scores Earned (11), 11 Jabari Henry Scores Earned (home run)",0,1,1,,
+5,20,Mike Hart,TOP,"Called Strike, Foul, Foul, Foul, 20 Mike Hart advances to 1st (hit by pitch)",0,2,,,
+6,5,Trevor Achenbach,TOP,"Called Strike, Ball, 5 Trevor Achenbach putout (fly out to left field) for out number 2",1,1,,1,
+7,16,Hunter Clanin,TOP,"Ball, Foul, Ball, Ball, 16 Hunter Clanin advancesto 1st (walk), 20 Mike Hart advances to 2nd (16)",3,1,,,
+8,35,Shamoy Christopher,TOP,"Ball, Foul, Ball, 35 Shamoy Christopher putout (fly out to right field) for out number 3",2,1,,1,
+9,1,Chase Harris,BOTTOM,"Called Strike, Ball, Ball, Called Strike, Ball, 1Chase Harris advances to 1st (walk)",3,2,,,
+10,8,Vince Fernandez,BOTTOM,"Swinging Strike, Ball, Ball, Called Strike, Foul,Pickoff attempt at 1st base (pitcher to first baseman), 8 Vince Fernandez putout (fly out to left field) for out number 1",2,2,,,1
+11,26,John Nogowski,BOTTOM,"Ball, 1 Chase Harris putout (5-4) for out number 2, 26 John Nogowski putout (5-4-3 DP) for out number 3",1,0,,,1
+12,2,Carson Clowers,TOP,"Ball, Swinging Strike, Foul, Ball, 2 Carson Clowers putout (strike out swinging) for out number 1",2,2,,1,
+13,21,Darnell Sweeney,TOP,"Ball, Swinging Strike, Foul, Foul, Ball, 21 Darnell Sweeney putout (strike out swinging) for out number 2",2,2,,1,
+14,3,Jordan Barth,TOP,"Ball, 3 Jordan Barth putout (6-3) for out number 3",1,0,,1,
+15,7,Matt Lloyd,BOTTOM,"Foul, 7 Matt Lloyd advances to 1st (single to center field)",0,1,1,,
+16,4,Miguel Sierra,BOTTOM,"Called Strike, Foul, Ball, Ball, Pickoff attempt at 1st base (pitcher to first baseman), Pickoff attempt at 1st base (pitcher to first baseman), 7 Matt Lloyd Scores Earned (4), 4 Miguel Sierra ScoresEarned (home run)",2,2,1,,
+17,18,Daniel Perez,BOTTOM,"Ball, Ball, Called Strike, Foul, Ball, Foul, 18 Daniel Perez putout (3-1) for out number 1",3,2,,,1
+18,24,Wilfredo Gimenez,BOTTOM,"Foul, 24 Wilfredo Gimenez putout (fly out to center field) for out number 2",0,1,,,1
+19,17,Jake Sanford,BOTTOM,"Foul, Ball, 17 Jake Sanford putout (fly out to left field) for out number 3",1,1,,,1
+20,1,Wyatt Ulrich,TOP,"Ball, Called Strike, Foul, 1 Wyatt Ulrich putout (fly out to left field) for out number 1",1,2,,1,
+21,11,Jabari Henry,TOP,"Foul, Ball, 11 Jabari Henry advances to 1st (hit by pitch)",1,1,,,
+22,20,Mike Hart,TOP,"Called Strike, Ball, Foul, Ball, Foul, Foul, Foul,20 Mike Hart putout (P4) for out number 2",2,2,,1,
+23,5,Trevor Achenbach,TOP,"Ball, Pickoff attempt at 1st base (pitcher to first baseman), Called Strike, Ball, Foul, 5 Trevor Achenbach putout (fly out to center field) for out number 3",2,2,,1,
+24,11,Delvin Zinn,BOTTOM,"Called Strike, Swinging Strike, 11 Delvin Zinn putout (strike out swinging) for out number 1",0,2,,,1
+25,1,Chase Harris,BOTTOM,"Ball, Called Strike, Called Strike, 1 Chase Harrisadvances to 1st (single to center field)",1,2,1,,
+26,8,Vince Fernandez,BOTTOM,"Called Strike, Ball, 1 Chase Harris advances to 2nd (stolen base), 1 Chase Harris Scores Earned (8),8 Vince Fernandez Scores Earned (home run)",1,1,1,,
+27,26,John Nogowski,BOTTOM,"Ball, Ball, Ball, 26 John Nogowski advances to 1st(walk)",3,0,,,
+28,7,Matt Lloyd,BOTTOM,"Foul, 7 Matt Lloyd putout (fly out to left field)for out number 2",0,1,,,1
+29,4,Miguel Sierra,BOTTOM,"Called Strike, Ball, Ball, Swinging Strike, Ball,Foul, 4 Miguel Sierra advances to 1st (single to left field), 26 John Nogowski advances to 2nd (4)",3,2,1,,
+30,18,Daniel Perez,BOTTOM,"Ball, Called Strike, Ball, Foul, Ball, 18 Daniel Perez advances to 1st (single to the pitcher), 4 Miguel Sierra advances to 2nd (18), 26 John Nogowskiadvances to 3rd (18)",3,2,1,,
+31,24,Wilfredo Gimenez,BOTTOM,"Ball, Swinging Strike, Ball, Swinging Strike, Foul, Foul, Foul, Foul, 24 Wilfredo Gimenez putout (fly out to left field) for out number 3",2,2,,,1
+32,16,Hunter Clanin,TOP,"Called Strike, Foul, 16 Hunter Clanin putout (4-3)for out number 1",0,2,,1,
+33,35,Shamoy Christopher,TOP,"Called Strike, 35 Shamoy Christopher putout (4-3)for out number 2",0,1,,1,
+34,2,Carson Clowers,TOP,"Ball, 2 Carson Clowers putout (5-3) for out number3",1,0,,1,
+35,17,Jake Sanford,BOTTOM,"Called Strike, Called Strike, 17 Jake Sanford putout (strike out swinging) for out number 1",0,2,,,1
+36,11,Delvin Zinn,BOTTOM,"Ball, Ball, Called Strike, Swinging Strike, 11 Delvin Zinn putout (5-3) for out number 2",2,2,,,1
+37,1,Chase Harris,BOTTOM,1 Chase Harris putout (5-3) for out number 3,0,0,,,1
+38,21,Darnell Sweeney,TOP,"Called Strike, Swinging Strike, Ball, Ball, Ball,21 Darnell Sweeney advances to 1st (walk)",3,2,,,
+39,3,Jordan Barth,TOP,"3 Jordan Barth advances to 1st (single to left field), 21 Darnell Sweeney advances to 2nd (3)",0,0,1,,
+40,1,Wyatt Ulrich,TOP,"3 Jordan Barth advances to 2nd (1), 21 Darnell Sweeney advances to 3rd (1), 1 Wyatt Ulrich putout (2-3 SH) for out number 1",0,0,,1,
+41,11,Jabari Henry,TOP,"Foul, Foul, 11 Jabari Henry advances to 1st (hit by pitch)",0,2,,,
+42,20,Mike Hart,TOP,"Called Strike, 21 Darnell Sweeney Scores Earned (20), 3 Jordan Barth Scores Earned (20), 11 Jabari Henry Scores Earned (20), 20 Mike Hart Scores Earned (home run)",0,1,1,,
+43,5,Trevor Achenbach,TOP,"Ball, Foul, Foul, Foul, Foul, 5 Trevor Achenbach putout (strike out swinging) for out number 2",1,2,,1,
+44,16,Hunter Clanin,TOP,16 Hunter Clanin advances to 2nd (double to left field),0,0,1,,
+45,35,Shamoy Christopher,TOP,"Called Strike, 35 Shamoy Christopher putout (P4) for out number 3",0,1,,1,
+46,8,Vince Fernandez,BOTTOM,"Ball, Called Strike, Ball, Ball, Foul, Foul, 8 Vince Fernandez advances to 1st (walk)",3,2,,,
+47,26,John Nogowski,BOTTOM,26 John Nogowski putout (fly out to left field) for out number 1,0,0,,,1
+48,7,Matt Lloyd,BOTTOM,"Pickoff attempt at 1st base (pitcher to first baseman), Ball, Called Strike, 8 Vince Fernandez putout (4-6) for out number 2, 7 Matt Lloyd putout (4-6-3 DP) for out number 3",1,1,,,1
+49,2,Carson Clowers,TOP,"Ball, Ball, Swinging Strike, 2 Carson Clowers advances to 2nd (double to left field)",2,1,1,,
+50,21,Darnell Sweeney,TOP,"Foul, Ball, Ball, 21 Darnell Sweeney putout (fly out to center field) for out number 1",2,1,,1,
+51,3,Jordan Barth,TOP,"Ball, 3 Jordan Barth putout (fly out to center field) for out number 2",1,0,,1,
+52,1,Wyatt Ulrich,TOP,"Called Strike, Ball, Swinging Strike, 1 Wyatt Ulrich putout (strike out swinging) for out number 3",1,2,,1,
+53,4,Miguel Sierra,BOTTOM,"Called Strike, Ball, Ball, Ball, Called Strike, 4Miguel Sierra putout (strike out swinging) for outnumber 1",3,2,,,1
+54,18,Daniel Perez,BOTTOM,"Ball, Ball, Called Strike, Ball, 18 Daniel Perez advances to 1st (walk)",3,1,,,
+55,24,Wilfredo Gimenez,BOTTOM,"Ball, 24 Wilfredo Gimenez advances to 2nd (doubleto left field), 18 Daniel Perez advances to 3rd (24)",1,0,1,,
+56,17,Jake Sanford,BOTTOM,"Swinging Strike, Ball, Foul, Ball, Ball, Foul, 17Jake Sanford advances to 1st (walk)Pitching Substitution    17 Seth Miller subs for Ty Culbreth Pitcher.",3,2,,,
+57,11,Delvin Zinn,BOTTOM,"Ball, Foul, Ball, Ball, Foul, 11 Delvin Zinn putout (P4) for out number 2",3,2,,,1
+58,1,Chase Harris,BOTTOM,"Ball, 1 Chase Harris advances to 1st (single to left field), 17 Jake Sanford advances to 2nd (1), 18Daniel Perez Scores Earned (1), 24 Wilfredo Gimenez Scores Earned (1)",1,0,1,,
+59,8,Vince Fernandez,BOTTOM,"Ball, Ball, Ball, 8 Vince Fernandez advances to 1st (walk), 1 Chase Harris advances to 2nd (8), 17 Jake Sanford advances to 3rd (8)",3,0,,,
+60,26,John Nogowski,BOTTOM,"Ball, 26 John Nogowski putout (fly out to right field) for out number 3",1,0,,,1
+61,11,Jabari Henry,TOP,"Ball, Ball, Called Strike, Foul, Ball, Foul, 11 Jabari Henry putout (fly out to left field) for outnumber 1",3,2,,1,
+62,20,Mike Hart,TOP,"Ball, Called Strike, Called Strike, Foul, 20 MikeHart putout (strike out swinging) for out number 2",1,2,,1,
+63,5,Trevor Achenbach,TOP,"Ball, Foul, Ball, Ball, 5 Trevor Achenbach putout(P5) for out number 3",3,1,,1,
+64,7,Matt Lloyd,BOTTOM,"Ball, 7 Matt Lloyd putout (6-3) for out number 1",1,0,,,1
+65,4,Miguel Sierra,BOTTOM,"Ball, Foul, Swinging Strike, Ball, Foul, 4 MiguelSierra putout (5-3) for out number 2",2,2,,,1
+66,18,Daniel Perez,BOTTOM,"Called Strike, Ball, 18 Daniel Perez putout (4-3)for out number 3",1,1,,,1
+67,16,Hunter Clanin,TOP,16 Hunter Clanin advances to 1st (single to left field),0,0,1,,
+68,35,Shamoy Christopher,TOP,"16 Hunter Clanin advances to 2nd (35), 35 Shamoy Christopher putout (1-3 SH) for out number 1",0,0,,1,
+69,2,Carson Clowers,TOP,"Ball, Swinging Strike, Foul, Foul, 2 Carson Clowers putout (strike out swinging) for out number 2",1,2,,1,
+70,21,Darnell Sweeney,TOP,21 Darnell Sweeney advances to 1st (intentional walk),0,0,,,
+71,3,Jordan Barth,TOP,"Swinging Strike, 3 Jordan Barth advances to 2nd (double to right field), 21 Darnell Sweeney Scores Earned (3), 16 Hunter Clanin Scores Earned (3)",0,1,1,,
+72,1,Wyatt Ulrich,TOP,"Foul, Swinging Strike, 1 Wyatt Ulrich putout (1-3)for out number 3",0,2,,1,
+73,24,Wilfredo Gimenez,BOTTOM,"Ball, Swinging Strike, 24 Wilfredo Gimenez ScoresEarned (home run)",1,1,1,,
+74,17,Jake Sanford,BOTTOM,"Ball, Swinging Strike, Ball, 17 Jake Sanford putout (1-3) for out number 1",2,1,,,1
+75,11,Delvin Zinn,BOTTOM,"Ball, Ball, Called Strike, Ball, Called Strike, 11Delvin Zinn advances to 1st (walk)",3,2,,,
+76,1,Chase Harris,BOTTOM,"Called Strike, Foul, Ball, Foul, Ball, 11 Delvin Zinn advances to 2nd (stolen base), Ball, 1 Chase Harris putout (strike out swinging) for out number2",3,2,,,1
+77,8,Vince Fernandez,BOTTOM,"Swinging Strike, Swinging Strike, Ball, Ball, Ball, 8 Vince Fernandez advances to 1st (walk)",3,2,,,
+78,26,John Nogowski,BOTTOM,"Called Strike, Ball, Ball, Ball, 26 John Nogowskiputout (P4) for out number 3",3,1,,,1
+79,11,Jabari Henry,TOP,"Called Strike, Foul, Ball, Ball, 11 Jabari Henry putout (strike out) for out number 1",2,2,,1,
+80,20,Mike Hart,TOP,"Swinging Strike, Called Strike, Ball, Ball, 20 Mike Hart Scores Earned (home run)",2,2,1,,
+81,5,Trevor Achenbach,TOP,"Called Strike, Ball, Foul, 5 Trevor Achenbach putout (strike out swinging) for out number 2",1,2,,1,
+82,16,Hunter Clanin,TOP,"Called Strike, Ball, Called Strike, Ball, Foul, 16Hunter Clanin putout (strike out swinging) for out number 3",2,2,,1,
+83,7,Matt Lloyd,BOTTOM,"Swinging Strike, 7 Matt Lloyd putout (4-3) for outnumber 1",0,1,,,1
+84,4,Miguel Sierra,BOTTOM,"Called Strike, Swinging Strike, 4 Miguel Sierra putout (strike out swinging) for out number 2",0,2,,,1
+85,18,Daniel Perez,BOTTOM,"Called Strike, Ball, Swinging Strike, Ball, 18 Daniel Perez putout (strike out swinging) for out number 3",2,2,,,1

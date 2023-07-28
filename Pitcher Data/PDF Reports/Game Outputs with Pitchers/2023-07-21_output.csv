@@ -1,0 +1,84 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM,Pitcher Top,Pitcher Bottom
+1,21,Darnell Sweeney,TOP,"Ball, Ball, Ball, Called Strike, Called Strike, 21Darnell Sweeney putout (fly out to left field) for out number 1",3,2,,1,,J Guzman,
+2,1,Wyatt Ulrich,TOP,"Ball, Ball, Ball, Called Strike, 1 Wyatt Ulrich advances to 1st (single)",3,1,1,,,J Guzman,
+3,3,Jordan Barth,TOP,"Ball, 3 Jordan Barth advances to 1st (single), 1 Wyatt Ulrich advances to 2nd (3)",1,0,1,,,J Guzman,
+4,11,Jabari Henry,TOP,"Called Strike, Swinging Strike, Ball, Ball, Ball,Foul, 11 Jabari Henry advances to 1st (walk), 3 Jordan Barth advances to 2nd (11), 1 Wyatt Ulrich advances to 3rd (11)",3,2,,,,J Guzman,
+5,20,Mike Hart,TOP,"Swinging Strike, Ball, 11 Jabari Henry advances to2nd (20), 11 Jabari Henry advances to 3rd (errorby the center fielder), 1 Wyatt Ulrich Scores Earned (20), 3 Jordan Barth Scores Earned (20), 20 Mike Hart advances to 1st (single)",1,1,1,,,J Guzman,
+6,5,Trevor Achenbach,TOP,"Called Strike, Ball, 20 Mike Hart advances to 2nd(20), 5 Trevor Achenbach advances to 1st (single),20 Mike Hart advances to 3rd (5), 11 Jabari HenryScores Earned (5)",1,1,1,,,J Guzman,
+7,15,Welington Dotel,TOP,"Ball, Swinging Strike, Ball, 15 Welington Dotel advances to 1st (single), 5 Trevor Achenbach advances to 2nd (15), 20 Mike Hart Scores Earned (15)",2,1,1,,,J Guzman,
+8,35,Shamoy Christopher,TOP,"Ball, Ball, Ball, 35 Shamoy Christopher advances to 1st (walk), 15 Welington Dotel advances to 2nd (35), 5 Trevor Achenbach advances to 3rd (35)",3,0,,,,J Guzman,
+9,0,Osvaldo Martinez,TOP,"Ball, Ball, Ball, 0 Osvaldo Martinez advances to 1st (walk), 35 Shamoy Christopher advances to 2nd (0), 15 Welington Dotel advances to 3rd (0), 5 Trevor Achenbach Scores Earned (0)Pitching Substitution    19 Augie Voight subs for Jorge Guzman Pitcher.",3,0,,,,J Guzman,
+10,21,Darnell Sweeney,TOP,"Called Strike, 21 Darnell Sweeney putout (3 Dp) for out number 2, 0 Osvaldo Martinez putout (3-3 DP)for out number 3",0,1,,1,,A Voight,
+11,20,Blake Tiberi,BOTTOM,"Called Strike, Swinging Strike, Ball, Foul, Foul,Ball, 20 Blake Tiberi putout (fly out to left field) for out number 1",2,2,,,1,,Mitchell Walters
+12,17,Thomas Jones,BOTTOM,"Called Strike, Foul, Foul, Ball, Ball, Ball, 17 Thomas Jones putout (6-3) for out number 2",3,2,,,1,,Mitchell Walters
+13,7,Demetrius Sims,BOTTOM,"Ball, Ball, Called Strike, Ball, 7 Demetrius Simsadvances to 1st (walk)",3,1,,,,,Mitchell Walters
+14,9,Marcus Chiu,BOTTOM,"Ball, 9 Marcus Chiu advances to 2nd (ground rule double), 7 Demetrius Sims advances to 3rd (9)",1,0,1,,,,Mitchell Walters
+15,25,Curtis Terry,BOTTOM,"Ball, Foul, Ball, Foul, Foul, 25 Curtis Terry putout (strike out swinging) for out number 3",2,2,,,1,,Mitchell Walters
+16,1,Wyatt Ulrich,TOP,"Ball, 1 Wyatt Ulrich putout (4-3) for out number 1",1,0,,1,,A Voight,
+17,3,Jordan Barth,TOP,"Ball, Foul, 3 Jordan Barth putout (5-3) for out number 2",1,1,,1,,A Voight,
+18,11,Jabari Henry,TOP,"Ball, Called Strike, Called Strike, 11 Jabari Henry advances to 1st (single), 11 Jabari Henry putout(8-4) for out number 3",1,2,1,1,,A Voight,
+19,15,Kevin Maitan,BOTTOM,"Ball, Foul, Ball, Called Strike, Foul, Ball, 15 Kevin Maitan advances to 1st (walk)",3,2,,,,,Mitchell Walters
+20,13,Brian Rey,BOTTOM,"Foul, Swinging Strike, 13 Brian Rey advances to 1st (fielder's choice), 15 Kevin Maitan putout (6-4)for out number 1",0,2,,,1,,Mitchell Walters
+21,12,Dustin Woodcock,BOTTOM,"Ball, Called Strike, Foul, Pickoff attempt at 1stbase (pitcher to first baseman), Ball, Ball, 13 Brian Rey advances to 2nd (12), 12 Dustin Woodcock putout (4-3) for out number 2",3,2,,,1,,Mitchell Walters
+22,11,Jaxx Groshans,BOTTOM,"Ball, Called Strike, Ball, Swinging Strike, Ball,11 Jaxx Groshans putout (6-3) for out number 3",3,2,,,1,,Mitchell Walters
+23,20,Mike Hart,TOP,"Called Strike, Foul, Ball, Foul, Ball, 20 Mike Hart advances to 2nd (double)",2,2,1,,,A Voight,
+24,5,Trevor Achenbach,TOP,"Ball, Ball, Swinging Strike, 20 Mike Hart Scores Earned (5), 5 Trevor Achenbach Scores Earned (homerun)",2,1,,,,A Voight,
+25,15,Welington Dotel,TOP,"Called Strike, Called Strike, Ball, 15 Welington Dotel putout (L9) for out number 1",1,2,,1,,A Voight,
+26,35,Shamoy Christopher,TOP,"Ball, 35 Shamoy Christopher advances to 1st (single)",1,0,1,,,A Voight,
+27,0,Osvaldo Martinez,TOP,"Called Strike, Foul, 0 Osvaldo Martinez putout (strike out swinging) for out number 2",0,2,,1,,A Voight,
+28,21,Darnell Sweeney,TOP,"Ball, Ball, Called Strike, Swinging Strike, Foul,Foul, Foul, Ball, 21 Darnell Sweeney putout (strike out swinging) for out number 3",3,2,,1,,A Voight,
+29,20,Blake Tiberi,BOTTOM,"Called Strike, Ball, Ball, Called Strike, Foul, Ball, Foul, Foul, 20 Blake Tiberi advances to 1st (walk)",3,2,,,,,Mitchell Walters
+30,17,Thomas Jones,BOTTOM,"Swinging Strike, 17 Thomas Jones putout (fly out to right field) for out number 1",0,1,,,1,,Mitchell Walters
+31,7,Demetrius Sims,BOTTOM,"Swinging Strike, Ball, 7 Demetrius Sims advances to 1st (single), 20 Blake Tiberi advances to 2nd (7)",1,1,1,,,,Mitchell Walters
+32,9,Marcus Chiu,BOTTOM,"Ball, Ball, Called Strike, Ball, Foul, 9 Marcus Chiu advances to 3rd (triple), 20 Blake Tiberi Scores Earned (9), 7 Demetrius Sims Scores Earned (9)",3,2,1,,,,Mitchell Walters
+33,25,Curtis Terry,BOTTOM,"Foul, Called Strike, Ball, Foul, Foul, Ball, Ball,9 Marcus Chiu Scores Earned (25), 25 Curtis Terryputout (4-3) for out number 2",3,2,,,1,,Mitchell Walters
+34,15,Kevin Maitan,BOTTOM,15 Kevin Maitan putout (fly out to center field) for out number 3,0,0,,,1,,Mitchell Walters
+35,1,Wyatt Ulrich,TOP,"Ball, Foul, Called Strike, 1 Wyatt Ulrich advancesto 1st (error by the second baseman)",1,2,,,,A Voight,
+36,3,Jordan Barth,TOP,"Ball, Ball, Ball, Called Strike, Foul, 3 Jordan Barth advances to 1st (walk), 1 Wyatt Ulrich advances to 2nd (3)",3,2,,,,A Voight,
+37,11,Jabari Henry,TOP,"Ball, Ball, Ball, 11 Jabari Henry advances to 1st(walk), 3 Jordan Barth advances to 2nd (11), 1 Wyatt Ulrich advances to 3rd (11)",3,0,,,,A Voight,
+38,20,Mike Hart,TOP,"Foul, Foul, 20 Mike Hart putout (strike out swinging) for out number 1",0,2,,1,,A Voight,
+39,5,Trevor Achenbach,TOP,"Ball, Called Strike, 1 Wyatt Ulrich Scores Unearned (5), 5 Trevor Achenbach putout (sacrifice fly tocenter fielder) for out number 2",1,1,,1,,A Voight,
+40,15,Welington Dotel,TOP,"Ball, 11 Jabari Henry advances to 2nd (wild pitch), 3 Jordan Barth advances to 3rd (wild pitch), Ball, 15 Welington Dotel advances to 2nd (ground ruledouble), 3 Jordan Barth Scores Unearned (15), 11Jabari Henry Scores Unearned (15)",2,0,1,,,A Voight,
+41,35,Shamoy Christopher,TOP,"Ball, Ball, Ball, 35 Shamoy Christopher advances to 1st (walk)",3,0,,,,A Voight,
+42,0,Osvaldo Martinez,TOP,"Ball, Ball, Called Strike, Foul, Ball, 0 Osvaldo Martinez putout (strike out) for out number 3",3,2,,1,,A Voight,
+43,13,Brian Rey,BOTTOM,"Ball, Ball, Called Strike, Called Strike, 13 BrianRey putout (strike out) for out number 1",2,2,,,1,,Mitchell Walters
+44,12,Dustin Woodcock,BOTTOM,"Foul, 12 Dustin Woodcock putout (4-3) for out number 2",0,1,,,1,,Mitchell Walters
+45,11,Jaxx Groshans,BOTTOM,"Foul, Ball, Foul, Foul, 11 Jaxx Groshans putout (fly out to left field) for out number 3",1,2,,,1,,Mitchell Walters
+46,21,Darnell Sweeney,TOP,"Called Strike, Swinging Strike, Ball, 21 Darnell Sweeney putout (strike out swinging) for out number1",1,2,,1,,M Becerril,
+47,1,Wyatt Ulrich,TOP,"Called Strike, Ball, 1 Wyatt Ulrich putout (L4) for out number 2",1,1,,1,,M Becerril,
+48,3,Jordan Barth,TOP,"Swinging Strike, Ball, Swinging Strike, Ball, Ball, 3 Jordan Barth putout (strike out swinging) forout number 3",3,2,,1,,M Becerril,
+49,20,Blake Tiberi,BOTTOM,"Ball, Called Strike, Ball, 20 Blake Tiberi ScoresEarned (home run)",2,1,1,,,,Mitchell Walters
+50,17,Thomas Jones,BOTTOM,"Foul, Ball, Foul, Ball, Ball, 17 Thomas Jones putout (strike out) for out number 1",3,2,,,1,,Mitchell Walters
+51,7,Demetrius Sims,BOTTOM,"Swinging Strike, Ball, Called Strike, Ball, Ball,7 Demetrius Sims advances to 1st (walk)",3,2,,,,,Mitchell Walters
+52,9,Marcus Chiu,BOTTOM,"Ball, Ball, Swinging Strike, Ball, 7 Demetrius Sims advances to 2nd (stolen base), Foul, 9 Marcus Chiu putout (strike out swinging) for out number 2",3,2,,,1,,Mitchell Walters
+53,25,Curtis Terry,BOTTOM,"Ball, Called Strike, Called Strike, 25 Curtis Terry putout (6-3) for out number 3",1,2,,,1,,Mitchell Walters
+54,11,Jabari Henry,TOP,"Ball, Foul, Called Strike, Ball, 11 Jabari Henry advances to 1st (single)",2,2,1,,,M Becerril,
+55,20,Mike Hart,TOP,"20 Mike Hart advances to 1st (single), 11 Jabari Henry advances to 2nd (20)",0,0,1,,,M Becerril,
+56,5,Trevor Achenbach,TOP,"Swinging Strike, 5 Trevor Achenbach advances to 1st (single), 20 Mike Hart advances to 2nd (5), 11 Jabari Henry advances to 3rd (5)",0,1,1,,,M Becerril,
+57,15,Welington Dotel,TOP,"Ball, Called Strike, Foul, 15 Welington Dotel putout (strike out swinging) for out number 1",1,2,,1,,M Becerril,
+58,35,Shamoy Christopher,TOP,"Ball, Swinging Strike, Ball, Ball, 35 Shamoy Christopher advances to 1st (walk), 5 Trevor Achenbachadvances to 2nd (35), 20 Mike Hart advances to 3rd(35), 11 Jabari Henry Scores Earned (35)",3,1,,,,M Becerril,
+59,0,Osvaldo Martinez,TOP,"Swinging Strike, Foul, 35 Shamoy Christopher putout (4) for out number 2, 0 Osvaldo Martinez putout(4-3 DP) for out number 3",0,2,,1,,M Becerril,
+60,15,Kevin Maitan,BOTTOM,"Ball, Ball, Foul, Foul, Ball, 15 Kevin Maitan putout (strike out) for out number 1",3,2,,,1,,Christian Johnson
+61,13,Brian Rey,BOTTOM,"Ball, Ball, 13 Brian Rey advances to 1st (single)",2,0,1,,,,Christian Johnson
+62,12,Dustin Woodcock,BOTTOM,"Ball, Called Strike, 12 Dustin Woodcock putout (fly out to center field) for out number 2",1,1,,,1,,Christian Johnson
+63,11,Jaxx Groshans,BOTTOM,"Ball, Called Strike, Ball, 11 Jaxx Groshans putout(fly out to center field) for out number 3",2,1,,,1,,Christian Johnson
+64,21,Darnell Sweeney,TOP,"Ball, Ball, Ball, 21 Darnell Sweeney advances to 1st (walk)",3,0,,,,M Becerril,
+65,1,Wyatt Ulrich,TOP,"Ball, Called Strike, Foul, 1 Wyatt Ulrich putout (fly out to left field) for out number 1",1,2,,1,,M Becerril,
+66,3,Jordan Barth,TOP,"Called Strike, Called Strike, Pickoff attempt at 1st base (catcher to first baseman), Foul, Foul, 21Darnell Sweeney putout (6) for out number 2, 3 Jordan Barth putout (6-3 DP) for out number 3",0,2,,1,,M Becerril,
+67,20,Blake Tiberi,BOTTOM,"Ball, 20 Blake Tiberi putout (fly out to left field) for out number 1",1,0,,,1,,Christian Johnson
+68,17,Thomas Jones,BOTTOM,"Ball, Foul, 17 Thomas Jones putout (6-3) for out number 2",1,1,,,1,,Christian Johnson
+69,7,Demetrius Sims,BOTTOM,"Ball, Ball, Called Strike, Called Strike, Ball, Foul, 7 Demetrius Sims putout (strike out swinging)for out number 3",3,2,,,1,,Christian Johnson
+70,11,Jabari Henry,TOP,11 Jabari Henry advances to 1st (single),0,0,1,,,M Becerril,
+71,20,Mike Hart,TOP,"Ball, Ball, Foul, Called Strike, 20 Mike Hart putout (strike out swinging) for out number 1",2,2,,1,,M Becerril,
+72,5,Trevor Achenbach,TOP,"Called Strike, Swinging Strike, 5 Trevor Achenbachputout (strike out swinging) for out number 2",0,2,,1,,M Becerril,
+73,15,Welington Dotel,TOP,"Swinging Strike, Foul, 15 Welington Dotel putout (strike out swinging) for out number 3",0,2,,1,,M Becerril,
+74,9,Marcus Chiu,BOTTOM,"Called Strike, Foul, Ball, 9 Marcus Chiu advancesto 1st (single)",1,2,1,,,,Christian Johnson
+75,25,Curtis Terry,BOTTOM,"Swinging Strike, Pickoff attempt at 1st base (pitcher to first baseman), Called Strike, 25 Curtis Terry putout (fly out to the second baseman) for outnumber 1",0,2,,,1,,Christian Johnson
+76,15,Kevin Maitan,BOTTOM,15 Kevin Maitan putout (fly out to center field) for out number 2,0,0,,,1,,Christian Johnson
+77,13,Brian Rey,BOTTOM,"Foul, Swinging Strike, Foul, 13 Brian Rey putout (fly out to left field) for out number 3",0,2,,,1,,Christian Johnson
+78,35,Shamoy Christopher,TOP,"Ball, 35 Shamoy Christopher putout (5-3) for out number 1",1,0,,1,,M Becerril,
+79,0,Osvaldo Martinez,TOP,"Ball, Ball, Called Strike, Ball, 0 Osvaldo Martinez putout (fly out to center field) for out number2",3,1,,1,,M Becerril,
+80,21,Darnell Sweeney,TOP,"Called Strike, Ball, Ball, Called Strike, Ball, 21Darnell Sweeney putout (strike out swinging) forout number 3",3,2,,1,,M Becerril,
+81,12,Dustin Woodcock,BOTTOM,"Ball, 12 Dustin Woodcock putout (3U) for out number 1",1,0,,,1,,Christian Johnson
+82,11,Jaxx Groshans,BOTTOM,"Foul, Foul, Ball, 11 Jaxx Groshans putout (L7) forout number 2",1,2,,,1,,Christian Johnson
+83,20,Blake Tiberi,BOTTOM,"Ball, Called Strike, Called Strike, 20 Blake Tiberi putout (fly out to left field) for out number 3",1,2,,,1,,Christian Johnson

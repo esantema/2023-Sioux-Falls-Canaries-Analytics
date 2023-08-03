@@ -1,0 +1,72 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM
+1,1,Wyatt Ulrich,TOP,1 Wyatt Ulrich putout (fly out to center field) for out number 1,0,0,,1,
+2,0,Osvaldo Martinez,TOP,"Ball, Ball, Ball, Swinging Strike, Foul, Foul, 0 Osvaldo Martinez putout (fly out to center field) for out number 2",3,2,,1,
+3,21,Darnell Sweeney,TOP,"Foul, 21 Darnell Sweeney advances to 1st (single to left field)",0,1,1,,
+4,15,Welington Dotel,TOP,"Called Strike, Swinging Strike, Foul, Foul, 15 Welington Dotel putout (strike out swinging) for outnumber 3",0,2,,1,
+5,9,Johneshwy Fargas,BOTTOM,9 Johneshwy Fargas advances to 1st (single),0,0,1,,
+6,47,Jacob Robson,BOTTOM,"Foul, Ball, 47 Jacob Robson putout (4-3) for out number 1",1,1,,,1
+7,10,Jan Hernandez,BOTTOM,"Called Strike, Ball, Foul, 10 Jan Hernandez advances to 2nd (double), 9 Johneshwy Fargas advances to3rd (10), 9 Johneshwy Fargas Scores Earned (9)",1,2,1,,
+8,7,Chris Herrmann,BOTTOM,"Ball, Called Strike, Ball, 7 Chris Herrmann advances to 1st (single), 10 Jan Hernandez Scores Earned(10)",2,1,1,,
+9,17,Gavin Collins,BOTTOM,17 Gavin Collins putout (fly out to center field)for out number 2,0,0,,,1
+10,6,Keon Broxton,BOTTOM,"Called Strike, Ball, Foul, Foul, Foul, Ball, Foul,Ball, 6 Keon Broxton advances to 1st (walk), 7 Chris Herrmann advances to 2nd (6)",3,2,,,
+11,14,Micker Adolfo,BOTTOM,"Foul, Foul, Foul, Ball, Foul, 14 Micker Adolfo putout (fly out to left field) for out number 3",1,2,,,1
+12,20,Mike Hart,TOP,"Called Strike, 20 Mike Hart advances to 1st (single)",0,1,1,,
+13,16,Hunter Clanin,TOP,"Foul, Swinging Strike, 16 Hunter Clanin advances to 1st (single), 20 Mike Hart advances to 2nd (16)",0,2,1,,
+14,3,Jordan Barth,TOP,"3 Jordan Barth advances to 1st (single), 16 HunterClanin advances to 2nd (3), 20 Mike Hart advancesto 3rd (3)",0,0,1,,
+15,5,Trevor Achenbach,TOP,"Foul, Swinging Strike, Foul, Foul, Ball, 5 TrevorAchenbach advances to 1st (hit by pitch), 3 JordanBarth advances to 2nd (5), 16 Hunter Clanin advances to 3rd (5), 20 Mike Hart Scores Earned (5)",1,2,,,
+16,2,Marshall Rich,TOP,"Called Strike, Foul, Foul, Foul, Ball, Foul, 16 Hunter Clanin Scores Earned (2), 2 Marshall Rich putout (SF) for out number 1",1,2,,1,
+17,1,Wyatt Ulrich,TOP,"Called Strike, Swinging Strike, Foul, 1 Wyatt Ulrich putout (fly out to left field) for out number 2",0,2,,1,
+18,0,Osvaldo Martinez,TOP,"Called Strike, Foul, 0 Osvaldo Martinez advances to 1st (single), 5 Trevor Achenbach advances to 2nd(0), 3 Jordan Barth advances to 3rd (0), 3 JordanBarth Scores Earned (3)",0,2,1,,
+19,21,Darnell Sweeney,TOP,21 Darnell Sweeney putout (fly out to right field)for out number 3,0,0,,1,
+20,1,Justin Wylie,BOTTOM,"Ball, 1 Justin Wylie putout (fly out to center field) for out number 1",1,0,,,1
+21,4,L.J. Hatch,BOTTOM,"Called Strike, 4 L.J. Hatch putout (5-3) for out number 2",0,1,,,1
+22,9,Johneshwy Fargas,BOTTOM,"Ball, Ball, Swinging Strike, Ball, Foul, Foul, 9 Johneshwy Fargas advances to 1st (hit by pitch)",3,2,,,
+23,47,Jacob Robson,BOTTOM,"Called Strike, 9 Johneshwy Fargas advances to 2nd(stolen base), Foul, 47 Jacob Robson putout (strike out) for out number 3",0,2,,,1
+24,15,Welington Dotel,TOP,"Ball, Ball, Swinging Strike, 15 Welington Dotel advances to 1st (single)",2,1,1,,
+25,20,Mike Hart,TOP,"Swinging Strike, Called Strike, 20 Mike Hart putout (strike out swinging) for out number 1",0,2,,1,
+26,16,Hunter Clanin,TOP,"Called Strike, 15 Welington Dotel advances to 2nd(stolen base), 16 Hunter Clanin putout (6-3) for out number 2",0,1,,1,
+27,3,Jordan Barth,TOP,"Called Strike, Foul, Foul, Ball, 3 Jordan Barth putout (1-3) for out number 3",1,2,,1,
+28,10,Jan Hernandez,BOTTOM,"Ball, Ball, Ball, Called Strike, 10 Jan Hernandezadvances to 1st (walk)",3,1,,,
+29,7,Chris Herrmann,BOTTOM,"Ball, 7 Chris Herrmann advances to 1st (single), 10 Jan Hernandez advances to 2nd (7), 10 Jan Hernandez advances to 3rd (10)",1,0,1,,
+30,17,Gavin Collins,BOTTOM,"Called Strike, Called Strike, Ball, Foul, 10 Jan Hernandez Scores Earned (17), 17 Gavin Collins putout (sacrifice fly to center fielder) for out number 1",1,2,,,1
+31,6,Keon Broxton,BOTTOM,"Foul, 6 Keon Broxton putout (fly out to center field) for out number 2",0,1,,,1
+32,14,Micker Adolfo,BOTTOM,"Called Strike, Ball, 14 Micker Adolfo advances to1st (single), 7 Chris Herrmann advances to 2nd (14)",1,1,1,,
+33,1,Justin Wylie,BOTTOM,"Ball, 1 Justin Wylie putout (fly out to left field) for out number 3",1,0,,,1
+34,5,Trevor Achenbach,TOP,"Ball, Foul, Ball, 5 Trevor Achenbach advances to 1st (single)",2,1,1,,
+35,2,Marshall Rich,TOP,"Ball, Foul, Ball, Foul, Ball, 2 Marshall Rich putout (fly out to right field) for out number 1",3,2,,1,
+36,1,Wyatt Ulrich,TOP,"Ball, Called Strike, 1 Wyatt Ulrich advances to 1st (fielder's choice), 5 Trevor Achenbach putout (6-4) for out number 2",1,1,,1,
+37,0,Osvaldo Martinez,TOP,"Called Strike, 0 Osvaldo Martinez advances to 1st(fielder's choice), 1 Wyatt Ulrich putout (6-4) for out number 3",0,1,,1,
+38,4,L.J. Hatch,BOTTOM,"Ball, Ball, Ball, Called Strike, 4 L.J. Hatch advances to 1st (error by the shortstop)",3,1,,,
+39,9,Johneshwy Fargas,BOTTOM,"Called Strike, Ball, 9 Johneshwy Fargas putout (5-3) for out number 1",1,1,,,1
+40,47,Jacob Robson,BOTTOM,"47 Jacob Robson advances to 1st (single), 47 JacobRobson advances to 2nd (error by the center fielder)",0,0,1,,
+41,10,Jan Hernandez,BOTTOM,"10 Jan Hernandez advances to 1st (single), 4 L.J.Hatch Scores Unearned (4)",0,0,1,,
+42,7,Chris Herrmann,BOTTOM,"Called Strike, 47 Jacob Robson Scores Unearned (47), 10 Jan Hernandez putout (caught stealing: CS 2-6) for out number 2, Ball, Called Strike, Ball, 7Chris Herrmann putout (strike out swinging) for out number 3",2,2,,,1
+43,21,Darnell Sweeney,TOP,"Swinging Strike, 21 Darnell Sweeney putout (fly out to center field) for out number 1",0,1,,1,
+44,15,Welington Dotel,TOP,"Ball, Ball, Called Strike, Ball, Swinging Strike,15 Welington Dotel putout (strike out) for out number 2",3,2,,1,
+45,20,Mike Hart,TOP,"Called Strike, 20 Mike Hart advances to 2nd (double)",0,1,1,,
+46,16,Hunter Clanin,TOP,"Foul, Ball, Ball, Called Strike, 16 Hunter Claninputout (fly out to right field) for out number 3",2,2,,1,
+47,17,Gavin Collins,BOTTOM,"Swinging Strike, Ball, 17 Gavin Collins putout (fly out to left field) for out number 1",1,1,,,1
+48,6,Keon Broxton,BOTTOM,"Ball, 6 Keon Broxton putout (5-3) for out number 2",1,0,,,1
+49,14,Micker Adolfo,BOTTOM,"Ball, Swinging Strike, Ball, Swinging Strike, Ball, 14 Micker Adolfo putout (strike out swinging) for out number 3",3,2,,,1
+50,3,Jordan Barth,TOP,3 Jordan Barth putout (5-3) for out number 1,0,0,,1,
+51,5,Trevor Achenbach,TOP,"Called Strike, Ball, Ball, 5 Trevor Achenbach putout (fly out to center field) for out number 2",2,1,,1,
+52,2,Marshall Rich,TOP,"Ball, Foul, Foul, 2 Marshall Rich putout (4-3) forout number 3",1,2,,1,
+53,1,Justin Wylie,BOTTOM,"Called Strike, Ball, Called Strike, Ball, 1 JustinWylie putout (strike out) for out number 1",2,2,,,1
+54,4,L.J. Hatch,BOTTOM,"Ball, Swinging Strike, Ball, Foul, Foul, Ball, 4 L.J. Hatch advances to 1st (walk)",3,2,,,
+55,9,Johneshwy Fargas,BOTTOM,"Ball, Foul, Ball, 9 Johneshwy Fargas putout (fly out to center field) for out number 2",2,1,,,1
+56,47,Jacob Robson,BOTTOM,"Called Strike, 47 Jacob Robson putout (3U) for outnumber 3",0,1,,,1
+57,1,Wyatt Ulrich,TOP,"Called Strike, Called Strike, Ball, Foul, 1 WyattUlrich putout (6-3) for out number 1",1,2,,1,
+58,0,Osvaldo Martinez,TOP,"Ball, Ball, Called Strike, 0 Osvaldo Martinez putout (fly out to left field) for out number 2",2,1,,1,
+59,21,Darnell Sweeney,TOP,"Foul, Ball, Ball, Foul, Foul, Ball, 21 Darnell Sweeney putout (strike out swinging) for out number 3",3,2,,1,
+60,10,Jan Hernandez,BOTTOM,"Foul, 10 Jan Hernandez putout (1-3) for out number1",0,1,,,1
+61,7,Chris Herrmann,BOTTOM,"Called Strike, 7 Chris Herrmann putout (fly out tocenter field) for out number 2",0,1,,,1
+62,17,Gavin Collins,BOTTOM,"Ball, Ball, 17 Gavin Collins putout (fly out to right field) for out number 3",2,0,,,1
+63,15,Welington Dotel,TOP,"Swinging Strike, Called Strike, Foul, 15 WelingtonDotel putout (3U) for out number 1",0,2,,1,
+64,20,Mike Hart,TOP,"Ball, Ball, Swinging Strike, Swinging Strike, Ball, 20 Mike Hart putout (strike out swinging) for out number 2",3,2,,1,
+65,16,Hunter Clanin,TOP,"Called Strike, 16 Hunter Clanin putout (4-3) for out number 3",0,1,,1,
+66,6,Keon Broxton,BOTTOM,"Ball, Swinging Strike, Called Strike, 6 Keon Broxton advances to 1st (single), 6 Keon Broxton advances to 2nd (stolen base), 6 Keon Broxton putout (caught stealing: CS24561 ) for out number 1",1,2,1,,1
+67,14,Micker Adolfo,BOTTOM,"Ball, Swinging Strike, Called Strike, 14 Micker Adolfo putout (strike out swinging) for out number 2",1,2,,,1
+68,1,Justin Wylie,BOTTOM,1 Justin Wylie putout (5-3) for out number 3,0,0,,,1
+69,3,Jordan Barth,TOP,"Ball, Ball, Swinging Strike, 3 Jordan Barth putout(6-3) for out number 1",2,1,,1,
+70,5,Trevor Achenbach,TOP,"Swinging Strike, Foul, 5 Trevor Achenbach putout (strike out) for out number 2",0,2,,1,
+71,2,Marshall Rich,TOP,"Called Strike, Foul, 2 Marshall Rich putout (strike out) for out number 3",0,2,,1,

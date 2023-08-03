@@ -1,0 +1,79 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM,Pitcher Top,Pitcher Bottom
+1,21,Darnell Sweeney,TOP,21 Darnell Sweeney putout (3U) for out number 1,0,0,,1,,N Green,
+2,3,Jordan Barth,TOP,"Ball, 3 Jordan Barth putout (6-3) for out number 2",1,0,,1,,N Green,
+3,1,Wyatt Ulrich,TOP,"Called Strike, Ball, Called Strike, 1 Wyatt Ulrichputout (strike out swinging) for out number 3",1,2,,1,,N Green,
+4,19,Matt Bottcher,BOTTOM,"Ball, Ball, Ball, 19 Matt Bottcher advances to 1st(walk)",3,0,,,,,Chris Hardin
+5,14,Jesus Lujano,BOTTOM,"Ball, Ball, 19 Matt Bottcher advances to 2nd (stolen base), Called Strike, Ball, 14 Jesus Lujano advances to 1st (walk)",3,1,,,,,Chris Hardin
+6,15,Ryan Lidge,BOTTOM,"Swinging Strike, Foul, Foul, 15 Ryan Lidge advances to 1st (fielder's choice), 19 Matt Bottcher advances to 3rd (15), 14 Jesus Lujano putout (4-6) forout number 1",0,2,,,1,,Chris Hardin
+7,16,Josh Altmann,BOTTOM,"Ball, Ball, Called Strike, Ball, 16 Josh Altmann advances to 1st (walk), 15 Ryan Lidge advances to 2nd (16)",3,1,,,,,Chris Hardin
+8,24,David Maberry,BOTTOM,"Foul, 19 Matt Bottcher Scores Earned (24), 24 David Maberry putout (sacrifice fly to left fielder) for out number 2",0,1,,,1,,Chris Hardin
+9,8,Taylor Jackson,BOTTOM,"Called Strike, Ball, Swinging Strike, 8 Taylor Jackson putout (L6) for out number 3",1,2,,,1,,Chris Hardin
+10,11,Jabari Henry,TOP,"Ball, Called Strike, Called Strike, 11 Jabari Henry putout (fly out to left field) for out number 1",1,2,,1,,N Green,
+11,20,Mike Hart,TOP,"Ball, Called Strike, Ball, Foul, Ball, 20 Mike Hart advances to 1st (walk)",3,2,,,,N Green,
+12,5,Trevor Achenbach,TOP,"Called Strike, Ball, Ball, 5 Trevor Achenbach advances to 1st (fielder's choice), 20 Mike Hart putout (5-4) for out number 2",2,1,,1,,N Green,
+13,15,Welington Dotel,TOP,"Ball, 15 Welington Dotel advances to 1st (fielder's choice), 5 Trevor Achenbach putout (6-4) for outnumber 3",1,0,,1,,N Green,
+14,5,Luke Mangieri,BOTTOM,"Ball, Ball, Called Strike, 5 Luke Mangieri putout(fly out to left field) for out number 1",2,1,,,1,,Chris Hardin
+15,6,Cody Bohanek,BOTTOM,6 Cody Bohanek advances to 1st (single to left field),0,0,1,,,,Chris Hardin
+16,4,General McArthur,BOTTOM,"IV  Ball, Foul, Foul, Foul, 4 General McArthur IV advances to 1st (single to center field), 6 Cody Bohanek advances to 2nd (4)",1,2,1,,,,Chris Hardin
+17,19,Matt Bottcher,BOTTOM,"Ball, 4 General McArthur IV advances to 2nd (stolen base), 6 Cody Bohanek advances to 3rd (stolen base), Ball, 19 Matt Bottcher advances to 2nd (double to right field), 6 Cody Bohanek Scores Earned (19), 4 General McArthur IV Scores Earned (19)",2,0,1,,,,Chris Hardin
+18,14,Jesus Lujano,BOTTOM,"Foul, Ball, 14 Jesus Lujano putout (fly out to left field) for out number 2",1,1,,,1,,Chris Hardin
+19,15,Ryan Lidge,BOTTOM,"Foul, Ball, Foul, 15 Ryan Lidge advances to 1st (single to right field), 19 Matt Bottcher Scores Earned (15)",1,2,1,,,,Chris Hardin
+20,16,Josh Altmann,BOTTOM,"Called Strike, Ball, 15 Ryan Lidge advances to 2nd(stolen base), Ball, Swinging Strike, Foul, Ball,16 Josh Altmann putout (5-3) for out number 3",3,2,,,1,,Chris Hardin
+21,35,Shamoy Christopher,TOP,"Called Strike, 35 Shamoy Christopher putout () forout number 1",0,1,,1,,N Green,
+22,16,Hunter Clanin,TOP,"Called Strike, Called Strike, Ball, 16 Hunter Clanin putout (strike out swinging) for out number 2",1,2,,1,,N Green,
+23,21,Darnell Sweeney,TOP,"Called Strike, Ball, Swinging Strike, Ball, Ball,21 Darnell Sweeney advances to 1st (single to leftfield)",3,2,1,,,N Green,
+24,3,Jordan Barth,TOP,"Ball, 3 Jordan Barth putout (6-3) for out number 3",1,0,,1,,N Green,
+25,24,David Maberry,BOTTOM,"Swinging Strike, Swinging Strike, Ball, 24 David Maberry putout (strike out swinging) for out number1",1,2,,,1,,Chris Hardin
+26,8,Taylor Jackson,BOTTOM,"Called Strike, 8 Taylor Jackson putout (fly out tocenter field) for out number 2",0,1,,,1,,Chris Hardin
+27,5,Luke Mangieri,BOTTOM,"Called Strike, Swinging Strike, Foul, 5 Luke Mangieri advances to 1st (single to third base)",0,2,1,,,,Chris Hardin
+28,6,Cody Bohanek,BOTTOM,"Ball, Called Strike, Foul, Ball, 5 Luke Mangieri advances to 2nd (stolen base), 6 Cody Bohanek putout (5-3) for out number 3",2,2,,,1,,Chris Hardin
+29,1,Wyatt Ulrich,TOP,"Ball, Called Strike, Foul, 1 Wyatt Ulrich putout (strike out swinging) for out number 1",1,2,,1,,N Green,
+30,11,Jabari Henry,TOP,"Swinging Strike, 11 Jabari Henry putout (5-3) forout number 2",0,1,,1,,N Green,
+31,20,Mike Hart,TOP,"Ball, Called Strike, Swinging Strike, Ball, 20 Mike Hart advances to 1st (hit by pitch)",2,2,,,,N Green,
+32,5,Trevor Achenbach,TOP,"Foul, Ball, 20 Mike Hart advances to 2nd (stolen base), Swinging Strike, Ball, Ball, 5 Trevor Achenbach advances to 1st (walk)",3,2,,,,N Green,
+33,15,Welington Dotel,TOP,"Foul, Foul, Foul, Ball, Ball, 15 Welington Dotel putout (strike out swinging) for out number 3",2,2,,1,,N Green,
+34,4,General McArthur,BOTTOM,"IV  Ball, 4 General McArthur IV putout (fly out to center field) for out number 1",1,0,,,1,,Chris Hardin
+35,19,Matt Bottcher,BOTTOM,"Ball, Foul, Ball, 19 Matt Bottcher putout (fly outto left field) for out number 2",2,1,,,1,,Chris Hardin
+36,14,Jesus Lujano,BOTTOM,"Ball, Called Strike, Ball, Ball, 14 Jesus Lujano putout (L3) for out number 3",3,1,,,1,,Chris Hardin
+37,35,Shamoy Christopher,TOP,"Foul, Ball, Ball, Swinging Strike, Ball, 35 ShamoyChristopher advances to 1st (walk)",3,2,,,,N Green,
+38,16,Hunter Clanin,TOP,16 Hunter Clanin putout (fly out to center field)for out number 1,0,0,,1,,N Green,
+39,21,Darnell Sweeney,TOP,"Swinging Strike, Swinging Strike, 21 Darnell Sweeney putout (strike out swinging) for out number 2",0,2,,1,,N Green,
+40,3,Jordan Barth,TOP,"Ball, 3 Jordan Barth advances to 2nd (double to left field), 35 Shamoy Christopher advances to 3rd (3), 35 Shamoy Christopher putout (7-6-2) for out number 3",1,0,1,1,,N Green,
+41,15,Ryan Lidge,BOTTOM,15 Ryan Lidge Scores Earned (home run),0,0,1,,,,Chris Hardin
+42,16,Josh Altmann,BOTTOM,"Called Strike, Ball, Ball, Ball, 16 Josh Altmann putout (fly out to center field) for out number 1",3,1,,,1,,Chris Hardin
+43,24,David Maberry,BOTTOM,"Ball, Swinging Strike, Called Strike, Ball, 24 David Maberry advances to 2nd (double to right field)",2,2,1,,,,Chris Hardin
+44,8,Taylor Jackson,BOTTOM,"Ball, Ball, Ball, Called Strike, 8 Taylor Jacksonadvances to 1st (walk)",3,1,,,,,Chris Hardin
+45,5,Luke Mangieri,BOTTOM,"Foul, Ball, 24 David Maberry Scores Earned (5), 8Taylor Jackson Scores Earned (5), 5 Luke MangieriScores Earned (home run)",1,1,1,,,,Chris Hardin
+46,6,Cody Bohanek,BOTTOM,"Ball, 6 Cody Bohanek putout (fly out to the firstbaseman in foul territory) for out number 2",1,0,,,1,,Chris Hardin
+47,4,General McArthur,BOTTOM,"IV  Ball, Swinging Strike, Swinging Strike, Ball, 4 General McArthur IV putout (4-3) for out number 3",2,2,,,1,,Chris Hardin
+48,1,Wyatt Ulrich,TOP,"Called Strike, Called Strike, 1 Wyatt Ulrich putout (strike out swinging) for out number 1",0,2,,1,,N Green,
+49,11,Jabari Henry,TOP,11 Jabari Henry putout (fly out to right field) for out number 2,0,0,,1,,N Green,
+50,20,Mike Hart,TOP,"Called Strike, Swinging Strike, 20 Mike Hart putout (strike out swinging) for out number 3",0,2,,1,,N Green,
+51,19,Matt Bottcher,BOTTOM,"Ball, Swinging Strike, Ball, Ball, Swinging Strike, Foul, 19 Matt Bottcher advances to 1st (walk)",3,2,,,,,Angel Lebron
+52,14,Jesus Lujano,BOTTOM,"Ball, Ball, Foul, Called Strike, Ball, 19 Matt Bottcher advances to 2nd (wild pitch), 14 Jesus Lujano advances to 1st (walk)",3,2,,,,,Angel Lebron
+53,15,Ryan Lidge,BOTTOM,"Ball, Called Strike, Foul, Foul, Ball, 15 Ryan Lidge putout (strike out swinging) for out number 1",2,2,,,1,,Angel Lebron
+54,16,Josh Altmann,BOTTOM,"Ball, Ball, Ball, Foul, Foul, 16 Josh Altmann advances to 1st (walk), 14 Jesus Lujano advances to 2nd (16), 19 Matt Bottcher advances to 3rd (16)",3,2,,,,,Angel Lebron
+55,24,David Maberry,BOTTOM,"Ball, Ball, Foul, 19 Matt Bottcher Scores Earned (24), 24 David Maberry putout (sacrifice fly to left fielder) for out number 2",2,1,,,1,,Angel Lebron
+56,8,Taylor Jackson,BOTTOM,"Ball, Called Strike, Ball, Foul, Foul, 8 Taylor Jackson putout (fly out to center field) for out number 3",2,2,,,1,,Angel Lebron
+57,5,Trevor Achenbach,TOP,"Called Strike, Foul, 5 Trevor Achenbach putout (strike out) for out number 1",0,2,,1,,N Green,
+58,15,Welington Dotel,TOP,"Called Strike, Swinging Strike, 15 Welington Dotelputout (1-6-3) for out number 2",0,2,,1,,N Green,
+59,35,Shamoy Christopher,TOP,"Foul, Ball, Swinging Strike, Ball, 35 Shamoy Christopher advances to 3rd (triple to right field)",2,2,1,,,N Green,
+60,16,Hunter Clanin,TOP,16 Hunter Clanin putout (fly out to left field) for out number 3,0,0,,1,,N Green,
+61,5,Luke Mangieri,BOTTOM,"Called Strike, Foul, 5 Luke Mangieri advances to 2nd (double to center field)",0,2,1,,,,Angel Lebron
+62,6,Cody Bohanek,BOTTOM,"Called Strike, Called Strike, 6 Cody Bohanek advances to 1st (single to left field), 5 Luke Mangieriadvances to 3rd (6)",0,2,1,,,,Angel Lebron
+63,4,General McArthur,BOTTOM,"IV  Ball, Swinging Strike, Foul, 4 General McArthur IVadvances to 1st (fielder's choice), 5 Luke Mangieri Scores Earned (4), 6 Cody Bohanek putout (6-4)for out number 1",1,2,,,1,,Angel Lebron
+64,19,Matt Bottcher,BOTTOM,19 Matt Bottcher putout (fly out to left field) for out number 2,0,0,,,1,,Angel Lebron
+65,14,Jesus Lujano,BOTTOM,"Called Strike, Ball, 4 General McArthur IV advances to 2nd (stolen base), Ball, Swinging Strike, Ball, 14 Jesus Lujano putout (4-3) for out number 3",3,2,,,1,,Angel Lebron
+66,21,Darnell Sweeney,TOP,"Ball, Ball, Swinging Strike, 21 Darnell Sweeney putout (fly out to center field) for out number 1",2,1,,1,,N Green,
+67,3,Jordan Barth,TOP,"Called Strike, Called Strike, 3 Jordan Barth putout (strike out swinging) for out number 2",0,2,,1,,N Green,
+68,1,Wyatt Ulrich,TOP,"Foul, Ball, Foul, Ball, 1 Wyatt Ulrich putout (strike out swinging) for out number 3",2,2,,1,,N Green,
+69,15,Ryan Lidge,BOTTOM,"Swinging Strike, Ball, Ball, Ball, Called Strike,15 Ryan Lidge advances to 1st (single to center field)",3,2,1,,,,Angel Lebron
+70,16,Josh Altmann,BOTTOM,"Swinging Strike, Called Strike, Foul, 16 Josh Altmann putout (strike out swinging) for out number 1",0,2,,,1,,Angel Lebron
+71,24,David Maberry,BOTTOM,"Swinging Strike, Ball, 24 David Maberry putout (fly out to left field) for out number 2",1,1,,,1,,Angel Lebron
+72,8,Taylor Jackson,BOTTOM,"Called Strike, Ball, Ball, Ball, 8 Taylor Jacksonadvances to 2nd (double to center field), 15 RyanLidge advances to 3rd (8)",3,1,1,,,,Angel Lebron
+73,5,Luke Mangieri,BOTTOM,"Ball, 5 Luke Mangieri putout (3U) for out number 3",1,0,,,1,,Angel Lebron
+74,11,Jabari Henry,TOP,"Foul, Foul, Ball, Ball, Ball, 11 Jabari Henry advances to 1st (walk)",3,2,,,,N Green,
+75,20,Mike Hart,TOP,"Ball, Swinging Strike, 11 Jabari Henry advances to2nd (20), 20 Mike Hart putout (5-3) for out number 1",1,1,,1,,N Green,
+76,5,Trevor Achenbach,TOP,5 Trevor Achenbach putout (fly out to center field) for out number 2,0,0,,1,,N Green,
+77,15,Welington Dotel,TOP,"Swinging Strike, Foul, Ball, Foul, Ball, 15 Welington Dotel advances to 1st (single to shortstop), 15 Welington Dotel advances to 2nd (error by the shortstop), 11 Jabari Henry advances to 3rd (15), 11Jabari Henry Scores Unearned (e6t)Pitching Substitution    32 Nolan LaMere subs for Nick Green Pitcher.",2,2,1,,,N Green,
+78,35,Shamoy Christopher,TOP,"Called Strike, Called Strike, Ball, 35 Shamoy Christopher putout (strike out swinging) for out number 3",1,2,,1,,N LaMere,

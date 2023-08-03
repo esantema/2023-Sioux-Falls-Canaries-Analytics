@@ -1,0 +1,75 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM
+1,21,Darnell Sweeney,TOP,"Ball, Ball, Ball, Called Strike, Called Strike, 21Darnell Sweeney putout (strike out swinging) forout number 1",3,2,,1,
+2,1,Wyatt Ulrich,TOP,"Called Strike, Foul, 1 Wyatt Ulrich putout (4-3) for out number 2",0,2,,1,
+3,3,Jordan Barth,TOP,"Foul, Swinging Strike, 3 Jordan Barth putout (flyout to right field) for out number 3",0,2,,1,
+4,9,Odubel Herrera,BOTTOM,9 Odubel Herrera putout (5-3) for out number 1,0,0,,,1
+5,6,Peter Maris,BOTTOM,"Ball, Ball, Foul, 6 Peter Maris putout (4-3) for out number 2",2,1,,,1
+6,7,Chris Herrmann,BOTTOM,"Called Strike, 7 Chris Herrmann advances to 1st (single)",0,1,1,,
+7,17,Gavin Collins,BOTTOM,"Ball, Ball, 17 Gavin Collins advances to 2nd (ground rule double), 7 Chris Herrmann advances to 3rd(17)",2,0,1,,
+8,16,Brian OGrady,BOTTOM,"Ball, Ball, Ball, 16 Brian OGrady advances to 1st(walk)",3,0,,,
+9,12,Aaron Whitefield,BOTTOM,"Called Strike, Ball, Ball, Ball, Foul, Foul, 12 Aaron Whitefield putout (strike out swinging) for out number 3",3,2,,,1
+10,11,Jabari Henry,TOP,"Ball, Ball, Ball, 11 Jabari Henry advances to 1st(walk)",3,0,,,
+11,20,Mike Hart,TOP,20 Mike Hart putout (fly out to right field) for out number 1,0,0,,1,
+12,5,Trevor Achenbach,TOP,"Foul, Called Strike, 5 Trevor Achenbach putout (strike out swinging) for out number 2",0,2,,1,
+13,0,Osvaldo Martinez,TOP,"Called Strike, 0 Osvaldo Martinez putout (5-3) forout number 3",0,1,,1,
+14,47,Jacob Robson,BOTTOM,"Called Strike, Foul, 47 Jacob Robson putout (strike out swinging) for out number 1",0,2,,,1
+15,1,Justin Wylie,BOTTOM,"Called Strike, Ball, 1 Justin Wylie advances to 2nd (double)",1,1,1,,
+16,4,L.J. Hatch,BOTTOM,"Ball, Foul, Ball, Ball, 1 Justin Wylie advances to3rd ( CS 1E5), Foul, Foul, 4 L.J. Hatch advancesto 1st (single), 1 Justin Wylie Scores Unearned (4)",3,2,1,,
+17,9,Odubel Herrera,BOTTOM,"Ball, Ball, 4 L.J. Hatch advances to 2nd (wild pitch), Ball, Called Strike, 4 L.J. Hatch advances to3rd (9), 9 Odubel Herrera putout (4-3) for out number 2",3,1,,,1
+18,6,Peter Maris,BOTTOM,"Foul, Called Strike, Ball, Foul, Ball, Foul, 6 Peter Maris putout (strike out swinging) for out number 3",2,2,,,1
+19,59,Spencer Sarringar,TOP,"Ball, Swinging Strike, Called Strike, Ball, 59 Spencer Sarringar putout (6-3) for out number 1",2,2,,1,
+20,2,Carson Clowers,TOP,"Foul, Ball, Foul, 2 Carson Clowers putout (P4) forout number 2",1,2,,1,
+21,21,Darnell Sweeney,TOP,"Ball, 21 Darnell Sweeney putout (fly out to centerfield) for out number 3",1,0,,1,
+22,7,Chris Herrmann,BOTTOM,"Called Strike, Swinging Strike, Ball, 7 Chris Herrmann putout (strike out) for out number 1",1,2,,,1
+23,17,Gavin Collins,BOTTOM,"Foul, Foul, Foul, Ball, Ball, Foul, Foul, Ball, 17Gavin Collins advances to 1st (walk)",3,2,,,
+24,16,Brian OGrady,BOTTOM,"Called Strike, 16 Brian OGrady putout (fly out tocenter field) for out number 2",0,1,,,1
+25,12,Aaron Whitefield,BOTTOM,"Ball, Foul, Called Strike, 12 Aaron Whitefield advances to 1st (single), 17 Gavin Collins advances to 2nd (12)",1,2,1,,
+26,47,Jacob Robson,BOTTOM,"Foul, Ball, Ball, Foul, Ball, 47 Jacob Robson advances to 1st (walk), 12 Aaron Whitefield advances to 2nd (47), 17 Gavin Collins advances to 3rd (47)",3,2,,,
+27,1,Justin Wylie,BOTTOM,"Called Strike, Ball, Foul, 17 Gavin Collins ScoresEarned (1), 12 Aaron Whitefield Scores Earned (1), 47 Jacob Robson Scores Earned (1), 1 Justin Wylie Scores Earned (home run)",1,2,1,,
+28,4,L.J. Hatch,BOTTOM,"Ball, Foul, 4 L.J. Hatch putout (L9) for out number 3",1,1,,,1
+29,1,Wyatt Ulrich,TOP,"Called Strike, 1 Wyatt Ulrich putout (4-3) for outnumber 1",0,1,,1,
+30,3,Jordan Barth,TOP,"Called Strike, 3 Jordan Barth putout (fly out to center field) for out number 2",0,1,,1,
+31,11,Jabari Henry,TOP,"Called Strike, Swinging Strike, 11 Jabari Henry putout (strike out) for out number 3",0,2,,1,
+32,9,Odubel Herrera,BOTTOM,"Called Strike, 9 Odubel Herrera advances to 1st (single to the catcher)",0,1,1,,
+33,6,Peter Maris,BOTTOM,"Ball, Called Strike, Foul, 6 Peter Maris putout (strike out swinging) for out number 1",1,2,,,1
+34,7,Chris Herrmann,BOTTOM,"Foul, 9 Odubel Herrera advances to 2nd (6), 7 Chris Herrmann putout (4-3) for out number 2",0,1,,,1
+35,17,Gavin Collins,BOTTOM,"Ball, 17 Gavin Collins advances to 1st (single), 9Odubel Herrera advances to 3rd (17)",1,0,1,,
+36,16,Brian OGrady,BOTTOM,"Swinging Strike, 16 Brian OGrady putout (P4) for out number 3",0,1,,,1
+37,20,Mike Hart,TOP,"Called Strike, Ball, Swinging Strike, Ball, 20 Mike Hart putout (strike out swinging) for out number1",2,2,,1,
+38,5,Trevor Achenbach,TOP,"Called Strike, Ball, Swinging Strike, 5 Trevor Achenbach advances to 1st (hit by pitch)",1,2,,,
+39,0,Osvaldo Martinez,TOP,"Ball, Called Strike, Ball, Ball, 0 Osvaldo Martinez advances to 1st (walk), 5 Trevor Achenbach advances to 2nd (0)",3,1,,,
+40,59,Spencer Sarringar,TOP,"Called Strike, Ball, Called Strike, Foul, 59 Spencer Sarringar putout (strike out swinging) for outnumber 2",1,2,,1,
+41,2,Carson Clowers,TOP,"Called Strike, 2 Carson Clowers advances to 1st (single), 0 Osvaldo Martinez advances to 2nd (2), 5Trevor Achenbach advances to 3rd (), 5 Trevor Achenbach Scores Earned (2)",0,1,1,,
+42,21,Darnell Sweeney,TOP,"Foul, Called Strike, 21 Darnell Sweeney putout (L9) for out number 3",0,2,,1,
+43,12,Aaron Whitefield,BOTTOM,"Called Strike, 12 Aaron Whitefield putout (P4) forout number 1",0,1,,,1
+44,47,Jacob Robson,BOTTOM,"Called Strike, Foul, 47 Jacob Robson advances to 1st (single)",0,2,1,,
+45,1,Justin Wylie,BOTTOM,"Called Strike, Ball, 1 Justin Wylie putout (P3) for out number 2",1,1,,,1
+46,4,L.J. Hatch,BOTTOM,"Ball, 4 L.J. Hatch advances to 1st (fielder's choice), 47 Jacob Robson putout (5-4) for out number 3",1,0,,,1
+47,1,Wyatt Ulrich,TOP,"Ball, Called Strike, 1 Wyatt Ulrich putout (fly out to center field) for out number 1",1,1,,1,
+48,3,Jordan Barth,TOP,"Called Strike, Foul, 3 Jordan Barth putout (5-3) for out number 2",0,2,,1,
+49,11,Jabari Henry,TOP,"Called Strike, Ball, Ball, Ball, Foul, 11 Jabari Henry advances to 1st (walk)",3,2,,,
+50,20,Mike Hart,TOP,"Ball, Ball, Foul, Called Strike, 20 Mike Hart putout (fly out to left field) for out number 3",2,2,,1,
+51,9,Odubel Herrera,BOTTOM,"Ball, Ball, 9 Odubel Herrera putout (fly out to right field) for out number 1",2,0,,,1
+52,6,Peter Maris,BOTTOM,"Swinging Strike, 6 Peter Maris putout (3U) for outnumber 2",0,1,,,1
+53,7,Chris Herrmann,BOTTOM,"Called Strike, Foul, 7 Chris Herrmann advances to2nd (double)",0,2,1,,
+54,17,Gavin Collins,BOTTOM,"Ball, Foul, 17 Gavin Collins advances to 1st (single), 7 Chris Herrmann advances to 3rd (17)",1,1,1,,
+55,16,Brian OGrady,BOTTOM,"Ball, Foul, Called Strike, 16 Brian OGrady putout(L8) for out number 3",1,2,,,1
+56,5,Trevor Achenbach,TOP,"Called Strike, Foul, Ball, 5 Trevor Achenbach putout (strike out swinging) for out number 1",1,2,,1,
+57,0,Osvaldo Martinez,TOP,"Ball, Called Strike, Ball, Ball, 0 Osvaldo Martinez advances to 1st (walk)",3,1,,,
+58,59,Spencer Sarringar,TOP,"Swinging Strike, Ball, Foul, Ball, 59 Spencer Sarringar putout (fly out to center field) for out number 2",2,2,,1,
+59,2,Carson Clowers,TOP,"Swinging Strike, Ball, 2 Carson Clowers advances to 1st (fielder's choice), 0 Osvaldo Martinez putout (5-4) for out number 3",1,1,,1,
+60,12,Aaron Whitefield,BOTTOM,"Swinging Strike, 12 Aaron Whitefield advances to 1st (single)",0,1,1,,
+61,47,Jacob Robson,BOTTOM,"Foul, 47 Jacob Robson putout (L8) for out number 1",0,1,,,1
+62,1,Justin Wylie,BOTTOM,"Swinging Strike, 12 Aaron Whitefield putout (5-4)for out number 2, 1 Justin Wylie putout (5-4-3 DP)for out number 3",0,1,,,1
+63,21,Darnell Sweeney,TOP,21 Darnell Sweeney putout (5-3) for out number 1,0,0,,1,
+64,1,Wyatt Ulrich,TOP,"Ball, Called Strike, Ball, Called Strike, Foul, Ball, 1 Wyatt Ulrich putout (strike out) for out number 2",3,2,,1,
+65,3,Jordan Barth,TOP,"Called Strike, Ball, Foul, 3 Jordan Barth putout (strike out swinging) for out number 3",1,2,,1,
+66,4,L.J. Hatch,BOTTOM,"Called Strike, Called Strike, 4 L.J. Hatch putout(1-3) for out number 1",0,2,,,1
+67,9,Odubel Herrera,BOTTOM,9 Odubel Herrera advances to 1st (single),0,0,1,,
+68,6,Peter Maris,BOTTOM,"Ball, Swinging Strike, Foul, Foul, Foul, 6 Peter Maris advances to 1st (single), 9 Odubel Herrera advances to 2nd (6)",1,2,1,,
+69,7,Chris Herrmann,BOTTOM,"Ball, 7 Chris Herrmann putout (fly out to right field) for out number 2",1,0,,,1
+70,17,Gavin Collins,BOTTOM,17 Gavin Collins putout (fly out to right field) for out number 3,0,0,,,1
+71,11,Jabari Henry,TOP,"Called Strike, Swinging Strike, 11 Jabari Henry putout (strike out swinging) for out number 1",0,2,,1,
+72,20,Mike Hart,TOP,20 Mike Hart putout (P4) for out number 2,0,0,,1,
+73,5,Trevor Achenbach,TOP,"Called Strike, Foul, 5 Trevor Achenbach Scores Earned (home run)",0,2,1,,
+74,0,Osvaldo Martinez,TOP,"Called Strike, 0 Osvaldo Martinez putout (P4) forout number 3",0,1,,1,

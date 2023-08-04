@@ -1,0 +1,71 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM,Pitcher Top,Pitcher Bottom
+1,1,Wyatt Ulrich,TOP,"Swinging Strike, Ball, Swinging Strike, 1 Wyatt Ulrich putout (strike out swinging) for out number 1",1,2,,1,,T Grauer,
+2,0,Osvaldo Martinez,TOP,"Swinging Strike, Foul, 0 Osvaldo Martinez putout (fly out to right field) for out number 2",0,2,,1,,T Grauer,
+3,21,Darnell Sweeney,TOP,"Swinging Strike, Swinging Strike, Ball, Ball, Ball, 21 Darnell Sweeney advances to 1st (walk)",3,2,,,,T Grauer,
+4,11,Jabari Henry,TOP,11 Jabari Henry putout (fly out to right field) for out number 3,0,0,,1,,T Grauer,
+5,11,Evan Alexander,BOTTOM,"Foul, Ball, 11 Evan Alexander putout (fly out to left field) for out number 1",1,1,,,1,,Ty Culbreth
+6,13,Manuel Boscan,BOTTOM,"Swinging Strike, Swinging Strike, Ball, Foul, 13 Manuel Boscan putout (fly out to center field) forout number 2",1,2,,,1,,Ty Culbreth
+7,22,Dillon Thomas,BOTTOM,"Ball, Foul, Swinging Strike, 22 Dillon Thomas putout (strike out) for out number 3",1,2,,,1,,Ty Culbreth
+8,20,Mike Hart,TOP,"Ball, Ball, Ball, Swinging Strike, Swinging Strike, 20 Mike Hart advances to 1st (walk)",3,2,,,,T Grauer,
+9,3,Jordan Barth,TOP,"20 Mike Hart advances to 2nd (3), 3 Jordan Barth putout (5-3 SH) for out number 1",0,0,,1,,T Grauer,
+10,16,Hunter Clanin,TOP,"Swinging Strike, Swinging Strike, Ball, 16 HunterClanin putout (5-3) for out number 2",1,2,,1,,T Grauer,
+11,5,Trevor Achenbach,TOP,"Ball, Foul, Ball, Ball, 5 Trevor Achenbach putout(fly out to left field) for out number 3",3,1,,1,,T Grauer,
+12,4,Leobaldo Pina,BOTTOM,"Ball, Foul, Ball, Swinging Strike, 4 Leobaldo Pinaadvances to 1st (single to left field)",2,2,1,,,,Ty Culbreth
+13,24,John Silviano,BOTTOM,"Swinging Strike, 4 Leobaldo Pina advances to 2nd (error by the pitcher), Foul, Ball, Ball, 24 John Silviano putout (strike out) for out number 1",2,2,,,1,,Ty Culbreth
+14,16,Correlle Prime,BOTTOM,"Foul, Foul, Ball, 16 Correlle Prime advances to 1st (single to center field), 16 Correlle Prime advances to 2nd (error by the center fielder), 4 Leobaldo Pina Scores Earned (16)",1,2,1,,,,Ty Culbreth
+15,1,Alec Olund,BOTTOM,"Ball, Ball, Ball, Swinging Strike, 16 Correlle Prime advances to 3rd (1), 1 Alec Olund putout (fly out to center field) for out number 2",3,1,,,1,,Ty Culbreth
+16,2,Sam Dexter,BOTTOM,"Ball, Swinging Strike, Swinging Strike, Foul, Ball, Foul, Ball, 2 Sam Dexter advances to 1st (walk)",3,2,,,,,Ty Culbreth
+17,14,B.J. Lopez,BOTTOM,"Ball, Ball, Ball, Swinging Strike, 14 B.J. Lopez advances to 1st (walk), 2 Sam Dexter advances to 2nd (14)",3,1,,,,,Ty Culbreth
+18,11,Evan Alexander,BOTTOM,"Ball, Foul, Foul, Ball, 11 Evan Alexander putout (strike out swinging) for out number 3",2,2,,,1,,Ty Culbreth
+19,2,Marshall Rich,TOP,"Foul, 2 Marshall Rich putout (L4) for out number 1",0,1,,1,,T Grauer,
+20,1,Wyatt Ulrich,TOP,"Ball, Swinging Strike, Ball, 1 Wyatt Ulrich putout(6-3) for out number 2",2,1,,1,,T Grauer,
+21,0,Osvaldo Martinez,TOP,"Ball, Foul, Foul, Foul, Ball, 0 Osvaldo Martinez putout (fly out to right field) for out number 3",2,2,,1,,T Grauer,
+22,13,Manuel Boscan,BOTTOM,13 Manuel Boscan putout (fly out to center field)for out number 1,0,0,,,1,,Ty Culbreth
+23,22,Dillon Thomas,BOTTOM,"Swinging Strike, Ball, Swinging Strike, 22 DillonThomas advances to 1st (single to center field)",1,2,1,,,,Ty Culbreth
+24,4,Leobaldo Pina,BOTTOM,4 Leobaldo Pina putout (fly out to center field) for out number 2,0,0,,,1,,Ty Culbreth
+25,24,John Silviano,BOTTOM,"Ball, Ball, Swinging Strike, Foul, Ball, Foul, 24John Silviano advances to 1st (single to center field), 22 Dillon Thomas Scores Earned (24)",3,2,1,,,,Ty Culbreth
+26,16,Correlle Prime,BOTTOM,"Foul, Ball, Ball, Swinging Strike, Foul, 16 Correlle Prime putout (strike out swinging) for out number 3",2,2,,,1,,Ty Culbreth
+27,21,Darnell Sweeney,TOP,"Swinging Strike, Ball, 21 Darnell Sweeney advancesto 2nd (double to left field)",1,1,1,,,T Grauer,
+28,11,Jabari Henry,TOP,"Swinging Strike, 21 Darnell Sweeney advances to 3rd (wild pitch), Ball, Ball, 11 Jabari Henry putout(5-3) for out number 1",2,1,,1,,T Grauer,
+29,20,Mike Hart,TOP,"21 Darnell Sweeney Scores Earned (20), 20 Mike Hart putout (sacrifice fly to right fielder) for outnumber 2",0,0,,1,,T Grauer,
+30,3,Jordan Barth,TOP,"Swinging Strike, Swinging Strike, 3 Jordan Barth putout (4-3) for out number 3",0,2,,1,,T Grauer,
+31,1,Alec Olund,BOTTOM,"Swinging Strike, Ball, Foul, Foul, Ball, 1 Alec Olund putout (6-3) for out number 1",2,2,,,1,,Ty Culbreth
+32,2,Sam Dexter,BOTTOM,2 Sam Dexter putout (fly out to center field) forout number 2,0,0,,,1,,Ty Culbreth
+33,14,B.J. Lopez,BOTTOM,"Swinging Strike, Swinging Strike, Ball, Ball, 14 B.J. Lopez advances to 1st (single to left field)",2,2,1,,,,Ty Culbreth
+34,11,Evan Alexander,BOTTOM,11 Evan Alexander putout (fly out to center field)for out number 3,0,0,,,1,,Ty Culbreth
+35,16,Hunter Clanin,TOP,"Swinging Strike, 16 Hunter Clanin putout (fly outto the first baseman) for out number 1",0,1,,1,,T Grauer,
+36,5,Trevor Achenbach,TOP,5 Trevor Achenbach Scores Earned (home run),0,0,1,,,T Grauer,
+37,2,Marshall Rich,TOP,"Ball, Ball, Swinging Strike, Foul, 2 Marshall Richputout (strike out swinging) for out number 2",2,2,,1,,T Grauer,
+38,1,Wyatt Ulrich,TOP,"Ball, Foul, Ball, Ball, 1 Wyatt Ulrich putout (4-3) for out number 3",3,1,,1,,T Grauer,
+39,13,Manuel Boscan,BOTTOM,13 Manuel Boscan putout (fly out to center field)for out number 1,0,0,,,1,,Ty Culbreth
+40,22,Dillon Thomas,BOTTOM,"Swinging Strike, Ball, Ball, Swinging Strike, 22 Dillon Thomas advances to 1st (single to center field)",2,2,1,,,,Ty Culbreth
+41,4,Leobaldo Pina,BOTTOM,"Swinging Strike, Foul, Foul, Foul, Foul, Ball, 4 Leobaldo Pina advances to 1st (fielder's choice), 22 Dillon Thomas putout (6-4) for out number 2",1,2,,,1,,Ty Culbreth
+42,24,John Silviano,BOTTOM,24 John Silviano putout (4-3) for out number 3,0,0,,,1,,Ty Culbreth
+43,0,Osvaldo Martinez,TOP,"Ball, Swinging Strike, 0 Osvaldo Martinez putout (fly out to right field) for out number 1",1,1,,1,,T Grauer,
+44,21,Darnell Sweeney,TOP,"Foul, 21 Darnell Sweeney putout (fly out to the second baseman) for out number 2",0,1,,1,,T Grauer,
+45,11,Jabari Henry,TOP,"Foul, Ball, Foul, 11 Jabari Henry putout (strike out) for out number 3",1,2,,1,,T Grauer,
+46,16,Correlle Prime,BOTTOM,"Swinging Strike, Ball, Ball, Swinging Strike, Ball, 16 Correlle Prime putout (1-3) for out number 1",3,2,,,1,,Ty Culbreth
+47,1,Alec Olund,BOTTOM,"Swinging Strike, Ball, Swinging Strike, Ball, 1 Alec Olund putout (1-3) for out number 2",2,2,,,1,,Ty Culbreth
+48,2,Sam Dexter,BOTTOM,"Swinging Strike, Ball, Foul, 2 Sam Dexter putout (strike out swinging) for out number 3",1,2,,,1,,Ty Culbreth
+49,20,Mike Hart,TOP,"Ball, 20 Mike Hart putout (1-3) for out number 1",1,0,,1,,T Grauer,
+50,3,Jordan Barth,TOP,"Swinging Strike, 3 Jordan Barth putout (fly out toright field) for out number 2",0,1,,1,,T Grauer,
+51,16,Hunter Clanin,TOP,"Swinging Strike, Ball, Swinging Strike, 16 HunterClanin putout (strike out swinging) for out number3",1,2,,1,,T Grauer,
+52,14,B.J. Lopez,BOTTOM,"Ball, 14 B.J. Lopez putout (fly out to right field) for out number 1",1,0,,,1,,Bret Barnett
+53,11,Evan Alexander,BOTTOM,"Ball, Swinging Strike, Swinging Strike, Ball, 11 Evan Alexander advances to 1st (single to center field)",2,2,1,,,,Bret Barnett
+54,13,Manuel Boscan,BOTTOM,"Ball, Foul, Ball, Ball, 13 Manuel Boscan putout (3Dp) for out number 2, 11 Evan Alexander putout (3DP) for out number 3",3,1,,,1,,Bret Barnett
+55,5,Trevor Achenbach,TOP,"Swinging Strike, Swinging Strike, 5 Trevor Achenbach putout (4-3) for out number 1",0,2,,1,,T Riley,
+56,2,Marshall Rich,TOP,"Ball, Swinging Strike, Foul, Foul, 2 Marshall Richputout (6-3) for out number 2",1,2,,1,,T Riley,
+57,1,Wyatt Ulrich,TOP,"Foul, 1 Wyatt Ulrich putout (6-3) for out number 3",0,1,,1,,T Riley,
+58,22,Dillon Thomas,BOTTOM,"Ball, Ball, 22 Dillon Thomas putout (fly out to center field) for out number 1",2,0,,,1,,Christian Johnson
+59,4,Leobaldo Pina,BOTTOM,"Ball, Ball, Swinging Strike, Foul, Ball, 4 Leobaldo Pina putout (fly out to left field) for out number 2",3,2,,,1,,Christian Johnson
+60,24,John Silviano,BOTTOM,"Ball, Ball, Foul, Swinging Strike, Ball, Foul, 24John Silviano advances to 1st (walk)",3,2,,,,,Christian Johnson
+61,16,Correlle Prime,BOTTOM,"Ball, Ball, Swinging Strike, Foul, 16 Correlle Prime putout (fly out to right field) for out number3",2,2,,,1,,Christian Johnson
+62,0,Osvaldo Martinez,TOP,"Ball, 0 Osvaldo Martinez advances to 1st (single to right field)",1,0,1,,,R Birlingmair,
+63,21,Darnell Sweeney,TOP,"Foul, Ball, 0 Osvaldo Martinez putout (3-6) for out number 1, 21 Darnell Sweeney putout (3-6-1 DP) for out number 2",1,1,,1,,R Birlingmair,
+64,11,Jabari Henry,TOP,"Ball, Ball, Ball, 11 Jabari Henry advances to 1st(walk)",3,0,,,,R Birlingmair,
+65,20,Mike Hart,TOP,"Foul, Ball, Swinging Strike, Foul, Ball, Ball, 20Mike Hart advances to 1st (walk), 11 Jabari Henryadvances to 2nd (20)",3,2,,,,R Birlingmair,
+66,3,Jordan Barth,TOP,"3 Jordan Barth advances to 2nd (double to center field), 11 Jabari Henry Scores Earned (3), 20 MikeHart Scores Earned (3)",0,0,1,,,R Birlingmair,
+67,16,Hunter Clanin,TOP,16 Hunter Clanin putout (4-3) for out number 3,0,0,,1,,R Birlingmair,
+68,1,Alec Olund,BOTTOM,"Ball, Swinging Strike, Foul, Ball, Ball, 1 Alec Olund putout (fly out to center field) for out number 1",3,2,,,1,,Charlie Hasty
+69,2,Sam Dexter,BOTTOM,"Ball, Ball, 2 Sam Dexter putout (fly out to rightfield) for out number 2",2,0,,,1,,Charlie Hasty
+70,14,B.J. Lopez,BOTTOM,"Swinging Strike, Swinging Strike, Ball, Foul, 14 B.J. Lopez putout (strike out swinging) for out number 3",1,2,,,1,,Charlie Hasty

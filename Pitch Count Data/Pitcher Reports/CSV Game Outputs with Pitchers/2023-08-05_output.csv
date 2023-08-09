@@ -1,0 +1,91 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM,Pitcher Top,Pitcher Bottom
+1,0,Osvaldo Martinez,TOP,"Ball, Called Strike, Ball, Ball, 0 Osvaldo Martinez advances to 1st (walk)",3,1,,,,C Prime,
+2,3,Jordan Barth,TOP,"Ball, Foul, Ball, Foul, Foul, Ball, 0 Osvaldo Martinez advances to 2nd (stolen base), 3 Jordan Barthputout (strike out swinging) for out number 1",3,2,,1,,C Prime,
+3,11,Jabari Henry,TOP,"Called Strike, Foul, 11 Jabari Henry putout (fly out to left field) for out number 2",0,2,,1,,C Prime,
+4,20,Mike Hart,TOP,"Called Strike, Ball, Foul, Ball, 20 Mike Hart putout (fly out to the second baseman) for out number3",2,2,,1,,C Prime,
+5,11,Evan Alexander,BOTTOM,"Called Strike, Ball, Ball, Called Strike, Ball, 11Evan Alexander advances to 1st (walk)",3,2,,,,,Chris Hardin
+6,16,Correlle Prime,BOTTOM,"Called Strike, Foul, Ball, 16 Correlle Prime putout (P4) for out number 1",1,2,,,1,,Chris Hardin
+7,26,Scott Schreiber,BOTTOM,"Ball, 26 Scott Schreiber putout (3 Dp) for out number 2, 11 Evan Alexander putout (3-3 DP) for out number 3",1,0,,,1,,Chris Hardin
+8,21,Darnell Sweeney,TOP,"Called Strike, Foul, 21 Darnell Sweeney putout (strike out) for out number 1",0,2,,1,,T Grauer,
+9,5,Trevor Achenbach,TOP,"Ball, Called Strike, Called Strike, 5 Trevor Achenbach putout (fly out to center field) for out number 2",1,2,,1,,T Grauer,
+10,16,Hunter Clanin,TOP,"Called Strike, Foul, 16 Hunter Clanin putout (flyout to right field) for out number 3",0,2,,1,,T Grauer,
+11,13,Manuel Boscan,BOTTOM,"Ball, 13 Manuel Boscan putout (fly out to center field) for out number 1",1,0,,,1,,Chris Hardin
+12,4,Leobaldo Pina,BOTTOM,"Ball, Ball, Ball, 4 Leobaldo Pina advances to 1st(walk)",3,0,,,,,Chris Hardin
+13,1,Alec Olund,BOTTOM,"Swinging Strike, Ball, Foul, 1 Alec Olund advancesto 1st (fielder's choice), 4 Leobaldo Pina putout(6-4-6) for out number 2",1,2,,,1,,Chris Hardin
+14,3,Nick Novak,BOTTOM,"Ball, Ball, Pickoff attempt at 1st base (pitcher to first baseman), Called Strike, Ball, 1 Alec Olund advances to 2nd (stolen base), Called Strike, Foul, 3 Nick Novak putout (P4) for out number 3",3,2,,,1,,Chris Hardin
+15,35,Shamoy Christopher,TOP,"Called Strike, Ball, 35 Shamoy Christopher putout(fly out to right field) for out number 1",1,1,,1,,T Grauer,
+16,1,Wyatt Ulrich,TOP,"Ball, Ball, Called Strike, 1 Wyatt Ulrich putout (fly out to center field) for out number 2",2,1,,1,,T Grauer,
+17,0,Osvaldo Martinez,TOP,"Called Strike, Foul, 0 Osvaldo Martinez putout (dropped 3rd strike: KS 2-3) for out number 3",0,2,,1,,T Grauer,
+18,2,Sam Dexter,BOTTOM,"Ball, Ball, 2 Sam Dexter putout (fly out to centerfield) for out number 1",2,0,,,1,,Chris Hardin
+19,47,Peter Brookshaw,BOTTOM,"Ball, Foul, 47 Peter Brookshaw putout (3-1) for out number 2",1,1,,,1,,Chris Hardin
+20,11,Evan Alexander,BOTTOM,"Ball, Called Strike, Foul, Ball, 11 Evan Alexanderadvances to 2nd (double to center field)",2,2,1,,,,Chris Hardin
+21,16,Correlle Prime,BOTTOM,"Ball, Ball, Foul, Swinging Strike, Foul, 16 Correlle Prime putout (fly out to center field) for outnumber 3",2,2,,,1,,Chris Hardin
+22,3,Jordan Barth,TOP,"Ball, Ball, Foul, Called Strike, Ball, 3 Jordan Barth Scores Earned (home run)",3,2,1,,,T Grauer,
+23,11,Jabari Henry,TOP,"Called Strike, Ball, Swinging Strike, 11 Jabari Henry advances to 2nd (double to center field)",1,2,1,,,T Grauer,
+24,20,Mike Hart,TOP,20 Mike Hart putout (1-3 SH) for out number 1,0,0,,1,,T Grauer,
+25,21,Darnell Sweeney,TOP,"Foul, 21 Darnell Sweeney advances to 1st (hit by pitch)",0,1,,,,T Grauer,
+26,5,Trevor Achenbach,TOP,"Foul, Ball, Ball, 21 Darnell Sweeney advances to 2nd (stolen base), Foul, 11 Jabari Henry advances to 3rd (20), 5 Trevor Achenbach putout (3U) for outnumber 2",2,2,,1,,T Grauer,
+27,16,Hunter Clanin,TOP,"Ball, Ball, Swinging Strike, 16 Hunter Clanin advances to 1st (single to third base), 21 Darnell Sweeney advances to 3rd (16), 11 Jabari Henry ScoresEarned (16)",2,1,1,,,T Grauer,
+28,35,Shamoy Christopher,TOP,"Swinging Strike, Ball, Ball, 16 Hunter Clanin advances to 2nd (stolen base), Ball, Swinging Strike,35 Shamoy Christopher putout (fly out to the shortstop) for out number 3",3,2,,1,,T Grauer,
+29,26,Scott Schreiber,BOTTOM,26 Scott Schreiber advances to 1st (single to leftfield),0,0,1,,,,Chris Hardin
+30,13,Manuel Boscan,BOTTOM,"Ball, Swinging Strike, Ball, 13 Manuel Boscan putout (fly out to right field) for out number 1",2,1,,,1,,Chris Hardin
+31,4,Leobaldo Pina,BOTTOM,"4 Leobaldo Pina advances to 2nd (double to centerfield), 26 Scott Schreiber Scores Earned (4)",0,0,1,,,,Chris Hardin
+32,1,Alec Olund,BOTTOM,"Ball, Ball, 1 Alec Olund advances to 2nd (double to right field), 4 Leobaldo Pina Scores Earned (1)",2,0,1,,,,Chris Hardin
+33,3,Nick Novak,BOTTOM,"Ball, 1 Alec Olund putout (PO 1-6) for out number2, Ball, Ball, 3 Nick Novak advances to 1st (walk)",3,0,,,1,,Chris Hardin
+34,2,Sam Dexter,BOTTOM,2 Sam Dexter putout (fly out to center field) forout number 3,0,0,,,1,,Chris Hardin
+35,1,Wyatt Ulrich,TOP,"Called Strike, Ball, Ball, Ball, Called Strike, 1Wyatt Ulrich advances to 1st (walk)",3,2,,,,T Grauer,
+36,0,Osvaldo Martinez,TOP,"Foul, Swinging Strike, Foul, Ball, Foul, Foul, Ball, 0 Osvaldo Martinez advances to 1st (single to right field), 1 Wyatt Ulrich advances to 3rd (0)",2,2,1,,,T Grauer,
+37,3,Jordan Barth,TOP,"Ball, 3 Jordan Barth advances to 1st (fielder's choice), 1 Wyatt Ulrich Scores Earned (3), 0 OsvaldoMartinez putout (6-4) for out number 1",1,0,,1,,T Grauer,
+38,11,Jabari Henry,TOP,11 Jabari Henry putout (fly out to the second baseman) for out number 2,0,0,,1,,T Grauer,
+39,20,Mike Hart,TOP,"Called Strike, Ball, Called Strike, Ball, Ball, 20Mike Hart advances to 1st (walk), 3 Jordan Barthadvances to 2nd (20)",3,2,,,,T Grauer,
+40,21,Darnell Sweeney,TOP,"Called Strike, Foul, 21 Darnell Sweeney putout (strike out swinging) for out number 3",0,2,,1,,T Grauer,
+41,47,Peter Brookshaw,BOTTOM,"Called Strike, Foul, Ball, Ball, Foul, Ball, 47 Peter Brookshaw putout (4-3) for out number 1",3,2,,,1,,Chris LaLonde
+42,11,Evan Alexander,BOTTOM,"Called Strike, Ball, Foul, 11 Evan Alexander putout (strike out swinging) for out number 2",1,2,,,1,,Chris LaLonde
+43,16,Correlle Prime,BOTTOM,"Called Strike, Called Strike, 16 Correlle Prime advances to 1st (error by the second baseman)",0,2,,,,,Chris LaLonde
+44,26,Scott Schreiber,BOTTOM,"Called Strike, Ball, Ball, 26 Scott Schreiber advances to 3rd (triple to center field), 16 CorrellePrime Scores Unearned (26)",2,1,1,,,,Chris LaLonde
+45,13,Manuel Boscan,BOTTOM,"Ball, Ball, Called Strike, Swinging Strike, 13 Manuel Boscan advances to 1st (single to left field),26 Scott Schreiber Scores Unearned (13)",2,2,1,,,,Chris LaLonde
+46,4,Leobaldo Pina,BOTTOM,"Ball, 4 Leobaldo Pina advances to 2nd (double to left field), 13 Manuel Boscan advances to 3rd (4)",1,0,1,,,,Chris LaLonde
+47,1,Alec Olund,BOTTOM,"Foul, Foul, 1 Alec Olund putout (strike out swinging) for out number 3",0,2,,,1,,Chris LaLonde
+48,5,Trevor Achenbach,TOP,"Ball, Foul, Foul, Foul, Ball, Ball, Foul, 5 TrevorAchenbach advances to 1st (single to center field)",3,2,1,,,T Grauer,
+49,16,Hunter Clanin,TOP,"Called Strike, 16 Hunter Clanin advances to 1st (single to shortstop), 5 Trevor Achenbach advances to 2nd (16)",0,1,1,,,T Grauer,
+50,35,Shamoy Christopher,TOP,"Called Strike, 35 Shamoy Christopher putout (fly out to the shortstop) for out number 1",0,1,,1,,T Grauer,
+51,1,Wyatt Ulrich,TOP,"Ball, Ball, 1 Wyatt Ulrich advances to 1st (singleto center field), 1 Wyatt Ulrich advances to 2nd(1), 16 Hunter Clanin advances to 3rd (1), 5 Trevor Achenbach Scores Earned (1)",2,0,1,,,T Grauer,
+52,0,Osvaldo Martinez,TOP,"Ball, 0 Osvaldo Martinez advances to 1st (single to center field), 1 Wyatt Ulrich advances to 3rd (0), 16 Hunter Clanin Scores Earned (0), 1 Wyatt Ulrich putout (8-6-2) for out number 2",1,0,1,1,,T Grauer,
+53,3,Jordan Barth,TOP,"Called Strike, Swinging Strike, Foul, Ball, 3 Jordan Barth advances to 1st (hit by pitch), 0 OsvaldoMartinez advances to 2nd (3)",1,2,,,,T Grauer,
+54,11,Jabari Henry,TOP,"Swinging Strike, Ball, Ball, Swinging Strike, Ball, 11 Jabari Henry putout (fly out to center field)for out number 3",3,2,,1,,T Grauer,
+55,3,Nick Novak,BOTTOM,"Ball, Ball, Foul, 3 Nick Novak advances to 1st (single to center field)",2,1,1,,,,Chris LaLonde
+56,2,Sam Dexter,BOTTOM,2 Sam Dexter putout (fly out to left field) for out number 1,0,0,,,1,,Chris LaLonde
+57,47,Peter Brookshaw,BOTTOM,"Ball, Ball, Called Strike, 3 Nick Novak Scores Earned (47), 47 Peter Brookshaw Scores Earned (home run)",2,1,1,,,,Chris LaLonde
+58,32,Michael Falsetti,BOTTOM,"Called Strike, Ball, Ball, Called Strike, 32 Michael Falsetti putout (fly out to center field) for out number 2",2,2,,,1,,Chris LaLonde
+59,16,Correlle Prime,BOTTOM,"Ball, Foul, Swinging Strike, 16 Correlle Prime Scores Earned (home run)",1,2,1,,,,Chris LaLonde
+60,26,Scott Schreiber,BOTTOM,"Foul, Called Strike, Ball, 26 Scott Schreiber advances to 2nd (double to right field)Pitching Substitution    27 Brady Stover subs for Cole LaLonde Pitcher.",1,2,1,,,,Chris LaLonde
+61,13,Manuel Boscan,BOTTOM,"Ball, Foul, Ball, Ball, 13 Manuel Boscan advancesto 1st (walk)",3,1,,,,,Brady Stover
+62,4,Leobaldo Pina,BOTTOM,"Swinging Strike, Swinging Strike, 4 Leobaldo Pinaputout (strike out) for out number 3",0,2,,,1,,Brady Stover
+63,20,Mike Hart,TOP,"Called Strike, Ball, Foul, 20 Mike Hart advances to 2nd (double to center field)",1,2,1,,,T Strobel,
+64,21,Darnell Sweeney,TOP,"Called Strike, Foul, 21 Darnell Sweeney advances to 1st (single to center field), 20 Mike Hart Scores Earned (21), 21 Darnell Sweeney putout (8-4) forout number 1",0,2,1,1,,T Strobel,
+65,5,Trevor Achenbach,TOP,5 Trevor Achenbach putout (fly out to the first baseman in foul territory) for out number 2,0,0,,1,,T Strobel,
+66,16,Hunter Clanin,TOP,"Called Strike, Ball, Foul, Ball, Foul, 16 Hunter Clanin putout (strike out swinging) for out number3",2,2,,1,,T Strobel,
+67,1,Alec Olund,BOTTOM,"Called Strike, Ball, Ball, Ball, Called Strike, 1Alec Olund putout (strike out swinging) for out number 1",3,2,,,1,,Brady Stover
+68,3,Nick Novak,BOTTOM,"Ball, Swinging Strike, 3 Nick Novak putout (L4) for out number 2",1,1,,,1,,Brady Stover
+69,2,Sam Dexter,BOTTOM,"Ball, Called Strike, Ball, 2 Sam Dexter advances to 2nd (double to center field)",2,1,1,,,,Brady Stover
+70,47,Peter Brookshaw,BOTTOM,"Ball, Ball, 47 Peter Brookshaw putout (fly out tocenter field) for out number 3",2,0,,,1,,Brady Stover
+71,35,Shamoy Christopher,TOP,"Ball, Ball, Swinging Strike, Ball, 35 Shamoy Christopher advances to 1st (walk)",3,1,,,,G Alexander,
+72,1,Wyatt Ulrich,TOP,"Ball, Ball, 1 Wyatt Ulrich putout (fly out to theshortstop) for out number 1",2,0,,1,,G Alexander,
+73,0,Osvaldo Martinez,TOP,"Ball, Called Strike, Ball, 0 Osvaldo Martinez advances to 1st (single to right field), 35 Shamoy Christopher advances to 2nd (0)",2,1,1,,,G Alexander,
+74,3,Jordan Barth,TOP,"Called Strike, Ball, 3 Jordan Barth advances to 1st (single to center field), 0 Osvaldo Martinez advances to 2nd (3), 3 Jordan Barth advances to 2nd (e8), 0 Osvaldo Martinez advances to 3rd (error bythe center fielder), 35 Shamoy Christopher ScoresEarned (3)",1,1,1,,,G Alexander,
+75,11,Jabari Henry,TOP,"Ball, Ball, Called Strike, Swinging Strike, 11 Jabari Henry putout (fly out to right field) for outnumber 2",2,2,,1,,G Alexander,
+76,20,Mike Hart,TOP,"Called Strike, Swinging Strike, 0 Osvaldo MartinezScores Earned (20), 3 Jordan Barth Scores Earned(20), 20 Mike Hart Scores Earned (home run)",0,2,1,,,G Alexander,
+77,21,Darnell Sweeney,TOP,"Foul, Ball, Foul, Ball, 21 Darnell Sweeney putout(strike out swinging) for out number 3",2,2,,1,,G Alexander,
+78,32,Michael Falsetti,BOTTOM,"Foul, Ball, Called Strike, Foul, Foul, Foul, Foul,Ball, 32 Michael Falsetti putout (fly out to leftfield) for out number 1",2,2,,,1,,Brady Stover
+79,16,Correlle Prime,BOTTOM,"Ball, Swinging Strike, Ball, Called Strike, Ball,16 Correlle Prime putout (fly out to right field)for out number 2",3,2,,,1,,Brady Stover
+80,26,Scott Schreiber,BOTTOM,"Foul, Ball, Ball, Swinging Strike, 26 Scott Schreiber advances to 1st (single to left field)",2,2,1,,,,Brady Stover
+81,13,Manuel Boscan,BOTTOM,"Ball, Called Strike, Foul, Ball, Ball, 13 Manuel Boscan advances to 1st (walk), 26 Scott Schreiber advances to 2nd (13)",3,2,,,,,Brady Stover
+82,4,Leobaldo Pina,BOTTOM,"Called Strike, Ball, Ball, Pickoff attempt at 1stbase (catcher to first baseman), Called Strike, 4Leobaldo Pina putout (fly out to left field) for out number 3",2,2,,,1,,Brady Stover
+83,5,Trevor Achenbach,TOP,"Ball, Foul, Swinging Strike, Ball, Ball, 5 TrevorAchenbach putout (fly out to left field) for out number 1",3,2,,1,,E Garcia,
+84,16,Hunter Clanin,TOP,"Called Strike, Foul, 16 Hunter Clanin putout (strike out) for out number 2",0,2,,1,,E Garcia,
+85,35,Shamoy Christopher,TOP,"Called Strike, 35 Shamoy Christopher advances to 1st (single to center field)",0,1,1,,,E Garcia,
+86,1,Wyatt Ulrich,TOP,"Ball, 1 Wyatt Ulrich advances to 1st (single to shortstop), 35 Shamoy Christopher advances to 2nd (1)",1,0,1,,,E Garcia,
+87,0,Osvaldo Martinez,TOP,"Ball, Ball, Called Strike, Ball, Called Strike, 0Osvaldo Martinez putout (fly out to right field) for out number 3",3,2,,1,,E Garcia,
+88,1,Alec Olund,BOTTOM,"Called Strike, Ball, Foul, Foul, Foul, Foul, Foul,Ball, Foul, Foul, 1 Alec Olund putout (fly out toright field) for out number 1",2,2,,,1,,Charlie Hasty
+89,3,Nick Novak,BOTTOM,"Foul, Called Strike, 3 Nick Novak putout (6-3) forout number 2",0,2,,,1,,Charlie Hasty
+90,2,Sam Dexter,BOTTOM,"Foul, 2 Sam Dexter putout (fly out to the first baseman in foul territory) for out number 3",0,1,,,1,,Charlie Hasty

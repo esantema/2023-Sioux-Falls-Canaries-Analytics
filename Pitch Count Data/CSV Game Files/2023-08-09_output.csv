@@ -1,0 +1,70 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM
+1,8,Armond Upshaw,TOP,"Ball, Foul, Ball, Swinging Strike, 8 Armond Upshawputout (L6) for out number 1",2,2,,1,
+2,2,Cornelius Randolph,TOP,2 Cornelius Randolph putout (fly out to center field) for out number 2,0,0,,1,
+3,33,Todd Lott,TOP,"Called Strike, Foul, Foul, 33 Todd Lott putout (5-3) for out number 3",0,2,,1,
+4,0,Osvaldo Martinez,BOTTOM,"Ball, Called Strike, 0 Osvaldo Martinez putout (1-3) for out number 1",1,1,,,1
+5,3,Jordan Barth,BOTTOM,"Called Strike, 3 Jordan Barth Scores Earned (homerun)",0,1,,,
+6,11,Jabari Henry,BOTTOM,"Ball, Ball, Called Strike, 11 Jabari Henry putout(3un) for out number 2",2,1,,,1
+7,20,Mike Hart,BOTTOM,"Foul, Called Strike, 20 Mike Hart putout (strike out swinging) for out number 3",0,2,,,1
+8,14,Jonah Davis,TOP,"Called Strike, Ball, Called Strike, Ball, 14 JonahDavis putout (3un) for out number 1",2,2,,1,
+9,7,Josh Allen,TOP,"Called Strike, 7 Josh Allen putout (2-3) for out number 2",0,1,,1,
+10,15,Hector Sanchez,TOP,"Ball, Foul, Ball, Foul, Foul, 15 Hector Sanchez advances to 1st (single), 15 Hector Sanchez putout (7-4) for out number 3",2,2,1,1,
+11,21,Darnell Sweeney,BOTTOM,"Ball, Called Strike, 21 Darnell Sweeney Scores Earned (home run)",1,1,1,,
+12,5,Trevor Achenbach,BOTTOM,"Ball, 5 Trevor Achenbach putout (4) for out number1",1,0,,,1
+13,16,Hunter Clanin,BOTTOM,"Ball, Called Strike, Ball, Ball, 16 Hunter Claninadvances to 1st (walk)",3,1,,,
+14,35,Shamoy Christopher,BOTTOM,"16 Hunter Clanin advances to 2nd (35), 35 Shamoy Christopher putout (fly out to center field) for out number 2",0,0,,,1
+15,1,Wyatt Ulrich,BOTTOM,"Ball, 16 Hunter Clanin advances to 3rd (wild pitch), Ball, Called Strike, 1 Wyatt Ulrich advances to1st (single), 16 Hunter Clanin Scores Earned (1)",2,1,1,,
+16,0,Osvaldo Martinez,BOTTOM,"Ball, Ball, Called Strike, Foul, 0 Osvaldo Martinez putout (3un) for out number 3",2,2,,,1
+17,6,Olivier Basabe,TOP,"Called Strike, 6 Olivier Basabe putout (fly out toleft field) for out number 1",0,1,,1,
+18,4,Harrison Smith,TOP,"Ball, Ball, Called Strike, Foul, 4 Harrison Smithputout (strike out swinging) for out number 2",2,2,,1,
+19,1,Galli Cribbs,TOP,"Jr.     Ball, 1 Galli Cribbs Jr. putout (fly out to centerfield) for out number 3",1,0,,1,
+20,3,Jordan Barth,BOTTOM,"Ball, Ball, Foul, 3 Jordan Barth putout (6-3) forout number 1",2,1,,,1
+21,11,Jabari Henry,BOTTOM,"Called Strike, Called Strike, Ball, Foul, Foul, 11Jabari Henry advances to 1st (single)",1,2,1,,
+22,20,Mike Hart,BOTTOM,"Ball, Ball, Foul, Called Strike, 20 Mike Hart putout (fly out to right field) for out number 2",2,2,,,1
+23,21,Darnell Sweeney,BOTTOM,"Swinging Strike, Ball, Ball, Ball, 21 Darnell Sweeney advances to 1st (walk), 11 Jabari Henry advances to 2nd (21)",3,1,,,
+24,5,Trevor Achenbach,BOTTOM,"Called Strike, Ball, Ball, Swinging Strike, Foul,5 Trevor Achenbach putout (strike out) for out number 3",2,2,,,1
+25,8,Armond Upshaw,TOP,8 Armond Upshaw Scores Earned (home run),0,0,1,,
+26,2,Cornelius Randolph,TOP,"Ball, Ball, Foul, Foul, Ball, 2 Cornelius RandolphScores Earned (home run)",3,2,1,,
+27,33,Todd Lott,TOP,"Foul, Foul, Ball, Foul, Foul, Ball, 33 Todd Lott putout (4) for out number 1",2,2,,1,
+28,14,Jonah Davis,TOP,"Foul, Called Strike, Foul, Foul, Foul, Ball, Ball,Foul, Ball, 14 Jonah Davis advances to 1st (walk)",3,2,,,
+29,7,Josh Allen,TOP,"Swinging Strike, Foul, Ball, Foul, Ball, Foul, Foul, 7 Josh Allen advances to 1st (error by the third baseman), 14 Jonah Davis advances to 2nd (7), 7Josh Allen advances to 2nd (7), 14 Jonah Davis putout (6-5) for out number 2",2,2,,1,
+30,15,Hector Sanchez,TOP,"Called Strike, 15 Hector Sanchez putout (4) for out number 3",0,1,,1,
+31,16,Hunter Clanin,BOTTOM,16 Hunter Clanin advances to 1st (single),0,0,1,,
+32,35,Shamoy Christopher,BOTTOM,"Ball, Ball, 16 Hunter Clanin advances to 2nd (stolen base), Swinging Strike, Ball, Foul, 16 Hunter Clanin advances to 3rd (35), 35 Shamoy Christopherputout (3un) for out number 1",3,2,,,1
+33,1,Wyatt Ulrich,BOTTOM,"Ball, 1 Wyatt Ulrich advances to 1st (single), 16Hunter Clanin Scores Earned (1)",1,0,1,,
+34,0,Osvaldo Martinez,BOTTOM,"Ball, 1 Wyatt Ulrich putout (5-4) for out number 2, 0 Osvaldo Martinez putout (5-4-3 DP) for out number 3",1,0,,,1
+35,6,Olivier Basabe,TOP,"Ball, Ball, Called Strike, 6 Olivier Basabe advances to 1st (single)",2,1,1,,
+36,4,Harrison Smith,TOP,"Ball, Swinging Strike, Ball, Foul, 4 Harrison Smith putout (strike out swinging) for out number 1",2,2,,1,
+37,1,Galli Cribbs,TOP,"Jr.     Foul, 1 Galli Cribbs Jr. putout (3un Dp) for out number 2, 6 Olivier Basabe putout (3-6 DP) for outnumber 3",0,1,,1,
+38,3,Jordan Barth,BOTTOM,"Ball, Called Strike, 3 Jordan Barth putout (3-1) for out number 1",1,1,,,1
+39,11,Jabari Henry,BOTTOM,"Called Strike, Foul, Ball, Ball, 11 Jabari Henry putout (strike out) for out number 2",2,2,,,1
+40,20,Mike Hart,BOTTOM,"Ball, 20 Mike Hart putout (3un) for out number 3",1,0,,,1
+41,8,Armond Upshaw,TOP,"Called Strike, Swinging Strike, Ball, 8 Armond Upshaw putout (5-3) for out number 1",1,2,,1,
+42,2,Cornelius Randolph,TOP,"Called Strike, Called Strike, 2 Cornelius Randolphputout (fly out to left field) for out number 2",0,2,,1,
+43,33,Todd Lott,TOP,33 Todd Lott putout (1-3) for out number 3,0,0,,1,
+44,21,Darnell Sweeney,BOTTOM,"Swinging Strike, Ball, 21 Darnell Sweeney Scores Earned (home run)",1,1,1,,
+45,5,Trevor Achenbach,BOTTOM,"Called Strike, Ball, Ball, Foul, Ball, 5 Trevor Achenbach advances to 1st (single)Pitching Substitution    19 C.J. Carter subs for Jack Fox Pitcher.",3,2,1,,
+46,16,Hunter Clanin,BOTTOM,16 Hunter Clanin putout (3) for out number 1,0,0,,,1
+47,35,Shamoy Christopher,BOTTOM,"Called Strike, Swinging Strike, Ball, 35 Shamoy Christopher putout (strike out swinging) for out number 2",1,2,,,1
+48,1,Wyatt Ulrich,BOTTOM,"Ball, 5 Trevor Achenbach advances to 2nd (stolen base), Ball, Swinging Strike, 1 Wyatt Ulrich advances to 1st (single), 5 Trevor Achenbach Scores Earned (1)",2,1,1,,
+49,0,Osvaldo Martinez,BOTTOM,"Ball, Ball, 1 Wyatt Ulrich advances to 2nd (stolenbase), Called Strike, Foul, Ball, 0 Osvaldo Martinez putout (strike out swinging) for out number 3",3,2,,,1
+50,14,Jonah Davis,TOP,"Foul, Called Strike, 14 Jonah Davis putout (6-3) for out number 1",0,2,,1,
+51,7,Josh Allen,TOP,"Foul, Ball, Ball, Foul, Foul, Foul, Ball, 7 Josh Allen advances to 1st (walk)",3,2,,,
+52,15,Hector Sanchez,TOP,"Ball, Called Strike, Ball, 15 Hector Sanchez putout (fly out to right field) for out number 2",2,1,,1,
+53,6,Olivier Basabe,TOP,"Ball, Swinging Strike, Ball, Foul, 6 Olivier Basabe putout (dropped 3rd strike: KS 2) for out number3",2,2,,1,
+54,3,Jordan Barth,BOTTOM,"Ball, Ball, Foul, Called Strike, 3 Jordan Barth putout (4-3) for out number 1",2,2,,,1
+55,11,Jabari Henry,BOTTOM,"Ball, Ball, 11 Jabari Henry putout (fly out to center field) for out number 2",2,0,,,1
+56,20,Mike Hart,BOTTOM,"Foul, Ball, Ball, Ball, Swinging Strike, 20 Mike Hart putout (fly out to left field) for out number3",3,2,,,1
+57,4,Harrison Smith,TOP,"Called Strike, Ball, 4 Harrison Smith Scores Earned (home run)",1,1,1,,
+58,1,Galli Cribbs,TOP,"Jr.     Ball, Swinging Strike, Ball, Foul, 1 Galli CribbsJr. putout (strike out swinging) for out number 1",2,2,,1,
+59,8,Armond Upshaw,TOP,"Foul, Ball, Ball, Ball, Foul, 8 Armond Upshaw advances to 1st (walk)",3,2,,,
+60,2,Cornelius Randolph,TOP,"Swinging Strike, 8 Armond Upshaw Scores Earned (2), 2 Cornelius Randolph Scores Earned (home run)",0,1,1,,
+61,33,Todd Lott,TOP,"Foul, Foul, Ball, 33 Todd Lott putout (strike out)for out number 2",1,2,,1,
+62,14,Jonah Davis,TOP,14 Jonah Davis putout (fly out to right field) forout number 3,0,0,,1,
+63,21,Darnell Sweeney,BOTTOM,"Ball, 21 Darnell Sweeney putout (6-3) for out number 1",1,0,,,1
+64,5,Trevor Achenbach,BOTTOM,"Ball, Called Strike, Ball, Swinging Strike, 5 Trevor Achenbach putout (strike out swinging) for outnumber 2",2,2,,,1
+65,16,Hunter Clanin,BOTTOM,"Ball, Foul, Ball, Ball, Foul, Foul, 16 Hunter Clanin advances to 1st (walk)",3,2,,,
+66,35,Shamoy Christopher,BOTTOM,35 Shamoy Christopher putout (4-3) for out number3,0,0,,,1
+67,7,Josh Allen,TOP,"Ball, Ball, 7 Josh Allen advances to 1st (single)",2,0,1,,
+68,15,Hector Sanchez,TOP,"Ball, 7 Josh Allen putout (4-6) for out number 1,15 Hector Sanchez putout (4-6-3 DP) for out number2",1,0,,1,
+69,6,Olivier Basabe,TOP,"Ball, Swinging Strike, Foul, Ball, Ball, Foul, 6 Olivier Basabe putout (4-3) for out number 3",3,2,,1,

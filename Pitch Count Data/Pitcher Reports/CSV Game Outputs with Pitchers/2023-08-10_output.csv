@@ -1,0 +1,68 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM,Pitcher Top,Pitcher Bottom
+1,8,Armond Upshaw,TOP,"Called Strike, Ball, 8 Armond Upshaw putout (fly out to center field) for out number 1",1,1,,1,,Akeem Bostick,
+2,2,Cornelius Randolph,TOP,"Ball, Foul, Ball, Foul, Ball, 2 Cornelius Randolphadvances to 1st (single)",3,2,1,,,Akeem Bostick,
+3,33,Todd Lott,TOP,"2 Cornelius Randolph putout (5-4) for out number 2, 33 Todd Lott putout (5-4-3 DP) for out number 3",0,0,,1,,Akeem Bostick,
+4,1,Wyatt Ulrich,BOTTOM,"Called Strike, 1 Wyatt Ulrich putout (fly out to center field) for out number 1",0,1,,,1,,W Muir
+5,3,Jordan Barth,BOTTOM,"Called Strike, Foul, 3 Jordan Barth putout (1-3) for out number 2",0,2,,,1,,W Muir
+6,11,Jabari Henry,BOTTOM,"Ball, Ball, Called Strike, Ball, Foul, 11 Jabari Henry putout (6-3) for out number 3",3,2,,,1,,W Muir
+7,14,Jonah Davis,TOP,"Called Strike, 14 Jonah Davis putout (3-1) for outnumber 1",0,1,,1,,Akeem Bostick,
+8,7,Josh Allen,TOP,"Ball, Foul, Swinging Strike, 7 Josh Allen putout (5-3) for out number 2",1,2,,1,,Akeem Bostick,
+9,6,Olivier Basabe,TOP,"Ball, Foul, Ball, Ball, 6 Olivier Basabe advancesto 1st (walk)",3,1,,,,Akeem Bostick,
+10,4,Harrison Smith,TOP,4 Harrison Smith putout (fly out to the third baseman) for out number 3,0,0,,1,,Akeem Bostick,
+11,20,Mike Hart,BOTTOM,"Ball, Foul, Ball, Ball, 20 Mike Hart putout (6) for out number 1",3,1,,,1,,W Muir
+12,21,Darnell Sweeney,BOTTOM,21 Darnell Sweeney advances to 2nd (double),0,0,1,,,,W Muir
+13,5,Trevor Achenbach,BOTTOM,"Called Strike, Foul, Ball, 5 Trevor Achenbach advances to 1st (single), 21 Darnell Sweeney advancesto 3rd (5)",1,2,1,,,,W Muir
+14,16,Hunter Clanin,BOTTOM,"Ball, Ball, Ball, Called Strike, 5 Trevor Achenbach putout (6) for out number 2, 16 Hunter Clanin putout (6-3 DP) for out number 3",3,1,,,1,,W Muir
+15,1,Galli Cribbs,TOP,"Jr.     Ball, Swinging Strike, 1 Galli Cribbs Jr. advancesto 1st (single)",1,1,1,,,Akeem Bostick,
+16,20,John Cristino,TOP,"Ball, Ball, 20 John Cristino advances to 1st (single), 1 Galli Cribbs Jr. advances to 2nd (20)",2,0,1,,,Akeem Bostick,
+17,8,Armond Upshaw,TOP,"20 John Cristino advances to 2nd (8), 1 Galli Cribbs Jr. advances to 3rd (8), 8 Armond Upshaw putout(2-3 SH) for out number 1",0,0,,1,,Akeem Bostick,
+18,2,Cornelius Randolph,TOP,"20 John Cristino advances to 3rd (2), 1 Galli Cribbs Jr. Scores Earned (2), 2 Cornelius Randolph putout (3un) for out number 2",0,0,,1,,Akeem Bostick,
+19,33,Todd Lott,TOP,"Ball, Foul, Foul, 33 Todd Lott putout (strike outswinging) for out number 3",1,2,,1,,Akeem Bostick,
+20,29,Spencer Sarringar,BOTTOM,29 Spencer Sarringar putout (fly out to left field) for out number 1,0,0,,,1,,W Muir
+21,15,Logan Eickhoff,BOTTOM,"Ball, Ball, Ball, 15 Logan Eickhoff advances to 1st (walk)",3,0,,,,,W Muir
+22,1,Wyatt Ulrich,BOTTOM,"Ball, Called Strike, Ball, Ball, Called Strike, 1Wyatt Ulrich advances to 1st (walk), 15 Logan Eickhoff advances to 2nd (1)",3,2,,,,,W Muir
+23,3,Jordan Barth,BOTTOM,"Called Strike, Ball, Foul, 3 Jordan Barth advancesto 1st (single), 1 Wyatt Ulrich advances to 2nd (3), 15 Logan Eickhoff advances to 3rd (3)",1,2,1,,,,W Muir
+24,11,Jabari Henry,BOTTOM,"Swinging Strike, Ball, Swinging Strike, Foul, Ball, 1 Wyatt Ulrich advances to 3rd (11), 15 Logan Eickhoff Scores Earned (11), 11 Jabari Henry putout(sacrifice fly to center fielder) for out number 2, 3 Jordan Barth putout (8-5-4) for out number 3",2,2,,,1,,W Muir
+25,14,Jonah Davis,TOP,"Ball, Swinging Strike, Foul, Ball, Ball, 14 JonahDavis advances to 1st (walk)",3,2,,,,Akeem Bostick,
+26,7,Josh Allen,TOP,"Foul, 7 Josh Allen putout (fly out to the first baseman) for out number 1",0,1,,1,,Akeem Bostick,
+27,6,Olivier Basabe,TOP,"Foul, Called Strike, Foul, Ball, 14 Jonah Davis advances to 2nd (wild pitch), Ball, 6 Olivier Basabeadvances to 2nd (double), 14 Jonah Davis Scores Earned (6)",2,2,1,,,Akeem Bostick,
+28,4,Harrison Smith,TOP,"6 Olivier Basabe advances to 3rd (4), 4 Harrison Smith putout (1-3 SH) for out number 2",0,0,,1,,Akeem Bostick,
+29,1,Galli Cribbs,TOP,"Jr.     Ball, 1 Galli Cribbs Jr. putout (4-3) for out number 3",1,0,,1,,Akeem Bostick,
+30,20,Mike Hart,BOTTOM,"Called Strike, Foul, Ball, Ball, 20 Mike Hart putout (strike out swinging) for out number 1",2,2,,,1,,W Muir
+31,21,Darnell Sweeney,BOTTOM,"Ball, Ball, Called Strike, Ball, 21 Darnell Sweeney advances to 1st (walk)Offensive Substitution   0 Osvaldo Martinez subs for Trevor Achenbach.",3,1,,,,,W Muir
+32,0,Osvaldo Martinez,BOTTOM,"Ball, Ball, 0 Osvaldo Martinez advances to 1st (single), 21 Darnell Sweeney advances to 2nd (0)",2,0,1,,,,W Muir
+33,16,Hunter Clanin,BOTTOM,"Ball, Foul, Foul, Ball, 16 Hunter Clanin putout (4Dp) for out number 2, 0 Osvaldo Martinez putout (4-3 DP) for out number 3",2,2,,,1,,W Muir
+34,20,John Cristino,TOP,"Foul, Ball, Swinging Strike, 20 John Cristino putout (5-3) for out number 1",1,2,,1,,Akeem Bostick,
+35,8,Armond Upshaw,TOP,"Swinging Strike, Ball, Ball, Ball, 8 Armond Upshawputout (4-3) for out number 2",3,1,,1,,Akeem Bostick,
+36,2,Cornelius Randolph,TOP,"Ball, 2 Cornelius Randolph putout (fly out to leftfield) for out number 3",1,0,,1,,Akeem Bostick,
+37,29,Spencer Sarringar,BOTTOM,29 Spencer Sarringar putout (6) for out number 1,0,0,,,1,,W Muir
+38,15,Logan Eickhoff,BOTTOM,"Ball, Called Strike, Ball, Foul, 15 Logan Eickhoffputout (fly out to center field) for out number 2",2,2,,,1,,W Muir
+39,1,Wyatt Ulrich,BOTTOM,"Ball, Called Strike, 1 Wyatt Ulrich putout (L5) for out number 3",1,1,,,1,,W Muir
+40,33,Todd Lott,TOP,"Foul, Foul, 33 Todd Lott advances to 1st (hit by pitch)",0,2,,,,Akeem Bostick,
+41,14,Jonah Davis,TOP,"Called Strike, Ball, Ball, 33 Todd Lott putout (caught stealing: CS 2-6) for out number 1, Ball, Called Strike, Foul, Foul, 14 Jonah Davis putout (flyout to left field) for out number 2",3,2,,1,,Akeem Bostick,
+42,7,Josh Allen,TOP,7 Josh Allen putout (fly out to left field) for out number 3,0,0,,1,,Akeem Bostick,
+43,3,Jordan Barth,BOTTOM,"Called Strike, 3 Jordan Barth putout (fly out to center field) for out number 1",0,1,,,1,,W Muir
+44,11,Jabari Henry,BOTTOM,"Foul, 11 Jabari Henry putout (fly out to left field) for out number 2",0,1,,,1,,W Muir
+45,20,Mike Hart,BOTTOM,20 Mike Hart Scores Earned (home run),0,0,1,,,,W Muir
+46,21,Darnell Sweeney,BOTTOM,"Ball, Foul, Ball, Ball, Swinging Strike, Foul, 21Darnell Sweeney putout (strike out swinging) for out number 3",3,2,,,1,,W Muir
+47,6,Olivier Basabe,TOP,"Ball, 6 Olivier Basabe putout (fly out to left field) for out number 1",1,0,,1,,Akeem Bostick,
+48,4,Harrison Smith,TOP,"Called Strike, Called Strike, Ball, 4 Harrison Smith advances to 1st (single)",1,2,1,,,Akeem Bostick,
+49,1,Galli Cribbs,TOP,"Jr.     Called Strike, Ball, Foul, Ball, 1 Galli Cribbs Jr. putout (3 Dp) for out number 2, 4 Harrison Smithputout (3-6 DP) for out number 3",2,2,,1,,Akeem Bostick,
+50,0,Osvaldo Martinez,BOTTOM,"Ball, FoulPitching Substitution    24 Keith Rogalla subs for Westin Muir Pitcher.",1,1,,,,,K Rogalla
+51,0,Osvaldo Martinez,BOTTOM,"Ball, Foul, Ball, Foul, 0 Osvaldo Martinez advances to 1st (single)",2,2,1,,,,K Rogalla
+52,16,Hunter Clanin,BOTTOM,"Called Strike, Called Strike, Ball, 0 Osvaldo Martinez advances to 2nd (wild pitch), 0 Osvaldo Martinez advances to 3rd (16), 16 Hunter Clanin putout(4-3) for out number 1",1,2,,,1,,K Rogalla
+53,29,Spencer Sarringar,BOTTOM,"Ball, Ball, 29 Spencer Sarringar advances to 2nd (double), 0 Osvaldo Martinez Scores Earned (29)",2,0,1,,,,K Rogalla
+54,15,Logan Eickhoff,BOTTOM,"Ball, 15 Logan Eickhoff putout (fly out to left field) for out number 2",1,0,,,1,,K Rogalla
+55,1,Wyatt Ulrich,BOTTOM,"Foul, Ball, Ball, 1 Wyatt Ulrich putout (fly out to left field) for out number 3",2,1,,,1,,L Nissen
+56,20,John Cristino,TOP,"Ball, Swinging Strike, Ball, 20 John Cristino putout (3un) for out number 1",2,1,,1,,Christian Johnson,
+57,8,Armond Upshaw,TOP,"Ball, Swinging Strike, Ball, Ball, 8 Armond Upshawputout (fly out to right field) for out number 2",3,1,,1,,Christian Johnson,
+58,2,Cornelius Randolph,TOP,"Ball, Called Strike, Called Strike, 2 Cornelius Randolph putout (strike out swinging) for out number3",1,2,,1,,Christian Johnson,
+59,3,Jordan Barth,BOTTOM,"Foul, Ball, 3 Jordan Barth advances to 1st (single)",1,1,1,,,,L Nissen
+60,11,Jabari Henry,BOTTOM,"Called Strike, Foul, 11 Jabari Henry advances to 1st (fielder's choice), 3 Jordan Barth putout (6-4)for out number 1",0,2,,,1,,L Nissen
+61,20,Mike Hart,BOTTOM,20 Mike Hart putout (6) for out number 2,0,0,,,1,,L Nissen
+62,21,Darnell Sweeney,BOTTOM,"Ball, Ball, Ball, 21 Darnell Sweeney advances to 1st (walk), 11 Jabari Henry advances to 2nd (21)",3,0,,,,,L Nissen
+63,0,Osvaldo Martinez,BOTTOM,"Called Strike, 0 Osvaldo Martinez putout (2-3) forout number 3",0,1,,,1,,W Muir
+64,33,Todd Lott,TOP,"Foul, Foul, 33 Todd Lott advances to 1st (single)",0,2,1,,,Charlie Hasty,
+65,14,Jonah Davis,TOP,"Foul, 14 Jonah Davis putout (fly out to right field) for out number 1",0,1,,1,,Charlie Hasty,
+66,7,Josh Allen,TOP,"Ball, Swinging Strike, Swinging Strike, 7 Josh Allen putout (strike out swinging) for out number 2",1,2,,1,,Charlie Hasty,
+67,6,Olivier Basabe,TOP,"Ball, Foul, Ball, Foul, 6 Olivier Basabe putout (strike out swinging) for out number 3",2,2,,1,,Charlie Hasty,

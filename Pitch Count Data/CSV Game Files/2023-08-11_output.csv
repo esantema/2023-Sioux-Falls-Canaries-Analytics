@@ -1,0 +1,88 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM
+1,1,Bryan Torres,TOP,"Called Strike, 1 Bryan Torres advances to 1st (single)",0,1,1,,
+2,14,Cam Balego,TOP,"Called Strike, 14 Cam Balego putout (P5) for out number 1",0,1,,1,
+3,7,Roy Morales,TOP,"Ball, Swinging Strike, Swinging Strike, 1 Bryan Torres advances to 2nd (stolen base), 7 Roy Moralesputout (strike out swinging) for out number 2",1,2,,1,
+4,13,Miguel Gomez,TOP,"Ball, Foul, Ball, Foul, 13 Miguel Gomez putout (fly out to center field) for out number 3",2,2,,1,
+5,0,Osvaldo Martinez,BOTTOM,"Ball, Called Strike, 0 Osvaldo Martinez putout (fly out to center field) for out number 1",1,1,,,1
+6,3,Jordan Barth,BOTTOM,"Called Strike, Ball, 3 Jordan Barth putout (6-3) for out number 2",1,1,,,1
+7,11,Jabari Henry,BOTTOM,"Called Strike, Called Strike, Ball, 11 Jabari Henry putout (strike out swinging) for out number 3",1,2,,,1
+8,21,Gabriel Cancel,TOP,"Called Strike, Ball, Ball, 21 Gabriel Cancel advances to 2nd (double)",2,1,1,,
+9,26,Drew Ward,TOP,"Called Strike, 26 Drew Ward advances to 1st (single), 21 Gabriel Cancel Scores Earned (26)",0,1,1,,
+10,11,Aaron Hill,TOP,"Ball, 26 Drew Ward advances to 2nd (pass ball), Ball, Swinging Strike, Ball, Foul, Foul, 11 Aaron Hill advances to 1st (walk)",3,2,,,
+11,20,Michael Crouse,TOP,"Ball, Called Strike, Ball, Ball, 20 Michael Crouseadvances to 1st (walk), 11 Aaron Hill advances to2nd (20), 26 Drew Ward advances to 3rd (20)",3,1,,,
+12,22,Reggie Pruitt,TOP,"Jr.   Foul, Ball, Ball, Foul, Ball, 22 Reggie Pruitt Jr.putout (strike out swinging) for out number 1",3,2,,1,
+13,1,Bryan Torres,TOP,"26 Drew Ward Scores Earned (1), 1 Bryan Torres putout (sacrifice fly to center fielder) for out number 2",0,0,,1,
+14,14,Cam Balego,TOP,"Ball, Ball, 14 Cam Balego putout (fly out to rightfield) for out number 3",2,0,,1,
+15,20,Mike Hart,BOTTOM,"Called Strike, Ball, Ball, Foul, Ball, 20 Mike Hart advances to 1st (walk)",3,2,,,
+16,21,Darnell Sweeney,BOTTOM,"Swinging Strike, Swinging Strike, Ball, Ball, Ball, 21 Darnell Sweeney advances to 1st (walk), 20 Mike Hart advances to 2nd (21)",3,2,,,
+17,5,Trevor Achenbach,BOTTOM,"5 Trevor Achenbach advances to 1st (fielder's choice), 20 Mike Hart putout (5) for out number 1, 21Darnell Sweeney putout (5-4 DP) for out number 2",0,0,,,1
+18,16,Hunter Clanin,BOTTOM,"Called Strike, Foul, Foul, Ball, 5 Trevor Achenbach Scores Earned (16), 16 Hunter Clanin Scores Earned (home run)",1,2,1,,
+19,35,Shamoy Christopher,BOTTOM,"Called Strike, 35 Shamoy Christopher putout (fly out to center field) for out number 3",0,1,,,1
+20,7,Roy Morales,TOP,"Ball, 7 Roy Morales advances to 1st (single)",1,0,1,,
+21,13,Miguel Gomez,TOP,"Called Strike, Ball, Ball, Swinging Strike, 13 Miguel Gomez advances to 1st (single), 7 Roy Moralesadvances to 2nd (13)",2,2,1,,
+22,21,Gabriel Cancel,TOP,"21 Gabriel Cancel advances to 1st (single), 13 Miguel Gomez advances to 2nd (21), 7 Roy Morales advances to 3rd (21)",0,0,1,,
+23,26,Drew Ward,TOP,"Ball, Ball, Ball, 26 Drew Ward advances to 2nd (double), 21 Gabriel Cancel advances to 3rd (26), 7 Roy Morales Scores Earned (26), 13 Miguel Gomez Scores Earned (26)",3,0,1,,
+24,11,Aaron Hill,TOP,"Called Strike, 26 Drew Ward advances to 3rd (11),21 Gabriel Cancel Scores Earned (11), 11 Aaron Hill putout (sacrifice fly to left fielder) for out number 1",0,1,,1,
+25,20,Michael Crouse,TOP,"Ball, Called Strike, Ball, Foul, Ball, 20 MichaelCrouse putout (3) for out number 2",3,2,,1,
+26,22,Reggie Pruitt,TOP,"Jr.   Called Strike, Ball, Foul, 22 Reggie Pruitt Jr. putout (strike out) for out number 3",1,2,,1,
+27,1,Wyatt Ulrich,BOTTOM,"Called Strike, 1 Wyatt Ulrich putout (3U) for outnumber 1",0,1,,,1
+28,0,Osvaldo Martinez,BOTTOM,"Called Strike, Ball, 0 Osvaldo Martinez putout (5-3) for out number 2",1,1,,,1
+29,3,Jordan Barth,BOTTOM,"Ball, Swinging Strike, Ball, 3 Jordan Barth advances to 1st (error by the shortstop)",2,1,,,
+30,11,Jabari Henry,BOTTOM,"Swinging Strike, Ball, Swinging Strike, 3 Jordan Barth Scores Unearned (11), 11 Jabari Henry ScoresUnearned (home run)",1,2,1,,
+31,20,Mike Hart,BOTTOM,20 Mike Hart advances to 2nd (double),0,0,1,,
+32,21,Darnell Sweeney,BOTTOM,"20 Mike Hart Scores Unearned (21), 21 Darnell Sweeney Scores Unearned (home run)",0,0,1,,
+33,5,Trevor Achenbach,BOTTOM,"Called Strike, Ball, 5 Trevor Achenbach putout (fly out to left field) for out number 3",1,1,,,1
+34,1,Bryan Torres,TOP,"Ball, 1 Bryan Torres putout (P3) for out number 1",1,0,,1,
+35,14,Cam Balego,TOP,"Ball, Ball, Ball, 14 Cam Balego advances to 1st (walk)",3,0,,,
+36,7,Roy Morales,TOP,"Called Strike, 7 Roy Morales putout (fly out to right field) for out number 2",0,1,,1,
+37,13,Miguel Gomez,TOP,"Swinging Strike, 14 Cam Balego putout (caught stealing: CS 2-4) for out number 3",0,1,,1,
+38,16,Hunter Clanin,BOTTOM,"Called Strike, Ball, 16 Hunter Clanin putout (flyout to center field) for out number 1",1,1,,,1
+39,35,Shamoy Christopher,BOTTOM,"Ball, 35 Shamoy Christopher advances to 1st (hit by pitch)",1,0,,,
+40,1,Wyatt Ulrich,BOTTOM,"Called Strike, Ball, Ball, Ball, 1 Wyatt Ulrich advances to 1st (walk), 35 Shamoy Christopher advances to 2nd (1)",3,1,,,
+41,0,Osvaldo Martinez,BOTTOM,"Ball, Called Strike, Swinging Strike, 0 Osvaldo Martinez advances to 1st (single), 1 Wyatt Ulrich advances to 2nd (0), 35 Shamoy Christopher advancesto 3rd (0)",1,2,1,,
+42,3,Jordan Barth,BOTTOM,"Ball, Ball, 0 Osvaldo Martinez Scores Earned (3),3 Jordan Barth Scores Earned (home run), 35 ShamoyChristopher Scores Earned (3), 1 Wyatt Ulrich Scores Earned (3)",2,0,1,,
+43,11,Jabari Henry,BOTTOM,"Ball, Swinging Strike, Foul, Ball, Foul, Foul, Ball, 11 Jabari Henry advances to 1st (walk)Pitching Substitution    10 Jack Mahoney subs for Kyle Mora Pitcher.",3,2,,,
+44,20,Mike Hart,BOTTOM,"20 Mike Hart advances to 2nd (double), 11 Jabari Henry advances to 3rd (20)",0,0,1,,
+45,21,Darnell Sweeney,BOTTOM,"Swinging Strike, 20 Mike Hart advances to 3rd (21), 11 Jabari Henry Scores Earned (21), 21 Darnell Sweeney putout (sacrifice fly to center fielder) for out number 2",0,1,,,1
+46,5,Trevor Achenbach,BOTTOM,"Ball, Ball, Foul, Swinging Strike, Foul, Ball, 5 Trevor Achenbach advances to 1st (single), 20 MikeHart Scores Earned (5)",3,2,1,,
+47,16,Hunter Clanin,BOTTOM,"Foul, Swinging Strike, 16 Hunter Clanin putout (strike out swinging) for out number 3",0,2,,,1
+48,13,Miguel Gomez,TOP,"Ball, Ball, Ball, Called Strike, 13 Miguel Gomez Scores Earned (home run)",3,1,1,,
+49,21,Gabriel Cancel,TOP,"Called Strike, 21 Gabriel Cancel advances to 1st (single)",0,1,1,,
+50,26,Drew Ward,TOP,"Called Strike, Ball, 21 Gabriel Cancel Scores Earned (26), 26 Drew Ward Scores Earned (home run)",1,1,1,,
+51,11,Aaron Hill,TOP,"Ball, Ball, Ball, Called Strike, 11 Aaron Hill advances to 1st (walk)",3,1,,,
+52,20,Michael Crouse,TOP,"Ball, Foul, Ball, 20 Michael Crouse advances to 2nd (double), 11 Aaron Hill advances to 3rd (20)Pitching Substitution    33 Cole LaLonde subs for Angel Lebron Pitcher.",2,1,1,,
+53,22,Reggie Pruitt,TOP,"Jr.   Called Strike, Ball, Ball, Ball, 11 Aaron Hill Scores Earned (22), 22 Reggie Pruitt Jr. putout (6-3)for out number 1",3,1,,1,
+54,1,Bryan Torres,TOP,"Ball, 20 Michael Crouse advances to 3rd (wild pitch), Swinging Strike, Foul, 1 Bryan Torres advancesto 1st (single), 20 Michael Crouse Scores Earned(1)",1,2,1,,
+55,14,Cam Balego,TOP,"Called Strike, Foul, Foul, Ball, Foul, 14 Cam Balego advances to 1st (single), 1 Bryan Torres advances to 2nd (14)",1,2,1,,
+56,7,Roy Morales,TOP,"Ball, 7 Roy Morales advances to 1st (single), 14 Cam Balego advances to 2nd (7), 1 Bryan Torres Scores Earned (7)",1,0,1,,
+57,13,Miguel Gomez,TOP,"Called Strike, Ball, 14 Cam Balego putout (caughtstealing: CS 2-5) for out number 2, Ball, Ball, 13Miguel Gomez putout (fly out to right field) forout number 3",3,1,,1,
+58,35,Shamoy Christopher,BOTTOM,"Ball, Ball, Foul, 35 Shamoy Christopher putout (fly out to center field) for out number 1",2,1,,,1
+59,1,Wyatt Ulrich,BOTTOM,"Called Strike, Called Strike, Ball, 1 Wyatt Ulrichputout (strike out swinging) for out number 2",1,2,,,1
+60,0,Osvaldo Martinez,BOTTOM,"Called Strike, Foul, Ball, Foul, 0 Osvaldo Martinez advances to 1st (single)",1,2,1,,
+61,3,Jordan Barth,BOTTOM,"Foul, Ball, Foul, Ball, 0 Osvaldo Martinez putout(caught stealing: CS 2-4) for out number 3",2,2,,,1
+62,21,Gabriel Cancel,TOP,"Ball, Ball, Ball, Called Strike, 21 Gabriel Canceladvances to 1st (single)",3,1,1,,
+63,26,Drew Ward,TOP,"Foul, 21 Gabriel Cancel putout (caught stealing: CS 2-6) for out number 1, Ball, Swinging Strike, 26Drew Ward putout (strike out swinging) for out number 2",1,2,,1,
+64,11,Aaron Hill,TOP,"Swinging Strike, Ball, Ball, Swinging Strike, 11 Aaron Hill advances to 2nd (double)",2,2,1,,
+65,20,Michael Crouse,TOP,"Swinging Strike, Foul, Ball, 20 Michael Crouse putout (5-3) for out number 3",1,2,,1,
+66,3,Jordan Barth,BOTTOM,3 Jordan Barth putout (4-3) for out number 1,0,0,,,1
+67,11,Jabari Henry,BOTTOM,"Ball, Called Strike, Ball, 11 Jabari Henry putout(fly out to center field) for out number 2",2,1,,,1
+68,20,Mike Hart,BOTTOM,20 Mike Hart advances to 1st (hit by pitch),0,0,,,
+69,21,Darnell Sweeney,BOTTOM,"Swinging Strike, Called Strike, 21 Darnell Sweeneyadvances to 1st (fielder's choice), 20 Mike Hartputout (6-4) for out number 3",0,2,,,1
+70,22,Reggie Pruitt,TOP,"Jr.   Called Strike, Swinging Strike, Ball, Ball, Foul,22 Reggie Pruitt Jr. putout (strike out swinging)for out number 1",2,2,,1,
+71,1,Bryan Torres,TOP,"Ball, Foul, Ball, Ball, Called Strike, 1 Bryan Torres advances to 1st (single)",3,2,1,,
+72,14,Cam Balego,TOP,"Ball, Ball, Ball, 14 Cam Balego putout (fly out tocenter field) for out number 2",3,0,,1,
+73,7,Roy Morales,TOP,7 Roy Morales putout (P6) for out number 3,0,0,,1,
+74,5,Trevor Achenbach,BOTTOM,"Called Strike, Ball, 5 Trevor Achenbach putout (fly out to center field) for out number 1",1,1,,,1
+75,16,Hunter Clanin,BOTTOM,"Called Strike, Called Strike, Ball, Ball, Ball, 16Hunter Clanin putout (strike out swinging) for out number 2",3,2,,,1
+76,35,Shamoy Christopher,BOTTOM,"Ball, Swinging Strike, 35 Shamoy Christopher putout (fly out to right field) for out number 3",1,1,,,1
+77,13,Miguel Gomez,TOP,"Called Strike, Ball, Foul, 13 Miguel Gomez putout(5-3) for out number 1",1,2,,1,
+78,21,Gabriel Cancel,TOP,"Called Strike, Ball, Swinging Strike, Ball, Ball,21 Gabriel Cancel putout (strike out) for out number 2",3,2,,1,
+79,26,Drew Ward,TOP,"Called Strike, Swinging Strike, Ball, Ball, Ball,26 Drew Ward putout (fly out to left field) for out number 3",3,2,,1,
+80,1,Wyatt Ulrich,BOTTOM,"Called Strike, Ball, Ball, Foul, 1 Wyatt Ulrich putout (strike out swinging) for out number 1",2,2,,,1
+81,0,Osvaldo Martinez,BOTTOM,"Called Strike, Swinging Strike, 0 Osvaldo Martinezadvances to 1st (single)",0,2,1,,
+82,3,Jordan Barth,BOTTOM,"Called Strike, 0 Osvaldo Martinez putout (6-4) forout number 2, 3 Jordan Barth putout (6-4-3 DP) for out number 3",0,1,,,1
+83,11,Aaron Hill,TOP,"Ball, Ball, Ball, Called Strike, Swinging Strike,11 Aaron Hill putout (strike out) for out number 1",3,2,,1,
+84,20,Michael Crouse,TOP,20 Michael Crouse advances to 1st (single),0,0,1,,
+85,22,Reggie Pruitt,TOP,"Jr.   Swinging Strike, Foul, Ball, Foul, Ball, 20 Michael Crouse advances to 2nd (wild pitch), Ball, 20 Michael Crouse advances to 3rd (stolen base), 22 Reggie Pruitt Jr. advances to 1st (walk)",3,2,,,
+86,1,Bryan Torres,TOP,"Called Strike, Foul, 1 Bryan Torres putout (strikeout swinging) for out number 2",0,2,,1,
+87,14,Cam Balego,TOP,"Called Strike, Called Strike, 14 Cam Balego putout(fly out to left field) for out number 3",0,2,,1,

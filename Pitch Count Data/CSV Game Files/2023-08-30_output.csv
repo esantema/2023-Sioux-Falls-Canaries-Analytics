@@ -1,0 +1,75 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM
+1,8,Dayson Croes,TOP,"Called Strike, 8 Dayson Croes putout (1-3) for outnumber 1",0,1,,1,
+2,1,Andy Armstrong,TOP,"Ball, Foul, Ball, 1 Andy Armstrong putout (4-3) for out number 2",2,1,,1,
+3,13,Max Murphy,TOP,"Ball, 13 Max Murphy advances to 1st (single)",1,0,1,,
+4,14,Miles Simington,TOP,"Called Strike, Ball, Foul, Foul, 14 Miles Simington putout (fly out to center field) for out number3",1,2,,1,
+5,4,Aaron Whitefield,BOTTOM,"Ball, Ball, Ball, 4 Aaron Whitefield advances to 1st (walk)",3,0,,,
+6,3,Jordan Barth,BOTTOM,"Ball, Ball, Called Strike, 4 Aaron Whitefield advances to 2nd (stolen base), Foul, Ball, 3 Jordan Barth putout (strike out swinging) for out number 1",3,2,,,1
+7,11,Jabari Henry,BOTTOM,"Ball, Ball, Called Strike, 4 Aaron Whitefield advances to 3rd (stolen base), Ball, 11 Jabari Henry advances to 1st (walk)",3,1,,,
+8,20,Mike Hart,BOTTOM,"Ball, Ball, Ball, 20 Mike Hart advances to 1st (walk), 11 Jabari Henry advances to 2nd (20)Pitching Substitution    25 Nolan LaMere subs for James Palmer Pitcher.",3,0,,,
+9,21,Darnell Sweeney,BOTTOM,"Foul, Ball, Foul, Foul, 21 Darnell Sweeney putout(strike out) for out number 2",1,2,,,1
+10,5,Trevor Achenbach,BOTTOM,"Ball, Ball, Called Strike, Ball, 5 Trevor Achenbach advances to 1st (walk), 20 Mike Hart advances to2nd (5), 11 Jabari Henry advances to 3rd (5), 4 Aaron Whitefield Scores Earned (5)",3,1,,,
+11,16,Hunter Clanin,BOTTOM,"Called Strike, Ball, Ball, Foul, 11 Jabari Henry Scores Earned (16), 20 Mike Hart Scores Earned (16), 5 Trevor Achenbach Scores Earned (16), 16 HunterClanin Scores Earned (home run)",2,2,1,,
+12,35,Shamoy Christopher,BOTTOM,"Foul, 35 Shamoy Christopher advances to 1st (single)",0,1,1,,
+13,0,Osvaldo Martinez,BOTTOM,"Ball, Called Strike, Ball, Ball, 0 Osvaldo Martinez advances to 1st (fielder's choice), 35 Shamoy Christopher putout (5-3) for out number 3",3,1,,,1
+14,4,Chris Burgess,TOP,"Called Strike, Ball, 4 Chris Burgess Scores Earned(home run)",1,1,1,,
+15,27,Hidekel Gonzalez,TOP,"Ball, Ball, Swinging Strike, Foul, 27 Hidekel Gonzalez putout (fly out to right field) for out number 1",2,2,,1,
+16,39,Tommy McCarthy,TOP,"Ball, Ball, Ball, Called Strike, 39 Tommy McCarthyadvances to 1st (walk)",3,1,,,
+17,19,Brynn Martinez,TOP,"Ball, Foul, Foul, 39 Tommy McCarthy advances to 2nd (19), 19 Brynn Martinez putout (4-3) for out number 2",1,2,,1,
+18,2,Tra Holmes,TOP,"Ball, Foul, Foul, Ball, Ball, Foul, 2 Tra Holmes putout (L4) for out number 3",3,2,,1,
+19,4,Aaron Whitefield,BOTTOM,"Called Strike, Foul, Ball, 4 Aaron Whitefield advances to 1st (hit by pitch)",1,2,,,
+20,3,Jordan Barth,BOTTOM,"Called Strike, Ball, 4 Aaron Whitefield advances to 2nd (stolen base), 3 Jordan Barth putout (P4) for out number 1",1,1,,,1
+21,11,Jabari Henry,BOTTOM,"Ball, Called Strike, 4 Aaron Whitefield advances to 3rd (stolen base), 4 Aaron Whitefield Scores Earned (11), 11 Jabari Henry putout (sacrifice fly toleft fielder) for out number 2Pitching Substitution    46 Taylor Lepard subs for Nolan LaMere Pitcher.",1,1,,,1
+22,20,Mike Hart,BOTTOM,"Foul, Foul, Ball, 20 Mike Hart putout (4-3) for out number 3",1,2,,,1
+23,8,Dayson Croes,TOP,"Ball, Ball, Called Strike, Ball, 8 Dayson Croes putout (1-3) for out number 1",3,1,,1,
+24,1,Andy Armstrong,TOP,"Called Strike, Called Strike, Ball, Foul, 1 Andy Armstrong putout (6-3) for out number 2",1,2,,1,
+25,13,Max Murphy,TOP,"Swinging Strike, Ball, Foul, Foul, Ball, Ball, 13Max Murphy putout (fly out to center field) for out number 3",3,2,,1,
+26,21,Darnell Sweeney,BOTTOM,"Ball, Ball, Ball, 21 Darnell Sweeney advances to 1st (walk)",3,0,,,
+27,5,Trevor Achenbach,BOTTOM,"Ball, Ball, Swinging Strike, 21 Darnell Sweeney putout (caught stealing: CS 2-6) for out number 1, Swinging Strike, 5 Trevor Achenbach putout (strikeout) for out number 2",2,2,,,1
+28,16,Hunter Clanin,BOTTOM,"Swinging Strike, Ball, Ball, Swinging Strike, Ball, Foul, Foul, 16 Hunter Clanin putout (fly out tocenter field) for out number 3",3,2,,,1
+29,14,Miles Simington,TOP,14 Miles Simington Scores Earned (home run),0,0,1,,
+30,4,Chris Burgess,TOP,"Ball, Ball, 4 Chris Burgess advances to 1st (single)",2,0,1,,
+31,27,Hidekel Gonzalez,TOP,"Called Strike, Ball, Called Strike, Foul, 27 Hidekel Gonzalez putout (strike out swinging) for out number 1",1,2,,1,
+32,39,Tommy McCarthy,TOP,"4 Chris Burgess putout (4-6) for out number 2, 39Tommy McCarthy putout (4-6-3 DP) for out number 3",0,0,,1,
+33,35,Shamoy Christopher,BOTTOM,"Ball, Ball, Ball, Called Strike, Foul, Foul, Foul,Foul, 35 Shamoy Christopher putout (strike out swinging) for out number 1",3,2,,,1
+34,0,Osvaldo Martinez,BOTTOM,"Called Strike, Foul, 0 Osvaldo Martinez putout (fly out to center field) for out number 2",0,2,,,1
+35,4,Aaron Whitefield,BOTTOM,"Called Strike, Ball, Ball, 4 Aaron Whitefield putout (fly out to center field) for out number 3",2,1,,,1
+36,19,Brynn Martinez,TOP,"Foul, 19 Brynn Martinez advances to 2nd (double)",0,1,1,,
+37,2,Tra Holmes,TOP,"2 Tra Holmes advances to 1st (single), 2 Tra Holmes advances to 2nd (2), 19 Brynn Martinez Scores Earned (2)",0,0,1,,
+38,8,Dayson Croes,TOP,"Ball, Ball, 2 Tra Holmes advances to 3rd (wild pitch), Foul, Swinging Strike, Foul, 8 Dayson Croes advances to 1st (single), 2 Tra Holmes Scores Earned (8)",2,2,1,,
+39,1,Andy Armstrong,TOP,"Called Strike, Ball, Foul, Ball, Foul, 1 Andy Armstrong advances to 1st (fielder's choice), 8 DaysonCroes putout (6-4) for out number 1",2,2,,1,
+40,13,Max Murphy,TOP,"Ball, 1 Andy Armstrong putout (4-6) for out number2, 13 Max Murphy putout (4-6-3 DP) for out number3",1,0,,1,
+41,3,Jordan Barth,BOTTOM,"Called Strike, Foul, Foul, Foul, Foul, 3 Jordan Barth advances to 1st (single)",0,2,1,,
+42,11,Jabari Henry,BOTTOM,"Swinging Strike, 11 Jabari Henry advances to 1st (single), 3 Jordan Barth advances to 2nd (11)",0,1,1,,
+43,20,Mike Hart,BOTTOM,20 Mike Hart putout (P6) for out number 1,0,0,,,1
+44,21,Darnell Sweeney,BOTTOM,"Swinging Strike, Foul, Ball, 21 Darnell Sweeney putout (strike out swinging) for out number 2",1,2,,,1
+45,5,Trevor Achenbach,BOTTOM,"Called Strike, Swinging Strike, Ball, 5 Trevor Achenbach putout (fly out to left field) for out number 3",1,2,,,1
+46,14,Miles Simington,TOP,"Foul, 14 Miles Simington putout (fly out to left field) for out number 1",0,1,,1,
+47,4,Chris Burgess,TOP,"Called Strike, Ball, Ball, 4 Chris Burgess advances to 1st (single)",2,1,1,,
+48,27,Hidekel Gonzalez,TOP,"Ball, 27 Hidekel Gonzalez putout (P3) for out number 2",1,0,,1,
+49,39,Tommy McCarthy,TOP,"Called Strike, Ball, 39 Tommy McCarthy advances to2nd (double), 4 Chris Burgess advances to 3rd (39)",1,1,1,,
+50,19,Brynn Martinez,TOP,"Called Strike, Swinging Strike, 19 Brynn Martinezputout (strike out swinging) for out number 3",0,2,,1,
+51,16,Hunter Clanin,BOTTOM,"Called Strike, Ball, Ball, 16 Hunter Clanin advances to 1st (single)",2,1,1,,
+52,35,Shamoy Christopher,BOTTOM,"Ball, Ball, 16 Hunter Clanin advances to 2nd (35),35 Shamoy Christopher putout (fly out to center field) for out number 1",2,0,,,1
+53,0,Osvaldo Martinez,BOTTOM,"Ball, Ball, Called Strike, Foul, Foul, 0 Osvaldo Martinez putout (6-3) for out number 2",2,2,,,1
+54,4,Aaron Whitefield,BOTTOM,"Called Strike, Swinging Strike, 4 Aaron Whitefieldputout (strike out swinging) for out number 3",0,2,,,1
+55,2,Tra Holmes,TOP,"Called Strike, 2 Tra Holmes putout (fly out to center field) for out number 1",0,1,,1,
+56,8,Dayson Croes,TOP,"Called Strike, 8 Dayson Croes putout (fly out to left field) for out number 2",0,1,,1,
+57,1,Andy Armstrong,TOP,"Called Strike, Called Strike, 1 Andy Armstrong putout (strike out swinging) for out number 3",0,2,,1,
+58,3,Jordan Barth,BOTTOM,"Called Strike, Ball, Foul, 3 Jordan Barth putout (strike out swinging) for out number 1",1,2,,,1
+59,11,Jabari Henry,BOTTOM,"Foul, 11 Jabari Henry putout (3U) for out number 2",0,1,,,1
+60,20,Mike Hart,BOTTOM,"Called Strike, Called Strike, Foul, Foul, 20 MikeHart putout (strike out swinging) for out number 3",0,2,,,1
+61,13,Max Murphy,TOP,"Ball, Swinging Strike, Ball, Swinging Strike, Ball, Foul, Foul, 13 Max Murphy putout (5-3) for out number 1",3,2,,1,
+62,14,Miles Simington,TOP,"Ball, Ball, Foul, Foul, Ball, Foul, 14 Miles Simington advances to 1st (walk)",3,2,,,
+63,4,Chris Burgess,TOP,4 Chris Burgess putout (fly out to right field) for out number 2,0,0,,1,
+64,27,Hidekel Gonzalez,TOP,"Swinging Strike, Swinging Strike, Foul, 27 HidekelGonzalez advances to 2nd (double), 14 Miles Simington advances to 3rd (27)Pitching Substitution    34 Charlie Hasty subs for Jose Cruz Pitcher.",0,2,1,,
+65,39,Tommy McCarthy,TOP,"Swinging Strike, Called Strike, Foul, 39 Tommy McCarthy putout (strike out swinging) for out number3",0,2,,1,
+66,21,Darnell Sweeney,BOTTOM,"Ball, Ball, Ball, 21 Darnell Sweeney advances to 1st (walk)",3,0,,,
+67,5,Trevor Achenbach,BOTTOM,"5 Trevor Achenbach advances to 1st (fielder's choice), 5 Trevor Achenbach advances to 2nd (error bythe second baseman), 21 Darnell Sweeney putout (6-4) for out number 1",0,0,,,1
+68,16,Hunter Clanin,BOTTOM,"16 Hunter Clanin advances to 2nd (double), 5 Trevor Achenbach Scores Unearned (16)",0,0,1,,
+69,35,Shamoy Christopher,BOTTOM,"Foul, Ball, Ball, Foul, Ball, 35 Shamoy Christopher putout (strike out swinging) for out number 2",3,2,,,1
+70,0,Osvaldo Martinez,BOTTOM,"Swinging Strike, Called Strike, 0 Osvaldo Martinezputout (5-3) for out number 3",0,2,,,1
+71,19,Brynn Martinez,TOP,"Swinging Strike, 19 Brynn Martinez advances to 1st(hit by pitch)",0,1,,,
+72,2,Tra Holmes,TOP,"Ball, Called Strike, 19 Brynn Martinez putout (4)for out number 1, 2 Tra Holmes putout (4-3 DP) forout number 2",1,1,,1,
+73,8,Dayson Croes,TOP,"Ball, Called Strike, Foul, Foul, 8 Dayson Croes advances to 1st (single)",1,2,1,,
+74,1,Andy Armstrong,TOP,"Swinging Strike, Foul, 1 Andy Armstrong putout (strike out swinging) for out number 3",0,2,,1,

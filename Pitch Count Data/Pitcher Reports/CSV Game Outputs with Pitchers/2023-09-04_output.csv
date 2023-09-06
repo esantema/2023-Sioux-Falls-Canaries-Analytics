@@ -1,0 +1,89 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM,Pitcher Top,Pitcher Bottom
+1,4,Aaron Whitefield,TOP,"Ball, Ball, Foul, 4 Aaron Whitefield putout (3U) for out number 1",2,1,,1,,M Ausua,
+2,3,Jordan Barth,TOP,3 Jordan Barth putout (fly out to right field) forout number 2,0,0,,1,,M Ausua,
+3,11,Jabari Henry,TOP,"Ball, Foul, 11 Jabari Henry putout (fly out to center field) for out number 3",1,1,,1,,M Ausua,
+4,2,Alex Jackson,BOTTOM,"Ball, Ball, Ball, 2 Alex Jackson advances to 1st (walk)",3,0,,,,,Angel Lebron
+5,3,Hill Alexander,BOTTOM,"Ball, Called Strike, 2 Alex Jackson putout (6-4) for out number 1, 3 Hill Alexander putout (6-4-3 DP) for out number 2",1,1,,,1,,Angel Lebron
+6,14,Zach Nehrir,BOTTOM,"Ball, Called Strike, Swinging Strike, Ball, 14 Zach Nehrir putout (strike out) for out number 3",2,2,,,1,,Angel Lebron
+7,20,Mike Hart,TOP,"Called Strike, 20 Mike Hart advances to 1st (single)",0,1,1,,,M Ausua,
+8,21,Darnell Sweeney,TOP,"Swinging Strike, 20 Mike Hart putout (6-4) for outnumber 1, 21 Darnell Sweeney putout (6-4-3 DP) for out number 2",0,1,,1,,M Ausua,
+9,5,Trevor Achenbach,TOP,"Ball, 5 Trevor Achenbach advances to 1st (single)",1,0,1,,,M Ausua,
+10,16,Hunter Clanin,TOP,"Ball, 16 Hunter Clanin putout (P4) for out number3",1,0,,1,,M Ausua,
+11,19,Bret Boswell,BOTTOM,"Foul, 19 Bret Boswell advances to 1st (single)",0,1,1,,,,Angel Lebron
+12,30,Jose Sermo,BOTTOM,"Called Strike, 19 Bret Boswell putout (5-4) for out number 1, 30 Jose Sermo putout (5-4-3 DP) for out number 2",0,1,,,1,,Angel Lebron
+13,24,Mark Karaviotis,BOTTOM,"Ball, Ball, Swinging Strike, Swinging Strike, Foul, Foul, Ball, 24 Mark Karaviotis advances to 1st (walk)",3,2,,,,,Angel Lebron
+14,11,J.J Figueroa,BOTTOM,"Ball, Foul, Ball, 11 J.J Figueroa advances to 2nd(double), 24 Mark Karaviotis Scores Earned (11)",2,1,1,,,,Angel Lebron
+15,13,Elmer Reyes,BOTTOM,"Ball, Foul, Ball, Foul, 13 Elmer Reyes putout (5-3) for out number 3",2,2,,,1,,Angel Lebron
+16,4,Blaze Brothers,TOP,"Called Strike, Ball, Foul, Foul, Ball, Foul",2,2,,,,M Ausua,
+17,29,Spencer Sarringar,TOP,"Foul, Foul, 29 Spencer Sarringar advances to 1st (hit by pitch)",0,2,,,,M Ausua,
+18,1,Wyatt Ulrich,TOP,"Foul, 1 Wyatt Ulrich advances to 2nd (ground ruledouble), 29 Spencer Sarringar advances to 3rd (1)",0,1,1,,,M Ausua,
+19,4,Aaron Whitefield,TOP,"Ball, Swinging Strike, 4 Aaron Whitefield advancesto 2nd (double), 29 Spencer Sarringar Scores Earned (4), 1 Wyatt Ulrich Scores Earned (4)",1,1,1,,,M Ausua,
+20,3,Jordan Barth,TOP,"Ball, 3 Jordan Barth putout (5-3) for out number 1",1,0,,1,,M Ausua,
+21,11,Jabari Henry,TOP,"Ball, Foul, Ball, 4 Aaron Whitefield advances to 3rd (stolen base), 4 Aaron Whitefield Scores Earned(11), 11 Jabari Henry putout (sacrifice fly to center fielder) for out number 2",2,1,,1,,M Ausua,
+22,20,Mike Hart,TOP,20 Mike Hart advances to 1st (single),0,0,1,,,M Ausua,
+23,21,Darnell Sweeney,TOP,"Swinging Strike, 21 Darnell Sweeney advances to 1st (single), 20 Mike Hart advances to 2nd (21)",0,1,1,,,M Ausua,
+24,5,Trevor Achenbach,TOP,"Foul, Ball, Ball, Swinging Strike, Ball, 5 TrevorAchenbach advances to 1st (walk), 21 Darnell Sweeney advances to 2nd (5), 20 Mike Hart advances to 3rd (5)",3,2,,,,M Ausua,
+25,16,Hunter Clanin,TOP,"Ball, Called Strike, Ball, 16 Hunter Clanin putout(fly out to left field) for out number 3",2,1,,1,,M Ausua,
+26,4,Blaze Brothers,BOTTOM,"Ball, Ball, Called Strike, 4 Blaze Brothers advances to 1st (single)",2,1,1,,,,Angel Lebron
+27,2,Alex Jackson,BOTTOM,2 Alex Jackson putout (fly out to right field) forout number 1,0,0,,,1,,Angel Lebron
+28,20,Brian Klein,BOTTOM,"Ball, 20 Brian Klein advances to 1st (single), 4 Blaze Brothers advances to 3rd (20)",1,0,1,,,,Angel Lebron
+29,14,Zach Nehrir,BOTTOM,"Foul, 14 Zach Nehrir advances to 1st (single), 20Brian Klein advances to 2nd (14), 4 Blaze BrothersScores Earned (14)",0,1,1,,,,Angel Lebron
+30,19,Bret Boswell,BOTTOM,"Ball, Foul, Called Strike, 14 Zach Nehrir advancesto 2nd (stolen base), 20 Brian Klein putout (caught stealing: CS 2-5) for out number 2, Ball, 19 Bret Boswell putout (P6) for out number 3",2,2,,,1,,Angel Lebron
+31,29,Spencer Sarringar,TOP,"Ball, Called Strike, Ball, Foul, 29 Spencer Sarringar advances to 2nd (double)",2,2,1,,,M Ausua,
+32,1,Wyatt Ulrich,TOP,"Ball, Called Strike, 29 Spencer Sarringar advancesto 3rd (1), 1 Wyatt Ulrich putout (4-3) for out number 1",1,1,,1,,M Ausua,
+33,4,Aaron Whitefield,TOP,"Swinging Strike, Called Strike, 4 Aaron Whitefieldputout (strike out swinging) for out number 2",0,2,,1,,M Ausua,
+34,3,Jordan Barth,TOP,"Called Strike, 3 Jordan Barth advances to 1st (single), 29 Spencer Sarringar Scores Earned (3)",0,1,1,,,M Ausua,
+35,11,Jabari Henry,TOP,"Ball, Ball, Called Strike, Swinging Strike, Ball,11 Jabari Henry putout (fly out to right field) for out number 3",3,2,,1,,B Bell,
+36,30,Jose Sermo,BOTTOM,"Ball, Ball, Foul, Foul, 30 Jose Sermo advances to1st (single)",2,2,1,,,,Angel Lebron
+37,24,Mark Karaviotis,BOTTOM,"Ball, 24 Mark Karaviotis advances to 1st (fielder's choice), 30 Jose Sermo putout (5-4) for out number 1",1,0,,,1,,Angel Lebron
+38,11,J.J Figueroa,BOTTOM,11 J.J Figueroa putout (P5) for out number 2,0,0,,,1,,Angel Lebron
+39,13,Elmer Reyes,BOTTOM,"Foul, Foul, Ball, 13 Elmer Reyes advances to 1st (fielder's choice), 24 Mark Karaviotis putout (6U)for out number 3",1,2,,,1,,Angel Lebron
+40,20,Mike Hart,TOP,20 Mike Hart putout (fly out to right field) for out number 1,0,0,,1,,B Bell,
+41,0,Osvaldo Martinez,TOP,"Called Strike, Foul, Foul, Foul, Foul, Ball, 0 Osvaldo Martinez putout (fly out to left field) for out number 2",1,2,,1,,B Bell,
+42,5,Trevor Achenbach,TOP,"Ball, Swinging Strike, Called Strike, Ball, Ball,Foul, 5 Trevor Achenbach advances to 1st (walk)",3,2,,,,B Bell,
+43,16,Hunter Clanin,TOP,"Ball, 16 Hunter Clanin putout (fly out to center field) for out number 3",1,0,,1,,B Bell,
+44,4,Blaze Brothers,BOTTOM,"Called Strike, Ball, Swinging Strike, 4 Blaze Brothers advances to 1st (hit by pitch)",1,2,,,,,Angel Lebron
+45,2,Alex Jackson,BOTTOM,"Ball, Called Strike, 2 Alex Jackson putout (fly out to center field) for out number 1",1,1,,,1,,Angel Lebron
+46,20,Brian Klein,BOTTOM,"Ball, 4 Blaze Brothers advances to 2nd (stolen base), Ball, Foul, Swinging Strike, Foul, Foul, 4 Blaze Brothers Scores Earned (error by the right fielder), 20 Brian Klein putout (fly out to right field) for out number 2",2,2,,,1,,Angel Lebron
+47,14,Zach Nehrir,BOTTOM,"Ball, Ball, 14 Zach Nehrir Scores Earned (home run)Pitching Substitution    99 Chris Hardin subs for Angel Lebron Pitcher.",2,0,1,,,,Angel Lebron
+48,19,Bret Boswell,BOTTOM,"Ball, Foul, 19 Bret Boswell putout (fly out to right field) for out number 3",1,1,,,1,,Chris Hardin
+49,29,Spencer Sarringar,TOP,29 Spencer Sarringar advances to 1st (hit by pitch),0,0,,,,B Bell,
+50,1,Wyatt Ulrich,TOP,"Ball, Ball, 29 Spencer Sarringar advances to 2nd (stolen base), Foul, Called Strike, Ball, 1 Wyatt Ulrich advances to 1st (single), 29 Spencer Sarringar Scores Earned (1)",3,2,1,,,B Bell,
+51,4,Aaron Whitefield,TOP,"Called Strike, Called Strike, 4 Aaron Whitefield putout (fly out to center field) for out number 1",0,2,,1,,B Bell,
+52,3,Jordan Barth,TOP,"Swinging Strike, Swinging Strike, 1 Wyatt Ulrich advances to 2nd (stolen base), Ball, 3 Jordan Barthadvances to 1st (single), 1 Wyatt Ulrich advancesto 3rd (3)",1,2,1,,,B Bell,
+53,11,Jabari Henry,TOP,"Ball, Ball, Ball, 11 Jabari Henry advances to 1st(walk), 3 Jordan Barth advances to 2nd (11)",3,0,,,,B Bell,
+54,20,Mike Hart,TOP,"Ball, Ball, Called Strike, Foul, Ball, 20 Mike Hart putout (P5) for out number 2",3,2,,1,,B Bell,
+55,0,Osvaldo Martinez,TOP,"Called Strike, Ball, Called Strike, Ball, Foul, 0Osvaldo Martinez advances to 1st (single), 11 Jabari Henry advances to 2nd (0), 3 Jordan Barth advances to 3rd (0), 1 Wyatt Ulrich Scores Unearned (0)",2,2,1,,,B Bell,
+56,5,Trevor Achenbach,TOP,"Ball, 5 Trevor Achenbach advances to 2nd (double),0 Osvaldo Martinez advances to 3rd (5), 3 JordanBarth Scores Unearned (5), 11 Jabari Henry ScoresUnearned (5)",1,0,1,,,B Bell,
+57,16,Hunter Clanin,TOP,"Ball, 16 Hunter Clanin advances to 1st (single), 5Trevor Achenbach advances to 3rd (16), 0 OsvaldoMartinez Scores Unearned (16)Pitching Substitution    31 Chandler Casey subs for Brendan Bell Pitcher.",1,0,1,,,C Casey,
+58,29,Spencer Sarringar,TOP,"Foul, Called Strike, 29 Spencer Sarringar putout (strike out) for out number 3",0,2,,1,,C Casey,
+59,30,Jose Sermo,BOTTOM,"Ball, Called Strike, Ball, 30 Jose Sermo Scores Earned (home run)",2,1,1,,,,Chris Hardin
+60,24,Mark Karaviotis,BOTTOM,"Ball, Called Strike, Ball, 24 Mark Karaviotis putout (fly out to left field) for out number 1",2,1,,,1,,Chris Hardin
+61,11,J.J Figueroa,BOTTOM,"Called Strike, Ball, Ball, Ball, Foul, 11 J.J Figueroa putout (strike out) for out number 2",3,2,,,1,,Chris Hardin
+62,13,Elmer Reyes,BOTTOM,"Called Strike, Ball, Swinging Strike, 13 Elmer Reyes putout (strike out) for out number 3",1,2,,,1,,Chris Hardin
+63,1,Wyatt Ulrich,TOP,"Called Strike, Called Strike, Ball, Ball, Foul, Ball, Foul, 1 Wyatt Ulrich putout (strike out) for out number 1",3,2,,1,,C Casey,
+64,4,Aaron Whitefield,TOP,"Called Strike, Called Strike, Ball, Foul, Ball, 4Aaron Whitefield advances to 1st (single)",2,2,1,,,C Casey,
+65,3,Jordan Barth,TOP,"Called Strike, 4 Aaron Whitefield putout (4-6) forout number 2, 3 Jordan Barth putout (4-6-3 DP) for out number 3",0,1,,1,,C Casey,
+66,4,Blaze Brothers,BOTTOM,"Ball, Called Strike, Ball, Swinging Strike, 4 Blaze Brothers putout (strike out) for out number 1",2,2,,,1,,Mitchell Walters
+67,2,Alex Jackson,BOTTOM,"Foul, Ball, Ball, Ball, 2 Alex Jackson advances to1st (walk)",3,1,,,,,Mitchell Walters
+68,20,Brian Klein,BOTTOM,"Foul, Ball, 2 Alex Jackson advances to 2nd (stolenbase), Swinging Strike, 20 Brian Klein putout (P5) for out number 2Offensive Substitution   29 Ryan Hernandez subs for Zach Nehrir.",1,2,,,1,,Mitchell Walters
+69,29,Ryan Hernandez,BOTTOM,"Ball, Called Strike, Ball, Ball, 29 Ryan Hernandezadvances to 1st (walk)",3,1,,,,,Mitchell Walters
+70,19,Bret Boswell,BOTTOM,"Foul, Foul, FoulPitching Substitution    13 Christian Johnson subs for Mitchell Walters Pitcher.",0,2,,,,,Christian Johnson
+71,19,Bret Boswell,BOTTOM,19 Bret Boswell putout (strike out) for out number3,0,0,,,1,,Jose Cruz
+72,11,Jabari Henry,TOP,"Foul, Ball, 11 Jabari Henry putout (fly out to left field) for out number 1",1,1,,1,,C Casey,
+73,20,Mike Hart,TOP,"Swinging Strike, 20 Mike Hart Scores Earned (homerun)",0,1,,,,C Casey,
+74,0,Osvaldo Martinez,TOP,"Ball, Ball, Called Strike, Called Strike, 0 Osvaldo Martinez putout (P3) for out number 2",2,2,,1,,C Casey,
+75,5,Trevor Achenbach,TOP,"Called Strike, Swinging Strike, Ball, Ball, Ball,5 Trevor Achenbach advances to 1st (walk)",3,2,,,,C Casey,
+76,16,Hunter Clanin,TOP,16 Hunter Clanin putout (5-4) for out number 3,0,0,,1,,M Krauza,
+77,30,Jose Sermo,BOTTOM,"Foul, Called Strike, 30 Jose Sermo advances to 2nd(double)",0,2,1,,,,Jose Cruz
+78,24,Mark Karaviotis,BOTTOM,"Called Strike, Ball, Ball, Foul, Foul, Foul, 24 Mark Karaviotis advances to 2nd (double), 30 Jose Sermo Scores Earned (24)",2,2,1,,,,Jose Cruz
+79,11,J.J Figueroa,BOTTOM,"Ball, Swinging Strike, Swinging Strike, Foul, 24 Mark Karaviotis advances to 3rd (11), 11 J.J Figueroa putout (fly out to center field) for out number1",1,2,,,1,,Jose Cruz
+80,13,Elmer Reyes,BOTTOM,"Ball, 13 Elmer Reyes putout (5-3) for out number 2",1,0,,,1,,Jose Cruz
+81,4,Blaze Brothers,BOTTOM,"Called Strike, 4 Blaze Brothers putout (6-3) for out number 3",0,1,,,1,,Charlie Hasty
+82,29,Spencer Sarringar,TOP,"Called Strike, Called Strike, Ball, 29 Spencer Sarringar putout (strike out) for out number 1",1,2,,1,,M Krauza,
+83,1,Wyatt Ulrich,TOP,1 Wyatt Ulrich putout (fly out to right field) forout number 2,0,0,,1,,M Krauza,
+84,4,Aaron Whitefield,TOP,"Ball, 4 Aaron Whitefield putout (fly out to centerfield) for out number 3",1,0,,1,,M Ausua,
+85,2,Alex Jackson,BOTTOM,"Called Strike, Foul, Foul, Ball, Ball, Foul, 2 Alex Jackson putout (strike out swinging) for out number 1",2,2,,,1,,Charlie Hasty
+86,20,Brian Klein,BOTTOM,"Ball, Swinging Strike, Swinging Strike, 20 Brian Klein putout (strike out swinging) for out number 2",1,2,,,1,,Charlie Hasty
+87,29,Ryan Hernandez,BOTTOM,"Ball, Swinging Strike, Swinging Strike, 29 Ryan Hernandez advances to 1st (single)",1,2,1,,,,Charlie Hasty
+88,19,Bret Boswell,BOTTOM,"Called Strike, Foul, Ball, Ball, 19 Bret Boswell advances to 1st (fielder's choice), 29 Ryan Hernandez putout (4-6) for out number 3",2,2,,,1,,Angel Lebron

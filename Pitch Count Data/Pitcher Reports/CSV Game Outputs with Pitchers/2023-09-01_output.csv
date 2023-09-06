@@ -1,0 +1,80 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM,Pitcher Top,Pitcher Bottom
+1,4,Aaron Whitefield,TOP,"Called Strike, Foul, Foul, Foul, Foul, Ball, Foul,4 Aaron Whitefield putout (strike out swinging) for out number 1",1,2,,1,,J Tripp,
+2,3,Jordan Barth,TOP,"Called Strike, 3 Jordan Barth putout (fly out to left field) for out number 2",0,1,,1,,J Tripp,
+3,11,Jabari Henry,TOP,"Called Strike, Ball, 11 Jabari Henry putout (3U) for out number 3",1,1,,1,,J Tripp,
+4,20,Brian Klein,BOTTOM,"Ball, 20 Brian Klein advances to 1st (single)",1,0,1,,,,Ty Culbreth
+5,14,Zach Nehrir,BOTTOM,"Swinging Strike, Swinging Strike, Ball, Ball, Foul, 14 Zach Nehrir advances to 1st (single), 20 Brian Klein advances to 2nd (14)",2,2,1,,,,Ty Culbreth
+6,3,Hill Alexander,BOTTOM,"Called Strike, 3 Hill Alexander putout (fly out toright field) for out number 1",0,1,,,1,,Ty Culbreth
+7,19,Bret Boswell,BOTTOM,"Ball, Swinging Strike, Ball, 20 Brian Klein advances to 3rd (19), 19 Bret Boswell putout (fly out tocenter field) for out number 2",2,1,,,1,,Ty Culbreth
+8,30,Jose Sermo,BOTTOM,"Ball, 30 Jose Sermo putout (4-3) for out number 3",1,0,,,1,,Ty Culbreth
+9,21,Darnell Sweeney,TOP,"Ball, Called Strike, 21 Darnell Sweeney putout (3U) for out number 1",1,1,,1,,J Tripp,
+10,5,Trevor Achenbach,TOP,"Called Strike, 5 Trevor Achenbach putout (fly outto center field) for out number 2",0,1,,1,,J Tripp,
+11,16,Hunter Clanin,TOP,"Called Strike, Swinging Strike, Foul, Ball, 16 Hunter Clanin putout (strike out swinging) for out number 3",1,2,,1,,J Tripp,
+12,29,Ryan Hernandez,BOTTOM,"Foul, Ball, Foul, Foul, Ball, Ball, 29 Ryan Hernandez advances to 1st (walk)",3,2,,,,,Ty Culbreth
+13,9,Guillermo Quintana,BOTTOM,"Ball, Swinging Strike, Foul, Foul, 9 Guillermo Quintana putout (strike out swinging) for out number1",1,2,,,1,,Ty Culbreth
+14,24,Mark Karaviotis,BOTTOM,"Swinging Strike, Called Strike, 24 Mark Karaviotisadvances to 1st (fielder's choice), 29 Ryan Hernandez putout (5-4) for out number 2",0,2,,,1,,Ty Culbreth
+15,4,Blaze Brothers,BOTTOM,"Called Strike, Swinging Strike, Ball, 4 Blaze Brothers putout (fly out to left field) for out number3",1,2,,,1,,Ty Culbreth
+16,15,Logan Eickhoff,TOP,"Called Strike, Swinging Strike, 15 Logan Eickhoffputout (strike out swinging) for out number 1",0,2,,1,,J Tripp,
+17,35,Shamoy Christopher,TOP,"Ball, Called Strike, Ball, Ball, Called Strike, 35Shamoy Christopher putout (strike out swinging) for out number 2",3,2,,1,,J Tripp,
+18,0,Osvaldo Martinez,TOP,"Called Strike, 0 Osvaldo Martinez putout (fly outto center field) for out number 3",0,1,,1,,J Tripp,
+19,20,Brian Klein,BOTTOM,"Called Strike, 20 Brian Klein putout (fly out to left field) for out number 1",0,1,,,1,,Ty Culbreth
+20,14,Zach Nehrir,BOTTOM,"Called Strike, Ball, Ball, 14 Zach Nehrir putout (5-3) for out number 2",2,1,,,1,,Ty Culbreth
+21,3,Hill Alexander,BOTTOM,3 Hill Alexander putout (fly out to left field) for out number 3,0,0,,,1,,Ty Culbreth
+22,4,Aaron Whitefield,TOP,"Called Strike, Called Strike, Ball, Ball, Foul, 4Aaron Whitefield putout (fly out to center field)for out number 1",2,2,,1,,J Tripp,
+23,3,Jordan Barth,TOP,"Ball, Ball, Ball, Called Strike, 3 Jordan Barth advances to 1st (single)",3,1,1,,,J Tripp,
+24,11,Jabari Henry,TOP,"Swinging Strike, Called Strike, 11 Jabari Henry advances to 1st (single), 3 Jordan Barth advances to2nd (11)",0,2,1,,,J Tripp,
+25,21,Darnell Sweeney,TOP,"Ball, 21 Darnell Sweeney putout (fly out to centerfield) for out number 2",1,0,,1,,J Tripp,
+26,5,Trevor Achenbach,TOP,"Ball, Foul, Foul, Foul, 5 Trevor Achenbach putout(fly out to left field) for out number 3",1,2,,1,,J Tripp,
+27,19,Bret Boswell,BOTTOM,"Foul, Ball, Called Strike, 19 Bret Boswell ScoresEarned (home run)",1,2,1,,,,Ty Culbreth
+28,30,Jose Sermo,BOTTOM,"30 Jose Sermo advances to 1st (single), 30 Jose Sermo putout (7-4) for out number 1",0,0,1,,1,,Ty Culbreth
+29,29,Ryan Hernandez,BOTTOM,"Ball, Ball, Ball, Called Strike, 29 Ryan Hernandezadvances to 1st (walk)",3,1,,,,,Ty Culbreth
+30,9,Guillermo Quintana,BOTTOM,"Swinging Strike, Swinging Strike, 9 Guillermo Quintana putout (strike out swinging) for out number 2",0,2,,,1,,Ty Culbreth
+31,24,Mark Karaviotis,BOTTOM,"Ball, Foul, Swinging Strike, Ball, 24 Mark Karaviotis advances to 1st (single), 29 Ryan Hernandez advances to 2nd (24)",2,2,1,,,,Ty Culbreth
+32,4,Blaze Brothers,BOTTOM,"Ball, 4 Blaze Brothers putout (fly out to left field) for out number 3",1,0,,,1,,Ty Culbreth
+33,16,Hunter Clanin,TOP,"Called Strike, Ball, Foul, Ball, 16 Hunter Claninputout (dropped 3rd strike: KS 2-3) for out number1",2,2,,1,,J Tripp,
+34,15,Logan Eickhoff,TOP,"Ball, 15 Logan Eickhoff putout (5-3) for out number 2",1,0,,1,,J Tripp,
+35,35,Shamoy Christopher,TOP,"Foul, Swinging Strike, Foul, Ball, Ball, Ball, Foul, 35 Shamoy Christopher advances to 1st (walk)",3,2,,,,J Tripp,
+36,0,Osvaldo Martinez,TOP,"Called Strike, 0 Osvaldo Martinez putout (4-3) forout number 3",0,1,,1,,J Tripp,
+37,20,Brian Klein,BOTTOM,"Ball, Ball, Called Strike, 20 Brian Klein putout (P6) for out number 1",2,1,,,1,,Ty Culbreth
+38,14,Zach Nehrir,BOTTOM,14 Zach Nehrir putout (fly out to right field) forout number 2,0,0,,,1,,Ty Culbreth
+39,3,Hill Alexander,BOTTOM,"Ball, Ball, Foul, Ball, 3 Hill Alexander advancesto 1st (single)",3,1,1,,,,Ty Culbreth
+40,19,Bret Boswell,BOTTOM,"Foul, Foul, Ball, Foul, 19 Bret Boswell advances to 1st (dropped 3rd strike), 3 Hill Alexander advances to 2nd (19)",1,2,,,,,Ty Culbreth
+41,30,Jose Sermo,BOTTOM,"Ball, Called Strike, Foul, Foul, Foul, 30 Jose Sermo putout (strike out) for out number 3",1,2,,,1,,Ty Culbreth
+42,4,Aaron Whitefield,TOP,"Ball, Ball, Ball, Called Strike, Foul, 4 Aaron Whitefield putout (strike out) for out number 1",3,2,,1,,J Tripp,
+43,3,Jordan Barth,TOP,"Foul, Called Strike, Ball, Ball, 3 Jordan Barth advances to 2nd (double)",2,2,1,,,J Tripp,
+44,11,Jabari Henry,TOP,"Ball, Swinging Strike, Ball, 3 Jordan Barth advances to 3rd (stolen base), Foul, Ball, Foul, 11 Jabari Henry advances to 1st (walk)",3,2,,,,J Tripp,
+45,21,Darnell Sweeney,TOP,"Ball, Foul, Ball, 11 Jabari Henry advances to 2nd(stolen base), Foul, Ball, 21 Darnell Sweeney advances to 1st (walk)",3,2,,,,J Tripp,
+46,5,Trevor Achenbach,TOP,"Swinging Strike, 5 Trevor Achenbach advances to 2nd (double), 3 Jordan Barth Scores Earned (5), 11 Jabari Henry Scores Earned (5), 21 Darnell SweeneyScores Earned (5)Pitching Substitution    36 Luke Boyd subs for Johnathon Tripp Pitcher.",0,1,1,,,J Tripp,
+47,16,Hunter Clanin,TOP,"Swinging Strike, Swinging Strike, 16 Hunter Claninputout (strike out swinging) for out number 2",0,2,,1,,L Boyd,
+48,15,Logan Eickhoff,TOP,"Ball, Ball, Ball, Called Strike, Swinging Strike,15 Logan Eickhoff putout (FO3) for out number 3",3,2,,1,,L Boyd,
+49,29,Ryan Hernandez,BOTTOM,"Ball, Foul, 29 Ryan Hernandez advances to 2nd (double)",1,1,1,,,,Ty Culbreth
+50,9,Guillermo Quintana,BOTTOM,"Ball, Foul, Called Strike, 9 Guillermo Quintana advances to 1st (single), 29 Ryan Hernandez advancesto 3rd (9)",1,2,1,,,,Ty Culbreth
+51,24,Mark Karaviotis,BOTTOM,24 Mark Karaviotis putout (fly out to right field)for out number 1,0,0,,,1,,Ty Culbreth
+52,4,Blaze Brothers,BOTTOM,"Ball, Called Strike, Called Strike, 4 Blaze Brothers putout (strike out swinging) for out number 2",1,2,,,1,,Ty Culbreth
+53,20,Brian Klein,BOTTOM,20 Brian Klein putout (P6) for out number 3,0,0,,,1,,Ty Culbreth
+54,35,Shamoy Christopher,TOP,"Ball, Foul, Ball, Swinging Strike, Foul, Foul, 35Shamoy Christopher putout (fly out to right field)for out number 1",2,2,,1,,L Boyd,
+55,0,Osvaldo Martinez,TOP,"Called Strike, Ball, Foul, 0 Osvaldo Martinez putout (fly out to left field) for out number 2",1,2,,1,,L Boyd,
+56,4,Aaron Whitefield,TOP,"Foul, Called Strike, Ball, 4 Aaron Whitefield putout (strike out swinging) for out number 3",1,2,,1,,L Boyd,
+57,14,Zach Nehrir,BOTTOM,"Ball, Ball, Ball, Called Strike, 14 Zach Nehrir advances to 1st (error by the second baseman)",3,1,,,,,Cole LaLonde
+58,3,Hill Alexander,BOTTOM,"Called Strike, Ball, Ball, Foul, 14 Zach Nehrir advances to 2nd (3), 3 Hill Alexander putout (6-3) for out number 1",2,2,,,1,,Cole LaLonde
+59,19,Bret Boswell,BOTTOM,"Swinging Strike, Swinging Strike, Foul, Ball, Ball, Ball, Foul, 19 Bret Boswell advances to 1st (walk)",3,2,,,,,Cole LaLonde
+60,30,Jose Sermo,BOTTOM,"Ball, Foul, Called Strike, 30 Jose Sermo putout (strike out swinging) for out number 2",1,2,,,1,,Cole LaLonde
+61,29,Ryan Hernandez,BOTTOM,"Foul, Ball, Ball, 29 Ryan Hernandez advances to 1st (single), 19 Bret Boswell advances to 2nd (29),14 Zach Nehrir Scores Unearned (29)",2,1,1,,,,Cole LaLonde
+62,9,Guillermo Quintana,BOTTOM,"Called Strike, Ball, Foul, Ball, Ball, 9 GuillermoQuintana putout (strike out swinging) for out number 3",3,2,,,1,,Cole LaLonde
+63,3,Jordan Barth,TOP,"Swinging Strike, Ball, Ball, Ball, 3 Jordan Barthadvances to 1st (walk)",3,1,,,,A Fairchild,
+64,11,Jabari Henry,TOP,"Called Strike, 11 Jabari Henry advances to 1st (single), 3 Jordan Barth advances to 2nd (11)",0,1,1,,,A Fairchild,
+65,21,Darnell Sweeney,TOP,"Foul, Ball, Ball, Foul, 21 Darnell Sweeney putout(strike out swinging) for out number 1",2,2,,1,,A Fairchild,
+66,5,Trevor Achenbach,TOP,"Ball, Ball, Called Strike, Foul, 5 Trevor Achenbach putout (fly out to center field) for out number2",2,2,,1,,A Fairchild,
+67,16,Hunter Clanin,TOP,"Ball, 11 Jabari Henry advances to 2nd (11), 3 Jordan Barth advances to 3rd (stolen base), 3 Jordan Barth Scores Earned (error by the pitcher), CalledStrike, Called Strike, Foul, 16 Hunter Clanin advances to 2nd (double), 11 Jabari Henry Scores Unearned (16)Pitching Substitution    16 Michael Krauza subs for Austin Fairchild Pitcher.",1,2,1,,,A Fairchild,
+68,15,Logan Eickhoff,TOP,"Ball, Called Strike, Called Strike, 15 Logan Eickhoff putout (P5) for out number 3",1,2,,1,,M Krauza,
+69,24,Mark Karaviotis,BOTTOM,"Ball, Ball, Called Strike, Ball, 24 Mark Karaviotis putout (5-3) for out number 1",3,1,,,1,,Christian Johnson
+70,4,Blaze Brothers,BOTTOM,4 Blaze Brothers putout (2-3) for out number 2,0,0,,,1,,Christian Johnson
+71,20,Brian Klein,BOTTOM,"Ball, Ball, Foul, 20 Brian Klein putout (fly out to left field) for out number 3",2,1,,,1,,Christian Johnson
+72,35,Shamoy Christopher,TOP,"Foul, Foul, Ball, Ball, 35 Shamoy Christopher putout (strike out swinging) for out number 1",2,2,,1,,M Krauza,
+73,0,Osvaldo Martinez,TOP,"Called Strike, Ball, 0 Osvaldo Martinez putout (FO3) for out number 2",1,1,,1,,M Krauza,
+74,4,Aaron Whitefield,TOP,"Called Strike, Foul, 4 Aaron Whitefield advances to 1st (single)",0,2,1,,,M Krauza,
+75,3,Jordan Barth,TOP,"3 Jordan Barth advances to 1st (fielder's choice),4 Aaron Whitefield putout (6-4) for out number 3",0,0,,1,,M Krauza,
+76,14,Zach Nehrir,BOTTOM,"Ball, 14 Zach Nehrir advances to 1st (single)",1,0,1,,,,Charlie Hasty
+77,3,Hill Alexander,BOTTOM,"Ball, Ball, Foul, Swinging Strike, Foul, 3 Hill Alexander putout (strike out swinging) for out number 1",2,2,,,1,,Charlie Hasty
+78,19,Bret Boswell,BOTTOM,"Called Strike, Swinging Strike, Foul, Foul, 19 Bret Boswell putout (P4) for out number 2",0,2,,,1,,Charlie Hasty
+79,30,Jose Sermo,BOTTOM,"Called Strike, Ball, Swinging Strike, 14 Zach Nehrir advances to 2nd (stolen base), Ball, Ball, Foul, Foul, 30 Jose Sermo putout (strike out) for outnumber 3",3,2,,,1,,Charlie Hasty

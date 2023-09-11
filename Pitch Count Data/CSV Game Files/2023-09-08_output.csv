@@ -1,0 +1,65 @@
+Index,Number,Name,Inning,Description,Balls,Strikes,Hits,Out # TOP,Out # BOTTOM
+1,4,Aaron Whitefield,TOP,"Ball, Called Strike, Foul, 4 Aaron Whitefield putout (fly out to center field) for out number 1",1,2,,1,
+2,3,Jordan Barth,TOP,"Called Strike, Swinging Strike, Foul, Foul, 3 Jordan Barth putout (strike out swinging) for out number 2",0,2,,1,
+3,11,Jabari Henry,TOP,"11 Jabari Henry advances to 1st (single), 11 Jabari Henry putout (7-4) for out number 3",0,0,1,1,
+4,9,Odubel Herrera,BOTTOM,"Called Strike, Foul, Ball, Foul, Ball, Ball, Foul,9 Odubel Herrera putout (4-3) for out number 1",3,2,,,1
+5,1,Justin Wylie,BOTTOM,1 Justin Wylie putout (P3) for out number 2,0,0,,,1
+6,7,Chris Herrmann,BOTTOM,"Ball, Called Strike, 7 Chris Herrmann putout (flyout to center field) for out number 3",1,1,,,1
+7,20,Mike Hart,TOP,20 Mike Hart putout (FF 5) for out number 1,0,0,,1,
+8,21,Darnell Sweeney,TOP,"Ball, Ball, Foul, Ball, 21 Darnell Sweeney putout(fly out to center field) for out number 2",3,1,,1,
+9,5,Trevor Achenbach,TOP,5 Trevor Achenbach advances to 1st (single),0,0,1,,
+10,16,Hunter Clanin,TOP,"Foul, Swinging Strike, Ball, Ball, 5 Trevor Achenbach advances to 2nd (stolen base), 5 Trevor Achenbach advances to 3rd (error by the catcher), 16 Hunter Clanin putout (strike out swinging) for out number 3",2,2,,1,
+11,10,Jan Hernandez,BOTTOM,"Ball, Foul, Ball, Ball, Called Strike, 10 Jan Hernandez putout (fly out to right field) for out number 1",3,2,,,1
+12,14,Micker Adolfo,BOTTOM,"Swinging Strike, 14 Micker Adolfo putout (L6) forout number 2",0,1,,,1
+13,16,Brian OGrady,BOTTOM,"Swinging Strike, Ball, Swinging Strike, 16 Brian OGrady putout (strike out swinging) for out number3",1,2,,,1
+14,29,Spencer Sarringar,TOP,"Swinging Strike, Called Strike, 29 Spencer Sarringar advances to 2nd (double)",0,2,1,,
+15,0,Osvaldo Martinez,TOP,"Foul, Ball, Ball, 0 Osvaldo Martinez advances to 1st (single), 29 Spencer Sarringar advances to 3rd(0)",2,1,1,,
+16,4,Aaron Whitefield,TOP,"Foul, Called Strike, Ball, Ball, 4 Aaron Whitefield putout (strike out swinging) for out number 1",2,2,,1,
+17,3,Jordan Barth,TOP,"Ball, Ball, Ball, Called Strike, Swinging Strike,Foul, 3 Jordan Barth putout (fly out to center field) for out number 2",3,2,,1,
+18,11,Jabari Henry,TOP,"Ball, Ball, Ball, Called Strike, Called Strike, Foul, Foul, 11 Jabari Henry putout (strike out swinging) for out number 3",3,2,,1,
+19,2,Taylor Snyder,BOTTOM,"Called Strike, 2 Taylor Snyder Scores Earned (homerun)",0,1,,,
+20,47,Jacob Robson,BOTTOM,"Ball, Called Strike, Called Strike, 47 Jacob Robson putout (strike out swinging) for out number 1",1,2,,,1
+21,4,L.J. Hatch,BOTTOM,"Called Strike, Foul, 4 L.J. Hatch putout (5-3) forout number 2",0,2,,,1
+22,9,Odubel Herrera,BOTTOM,"Called Strike, Called Strike, 9 Odubel Herrera putout (strike out) for out number 3",0,2,,,1
+23,20,Mike Hart,TOP,"Ball, Ball, Ball, Called Strike, Called Strike, 20Mike Hart putout (strike out swinging) for out number 1",3,2,,1,
+24,21,Darnell Sweeney,TOP,"Called Strike, Ball, Ball, Swinging Strike, Foul,21 Darnell Sweeney putout (strike out swinging) for out number 2",2,2,,1,
+25,5,Trevor Achenbach,TOP,5 Trevor Achenbach putout (P6) for out number 3,0,0,,1,
+26,1,Justin Wylie,BOTTOM,"Called Strike, Ball, Called Strike, Ball, Foul, Ball, 1 Justin Wylie putout (fly out to center field) for out number 1",3,2,,,1
+27,7,Chris Herrmann,BOTTOM,"Called Strike, Ball, Ball, Ball, 7 Chris Herrmannputout (fly out to center field) for out number 2",3,1,,,1
+28,10,Jan Hernandez,BOTTOM,"Foul, 10 Jan Hernandez putout (6-3) for out number3",0,1,,,1
+29,16,Hunter Clanin,TOP,"Ball, Called Strike, Foul, Foul, Ball, Ball, 16 Hunter Clanin putout (P6) for out number 1",3,2,,1,
+30,29,Spencer Sarringar,TOP,"Swinging Strike, Foul, Ball, Ball, 29 Spencer Sarringar putout (strike out swinging) for out number2",2,2,,1,
+31,0,Osvaldo Martinez,TOP,"Called Strike, Foul, Ball, 0 Osvaldo Martinez putout (strike out swinging) for out number 3",1,2,,1,
+32,14,Micker Adolfo,BOTTOM,"Ball, Ball, Ball, Called Strike, Foul, 14 Micker Adolfo putout (fly out to center field) for out number 1",3,2,,,1
+33,16,Brian OGrady,BOTTOM,"Ball, Ball, Foul, Ball, 16 Brian OGrady advances to 1st (walk)",3,1,,,
+34,2,Taylor Snyder,BOTTOM,"Ball, Foul, Ball, 2 Taylor Snyder putout (P4) forout number 2",2,1,,,1
+35,47,Jacob Robson,BOTTOM,"Foul, 16 Brian OGrady Scores Earned (47), 47 JacobRobson Scores Earned (home run)",0,1,1,,
+36,4,L.J. Hatch,BOTTOM,4 L.J. Hatch putout (5-3) for out number 3,0,0,,,1
+37,4,Aaron Whitefield,TOP,"Ball, Foul, 4 Aaron Whitefield putout (fly out toright field) for out number 1",1,1,,1,
+38,3,Jordan Barth,TOP,"Ball, Foul, Ball, Called Strike, 3 Jordan Barth putout (4-3) for out number 2",2,2,,1,
+39,11,Jabari Henry,TOP,"Ball, Called Strike, Called Strike, Ball, 11 Jabari Henry advances to 1st (single)",2,2,1,,
+40,20,Mike Hart,TOP,"Foul, Swinging Strike, 20 Mike Hart advances to 1st (single), 11 Jabari Henry advances to 2nd (20)",0,2,1,,
+41,21,Darnell Sweeney,TOP,"Called Strike, Ball, 21 Darnell Sweeney putout (fly out to left field) for out number 3",1,1,,1,
+42,9,Odubel Herrera,BOTTOM,"Called Strike, Foul, 9 Odubel Herrera putout (strike out swinging) for out number 1",0,2,,,1
+43,1,Justin Wylie,BOTTOM,"Swinging Strike, Swinging Strike, Ball, Ball, Foul, 1 Justin Wylie advances to 1st (single), 1 Justin Wylie putout (8-4) for out number 2",2,2,1,,1
+44,7,Chris Herrmann,BOTTOM,"Ball, Swinging Strike, Foul, Ball, 7 Chris Herrmann putout (4-3) for out number 3",2,2,,,1
+45,5,Trevor Achenbach,TOP,"Called Strike, Foul, 5 Trevor Achenbach putout (dropped 3rd strike: KS 2-3) for out number 1",0,2,,1,
+46,16,Hunter Clanin,TOP,"Foul, Swinging Strike, Ball, 16 Hunter Clanin advances to 1st (single)",1,2,1,,
+47,29,Spencer Sarringar,TOP,29 Spencer Sarringar putout (FF 2) for out number2,0,0,,1,
+48,0,Osvaldo Martinez,TOP,"Ball, Ball, Called Strike, Called Strike, 0 Osvaldo Martinez putout (dropped 3rd strike: KS 2-3) forout number 3",2,2,,1,
+49,10,Jan Hernandez,BOTTOM,"Foul, Ball, Ball, 10 Jan Hernandez putout (6-3) for out number 1",2,1,,,1
+50,14,Micker Adolfo,BOTTOM,"Called Strike, Called Strike, 14 Micker Adolfo Scores Earned (home run)",0,2,1,,
+51,16,Brian OGrady,BOTTOM,"Ball, Swinging Strike, 16 Brian OGrady advances to1st (single)",1,1,1,,
+52,2,Taylor Snyder,BOTTOM,"2 Taylor Snyder advances to 1st (single), 16 BrianOGrady advances to 2nd (2)",0,0,1,,
+53,47,Jacob Robson,BOTTOM,"Ball, Foul, Called Strike, Ball, 47 Jacob Robson putout (strike out swinging) for out number 2Pitching Substitution    34 Charlie Hasty subs for Brady Stover Pitcher.",2,2,,,1
+54,4,L.J. Hatch,BOTTOM,"Swinging Strike, Ball, Ball, Foul, Foul, Ball, Foul, 4 L.J. Hatch putout (strike out swinging) for out number 3",3,2,,,1
+55,4,Aaron Whitefield,TOP,"Ball, Swinging Strike, Ball, Foul, 4 Aaron Whitefield putout (strike out) for out number 1",2,2,,1,
+56,3,Jordan Barth,TOP,"Ball, Foul, Swinging Strike, 3 Jordan Barth putout(strike out swinging) for out number 2",1,2,,1,
+57,11,Jabari Henry,TOP,"Ball, Called Strike, Called Strike, 11 Jabari Henry putout (fly out to right field) for out number 3",1,2,,1,
+58,9,Odubel Herrera,BOTTOM,"Ball, Foul, Called Strike, 9 Odubel Herrera putout(fly out to center field) for out number 1",1,2,,,1
+59,1,Justin Wylie,BOTTOM,"Called Strike, Swinging Strike, Ball, Ball, Foul,Ball, 1 Justin Wylie advances to 1st (single)",3,2,1,,
+60,7,Chris Herrmann,BOTTOM,"7 Chris Herrmann advances to 1st (fielder's choice), 1 Justin Wylie putout (4-6) for out number 2",0,0,,,1
+61,10,Jan Hernandez,BOTTOM,"Ball, Foul, Ball, Foul, Foul, Foul, 10 Jan Hernandez putout (fly out to center field) for out number3",2,2,,,1
+62,20,Mike Hart,TOP,"Foul, Foul, 20 Mike Hart putout (3U) for out number 1",0,2,,1,
+63,21,Darnell Sweeney,TOP,"Called Strike, 21 Darnell Sweeney advances to 1st(single)",0,1,1,,
+64,5,Trevor Achenbach,TOP,"Foul, Foul, 21 Darnell Sweeney putout (6-4) for out number 2, 5 Trevor Achenbach putout (6-4-3 DP) for out number 3",0,2,,1,
